@@ -9,8 +9,8 @@ import { siteConfig } from './site';
 export const rustHeroVideo = {
 	src: '/videos/rust-hacks-hero-6s.mp4',
 	poster: '/images/rust-hacks-hero.webp',
-	title: 'IsleHacks hero background',
-	ariaLabel: 'IsleHacks gameplay background — short loop',
+	title: 'theislehacks hero background',
+	ariaLabel: 'theislehacks gameplay background — short loop',
 } as const;
 
 /**
@@ -22,9 +22,9 @@ export const rustVideo = {
 	src: '/videos/rust-hacks-hero-6s.mp4',
 	/** Distinct still — not the hero poster, so preview doesn't reuse the hero frame nearby. */
 	poster: '/images/rust-esp-hitbox.webp',
-	title: 'IsleHacks background video',
-	ariaLabel: 'IsleHacks gameplay preview — ESP and aimbot on PC',
-	caption: 'IsleHacks gameplay video with ESP and aimbot',
+	title: 'theislehacks background video',
+	ariaLabel: 'theislehacks gameplay preview — ESP and aimbot on PC',
+	caption: 'theislehacks gameplay video with ESP and aimbot',
 } as const;
 
 export const rustImages = {
@@ -100,7 +100,7 @@ export const rustImages = {
 	sitemap: [
 		{
 			src: '/images/rust-hacks-hero.webp',
-			title: 'IsleHacks | ESP & Aimbot',
+			title: 'theislehacks | ESP & Aimbot',
 			caption: 'The Isle cinematic island survival scene',
 		},
 		{

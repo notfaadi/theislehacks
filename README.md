@@ -1,6 +1,6 @@
-# IsleHacks — Marketing Site
+# theislehacks — Marketing Site
 
-Static Astro 7 site for [theislehacks.com](https://theislehacks.com). Primary SEO focus: **IsleHacks** (supporting: The Isle hacks, isle esp, isle aimbot).
+Static Astro 7 site for [theislehacks.com](https://theislehacks.com). Primary SEO focus: **theislehacks** (supporting: The Isle hacks, isle esp, isle aimbot).
 
 ## Stack
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * One-time migration: Fortnite Hacks site → IsleHacks.
+ * One-time migration: Fortnite Hacks site → theislehacks.
  * Run from project root: node scripts/adapt-rust.mjs
  */
 import { readFile, writeFile, readdir, rm, rename } from 'node:fs/promises';
@@ -78,8 +78,8 @@ const REPLACEMENTS = [
 	['reboot van rotations', 'monument rotations'],
 	['reboot van fight', 'oil rig fight'],
 	['reboot van', 'monument'],
-	['Fortnite Hacks', 'IsleHacks'],
-	['Fortnite hacks', 'IsleHacks'],
+	['Fortnite Hacks', 'theislehacks'],
+	['Fortnite hacks', 'theislehacks'],
 	['Fortnite Cheats', 'Rust Cheats'],
 	['Fortnite cheats', 'Rust cheats'],
 	['Fortnite cheat', 'Rust cheat'],
@@ -87,14 +87,14 @@ const REPLACEMENTS = [
 	['Fortnite ESP', 'Rust ESP'],
 	['Fortnite Intel', 'Rust Intel'],
 	['Fortnite', 'Rust'],
-	['fortnite hacks', 'IsleHacks'],
+	['fortnite hacks', 'theislehacks'],
 	['fortnite cheats', 'rust cheats'],
 	['fortnite cheat', 'rust cheat'],
 	['fortnite aimbot', 'rust aimbot'],
 	['fortnite esp', 'rust esp'],
 	['fortnite', 'rust'],
 	['FortniteCheatsSite', 'RustHacksSite'],
-	['Buy Fortnite Hacks', 'Buy IsleHacks'],
+	['Buy Fortnite Hacks', 'Buy theislehacks'],
 ];
 
 const TEXT_EXTENSIONS = new Set([
@@ -224,7 +224,7 @@ async function renameImages() {
 }
 
 async function main() {
-	console.log('Adapting Fortnite template → IsleHacks...\n');
+	console.log('Adapting Fortnite template → theislehacks...\n');
 	await renamePageDirs();
 	await renameDataFile();
 	await transformTextFiles();

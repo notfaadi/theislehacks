@@ -195,8 +195,8 @@ const manualPageSitemapEntries: { path: string; images: SitemapImage[] }[] = [
 	{
 		path: '/rust-hacks/',
 		images: [
-			img(rustImages.battleRoyaleCombat, 'IsleHacks 2026 | ESP & Aimbot', 'IsleHacks survival combat preview for undetected PC package'),
-			img(rustImages.espWallhack, 'IsleHacks ESP | Rust Cheats', 'IsleHacks ESP wallhack overlay for Rust'),
+			img(rustImages.battleRoyaleCombat, 'theislehacks 2026 | ESP & Aimbot', 'theislehacks survival combat preview for undetected PC package'),
+			img(rustImages.espWallhack, 'theislehacks ESP | Rust Cheats', 'theislehacks ESP wallhack overlay for Rust'),
 		],
 	},
 	{
