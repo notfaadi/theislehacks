@@ -21,17 +21,11 @@ const {
 	accent = ui.hero.accent,
 	subtitle = ui.hero.subtitle,
 	subtitleShort = ui.hero.subtitleShort,
-	heading = `${siteConfig.name} — ${accent}`,
 } = Astro.props;
 
-/**
- * Fortnite-style hero H1:
- * Line 1 = brand (Rust Hacks)
- * Line 2 = feature line (Undetected ESP, Aimbot & Wallhack)
- */
-const featureLine = heading.includes('—')
-	? heading.split('—').slice(1).join('—').trim()
-	: accent;
+/** Exact Fortnite-style H1 lines — never derive from page SEO h1. */
+const brandLine = siteConfig.name;
+const featureLine = accent;
 
 const buyUrl = siteConfig.checkoutUrl;
 const featuresUrl = getLocalizedPath('features', locale);
@@ -77,7 +71,7 @@ const featuresUrl = getLocalizedPath('features', locale);
 	<div class="hero__inner">
 		<div class="hero__copy">
 			<h1 class="hero__title">
-				<span class="hero__brand">{siteConfig.name}</span>
+				<span class="hero__brand">{brandLine}</span>
 				<span class="hero__features">{featureLine}</span>
 			</h1>
 			<p class="hero__subtitle hero__subtitle--full">{subtitle}</p>
@@ -196,15 +190,15 @@ const featuresUrl = getLocalizedPath('features', locale);
 	.hero__title {
 		margin: 0;
 		font-family: var(--font-display);
-		font-size: clamp(2.35rem, 5.4vw, 4.15rem);
+		font-size: clamp(1.85rem, 4.6vw, 3.75rem);
 		font-weight: 800;
-		line-height: 1.05;
-		letter-spacing: -0.035em;
+		line-height: 1.12;
+		letter-spacing: -0.03em;
 		color: #fff;
-		text-shadow: 0 10px 40px rgba(0, 0, 0, 0.55);
+		text-shadow: 0 8px 32px rgba(11, 13, 15, 0.7);
 		display: flex;
 		flex-direction: column;
-		gap: 0.12em;
+		gap: 0.15em;
 	}
 
 	.hero__brand,
@@ -213,7 +207,7 @@ const featuresUrl = getLocalizedPath('features', locale);
 	}
 
 	.hero__features {
-		max-width: 14ch;
+		max-width: 18ch;
 	}
 
 	.hero__subtitle {

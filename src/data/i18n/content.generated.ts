@@ -45,9 +45,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hero: {
 					accent: "Undetected ESP, Aimbot & Wallhack",
-					accentShort: "ESP & Aimbot",
+					accentShort: "Undetected ESP, Aimbot & Wallhack",
 					subtitle: "ESP wallhack, radar hack and Aimbot for Rust on Windows PC — EAC maintenance included.",
-					subtitleShort: "ESP, radar & Aimbot for Rust on PC",
+					subtitleShort: "ESP wallhack, radar hack and Aimbot for Rust on PC",
 					buyNow: "Buy Now",
 					seeFeatures: "See Features",
 				},

@@ -3,7 +3,7 @@
 export const uiStrings = {
 	en: {
 		nav: { home: 'Home', aimbot: 'Aimbot', esp: 'ESP', features: 'Features', pricing: 'Pricing', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Buy Now' },
-		hero: { accent: 'Undetected ESP, Aimbot & Wallhack', accentShort: 'ESP & Aimbot', subtitle: 'ESP wallhack, radar hack and Aimbot for Rust on Windows PC — EAC maintenance included.', subtitleShort: 'ESP, radar & Aimbot for Rust on PC', buyNow: 'Buy Now', seeFeatures: 'See Features' },
+		hero: { accent: 'Undetected ESP, Aimbot & Wallhack', accentShort: 'Undetected ESP, Aimbot & Wallhack', subtitle: 'ESP wallhack, radar hack and Aimbot for Rust on Windows PC — EAC maintenance included.', subtitleShort: 'ESP wallhack, radar hack and Aimbot for Rust on PC', buyNow: 'Buy Now', seeFeatures: 'See Features' },
 		trust: { status: 'Online', statusNote: 'Rust Hacks is live for Rust on Windows PC.', statusShort: 'Live', delivery: 'Instant digital delivery', platform: 'Windows 10 & 11', antiCheat: 'Easy Anti-Cheat supported', antiCheatShort: 'Easy Anti-Cheat (EAC) supported' },
 		product: { title: 'Rust Hacks', addToCart: 'Add to Cart', monthly: 'Monthly', lifetime: 'Lifetime', available: 'Available now', gameBadge: 'Rust', platformBadge: 'Windows PC', statusBadge: 'Maintained package' },
 		reviews: { title: 'What players say', subtitle: 'Recent feedback from Rust Hacks buyers', outOf: 'out of 5', countLabel: 'reviews' },
