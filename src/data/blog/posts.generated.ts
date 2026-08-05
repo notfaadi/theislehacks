@@ -444,7 +444,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Hacks vs cheats wording",
 				paragraphs: [
-					"IsleCheat and rust cheats describe the same product category for most searchers. We lead with hacks on islecheat.net while keeping cheats pages for buyers who use that query.",
+					"IsleCheat and The Isle cheats describe the same product for most searchers. We lead with IsleCheat / theislecheats on theislehacks.com while keeping cheats pages for buyers who use that query.",
 					"Balance and anti-cheat reality still come from <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust</a>. Product rebuild timing is on our <a href=\"/updates/\">Updates</a> page.",
 				],
 			},

@@ -1,22 +1,22 @@
 /**
  * Site-wide SEO keyword cluster — keep this tight and single-intent.
- * Product angle: IsleCheat for The Isle on Windows PC.
+ * Brand queries: IsleCheat / theislecheats / The Isle cheats.
  */
 export const primaryKeyword = 'IsleCheat';
 
 /** ~7 phrases max — no synonym stuffing. */
 export const metaKeywords = [
 	'IsleCheat',
-	'isle cheats',
+	'theislecheats',
 	'the isle cheats',
+	'isle cheats',
 	'isle esp',
 	'isle aimbot',
-	'undetected IsleCheat',
 	'isle wallhack',
 ] as const;
 
 export const metaKeywordsContent = metaKeywords.join(', ');
 
-export const defaultTitle = 'IsleCheat 2026 | Undetected ESP & Aimbot for The Isle';
+export const defaultTitle = 'IsleCheat (theislecheats) | The Isle Cheats 2026';
 export const defaultDescription =
-	'Undetected IsleCheat for The Isle: ESP, aimbot and wallhack on Windows PC. Instant delivery — pick $35/mo or $150 lifetime and start today.';
+	'IsleCheat — also known as theislecheats / The Isle cheats. Undetected ESP, aimbot & wallhack for The Isle on Windows PC. $35/mo or $150 lifetime.';

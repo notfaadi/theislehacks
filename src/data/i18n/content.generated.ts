@@ -103,10 +103,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			},
 			pages: {
 				home: {
-					title: "IsleCheat 2026 | Undetected ESP & Aimbot for The Isle",
-					description: "Undetected IsleCheat for The Isle: ESP, aimbot and wallhack on Windows PC. Instant delivery — pick $35/mo or $150 lifetime and start today.",
-					h1: "IsleCheat — ESP, Aimbot & Wallhack for The Isle",
-					intro: "A focused Windows PC package for The Isle: player ESP, aimbot controls, and wallhack overlays built for hunt pressure and survival fights.",
+					title: "IsleCheat (theislecheats) | The Isle Cheats 2026",
+					description: "IsleCheat — also known as theislecheats / The Isle cheats. Undetected ESP, aimbot & wallhack for The Isle on Windows PC. $35/mo or $150 lifetime.",
+					h1: "IsleCheat — The Isle Cheats with ESP, Aimbot & Wallhack",
+					intro: "Looking for theislecheats? IsleCheat is the Windows PC package for The Isle cheats: player ESP, aimbot controls, and wallhack overlays built for hunt pressure and survival fights.",
 					imageAlt: "IsleCheat aimbot holographic sight with ESP skeleton and red head lock",
 					galleryTitle: "IsleCheat visuals",
 					ctaPrimary: "Buy IsleCheat",
@@ -269,7 +269,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Licensing, delivery, and EAC maintenance",
 							paragraphs: [
 								"Monthly ($35) and lifetime ($150) licenses with instant digital delivery. EAC maintenance rebuilds publish on the <a href=\"/updates/\">Updates page</a> after anti-cheat or game patches.",
-								"Monitor <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust</a> on patch days, then confirm rebuild notes before you queue. Setup and billing help lives on <a href=\"/support/\">Support</a> and support@islecheat.net.",
+								"Monitor <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust</a> on patch days, then confirm rebuild notes before you queue. Setup and billing help lives on <a href=\"/support/\">Support</a> and support@theislehacks.com.",
 								"Next step: compare plans on <a href=\"/pricing/\">Pricing</a> or read <a href=\"/undetected-rust-cheats/\">how undetected maintenance works</a>.",
 							],
 						},
@@ -421,7 +421,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Delivery, pricing, and support",
 							paragraphs: [
 								"Licenses deliver digitally after payment confirmation. Monthly is $35; lifetime is $150 USD — see <a href=\"/pricing/\">Pricing</a>.",
-								"Contact support@islecheat.net or the <a href=\"/support/\">Support page</a> with order details for setup or billing help. First launch steps are on <a href=\"/setup/\">Setup</a>.",
+								"Contact support@theislehacks.com or the <a href=\"/support/\">Support page</a> with order details for setup or billing help. First launch steps are on <a href=\"/setup/\">Setup</a>.",
 								"Refund eligibility is covered in the <a href=\"/refund-policy/\">Refund Policy</a>.",
 							],
 						},
@@ -459,7 +459,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Self-service resources",
 							paragraphs: [
 								"Setup guide, Features list, Updates log, Refund Policy, and Terms of Use are linked from the footer. EAC bypass notes live on the dedicated <a href=\"/eac-bypass-rust/\">Easy Anti-Cheat page</a>.",
-								"Email: support@islecheat.net",
+								"Email: support@theislehacks.com",
 								"Ready to purchase or renew? Open <a href=\"/pricing/\">Pricing</a>. Need feature detail first? See <a href=\"/features/\">Features</a>.",
 							],
 						},
@@ -650,7 +650,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"Read the <a href=\"/rust-hacks/\">IsleCheat</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.",
 								"Also compare the <a href=\"/best-rust-cheats/\">best Rust cheats</a> checklist, <a href=\"/blog/rust-cheats-2026-whats-new/\">2026 blog guide</a>, and <a href=\"/faq/\">FAQ</a>.",
-								"Support is available at support@islecheat.net via the <a href=\"/support/\">Support page</a>.",
+								"Support is available at support@theislehacks.com via the <a href=\"/support/\">Support page</a>.",
 							],
 						},
 					],
@@ -1001,8 +1001,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your choices and contact",
 							paragraphs: [
-								"You may request correction or deletion of support email data by contacting support@islecheat.net with your request details.",
-								"Policy updates publish on this page. Continued use of islecheat.net after updates means you accept the revised policy. Also see <a href=\"/terms/\">Terms of Use</a> and <a href=\"/refund-policy/\">Refund Policy</a>.",
+								"You may request correction or deletion of support email data by contacting support@theislehacks.com with your request details.",
+								"Policy updates publish on this page. Continued use of theislehacks.com after updates means you accept the revised policy. Also see <a href=\"/terms/\">Terms of Use</a> and <a href=\"/refund-policy/\">Refund Policy</a>.",
 							],
 						},
 					],
@@ -1036,7 +1036,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request a refund",
 							paragraphs: [
-								"Email support@islecheat.net with subject \"Refund Request\", your order ID, purchase date, and issue summary — or use the <a href=\"/support/\">Support page</a>.",
+								"Email support@theislehacks.com with subject \"Refund Request\", your order ID, purchase date, and issue summary — or use the <a href=\"/support/\">Support page</a>.",
 								"Approved refunds process back to the original payment method when possible. Pricing details live on <a href=\"/pricing/\">Pricing</a>.",
 							],
 						},
@@ -1072,7 +1072,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Changes and governing law",
 							paragraphs: [
 								"We may update these terms by posting revisions on this page. Continued use after changes constitutes acceptance.",
-								"Contact support@islecheat.net for questions. Related policies: <a href=\"/privacy-policy/\">Privacy</a> and <a href=\"/refund-policy/\">Refunds</a>.",
+								"Contact support@theislehacks.com for questions. Related policies: <a href=\"/privacy-policy/\">Privacy</a> and <a href=\"/refund-policy/\">Refunds</a>.",
 							],
 						},
 					],
@@ -1919,7 +1919,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Política de privacidad | IsleCheat",
 					description: "Política de privacidad for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Política de privacidad",
-					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Política de privacidad for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Política de privacidad for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -1931,7 +1931,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Información que recopilamos",
 							paragraphs: [
 								"Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -1944,8 +1944,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Tus derechos",
 							paragraphs: [
-								"Contacta support@islecheat.net para solicitudes legales o de soporte.",
-								"Email: support@islecheat.net",
+								"Contacta support@theislehacks.com para solicitudes legales o de soporte.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -1954,7 +1954,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Política de reembolso | IsleCheat",
 					description: "Política de reembolso for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Política de reembolso",
-					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Política de reembolso for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Política de reembolso for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -1979,8 +1979,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cómo solicitar",
 							paragraphs: [
-								"Contacta support@islecheat.net para solicitudes legales o de soporte.",
-								"Email: support@islecheat.net",
+								"Contacta support@theislehacks.com para solicitudes legales o de soporte.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -1989,7 +1989,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Términos de uso | IsleCheat",
 					description: "Términos de uso for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Términos de uso",
-					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Términos de uso for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Términos de uso for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -2014,8 +2014,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Cambios",
 							paragraphs: [
-								"Contacta support@islecheat.net para solicitudes legales o de soporte.",
-								"Email: support@islecheat.net",
+								"Contacta support@theislehacks.com para solicitudes legales o de soporte.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -2861,7 +2861,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Politique de confidentialité | IsleCheat",
 					description: "Politique de confidentialité for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Politique de confidentialité",
-					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Politique de confidentialité for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Politique de confidentialité for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -2873,7 +2873,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Informations collectées",
 							paragraphs: [
 								"Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -2886,8 +2886,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Vos droits",
 							paragraphs: [
-								"Contactez support@islecheat.net pour le support ou les demandes légales.",
-								"Email: support@islecheat.net",
+								"Contactez support@theislehacks.com pour le support ou les demandes légales.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -2896,7 +2896,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Politique de remboursement | IsleCheat",
 					description: "Politique de remboursement for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Politique de remboursement",
-					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Politique de remboursement for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Politique de remboursement for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -2921,8 +2921,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Comment demander",
 							paragraphs: [
-								"Contactez support@islecheat.net pour le support ou les demandes légales.",
-								"Email: support@islecheat.net",
+								"Contactez support@theislehacks.com pour le support ou les demandes légales.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -2931,7 +2931,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Conditions d'utilisation | IsleCheat",
 					description: "Conditions d'utilisation for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Conditions d'utilisation",
-					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Conditions d'utilisation for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Conditions d'utilisation for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -2956,8 +2956,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Modifications",
 							paragraphs: [
-								"Contactez support@islecheat.net pour le support ou les demandes légales.",
-								"Email: support@islecheat.net",
+								"Contactez support@theislehacks.com pour le support ou les demandes légales.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -3803,7 +3803,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Datenschutz | IsleCheat",
 					description: "Datenschutz for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Datenschutz",
-					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Datenschutz for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Datenschutz for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -3815,7 +3815,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Erhobene Daten",
 							paragraphs: [
 								"Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -3828,8 +3828,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Ihre Rechte",
 							paragraphs: [
-								"support@islecheat.net für Support und rechtliche Anfragen.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com für Support und rechtliche Anfragen.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -3838,7 +3838,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Rückerstattung | IsleCheat",
 					description: "Rückerstattung for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Rückerstattung",
-					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rückerstattung for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rückerstattung for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -3863,8 +3863,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Anfrage stellen",
 							paragraphs: [
-								"support@islecheat.net für Support und rechtliche Anfragen.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com für Support und rechtliche Anfragen.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -3873,7 +3873,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Nutzungsbedingungen | IsleCheat",
 					description: "Nutzungsbedingungen for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Nutzungsbedingungen",
-					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Nutzungsbedingungen for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Nutzungsbedingungen for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -3898,8 +3898,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Änderungen",
 							paragraphs: [
-								"support@islecheat.net für Support und rechtliche Anfragen.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com für Support und rechtliche Anfragen.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -4745,7 +4745,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Política de privacidade | IsleCheat",
 					description: "Política de privacidade for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Política de privacidade",
-					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Política de privacidade for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Política de privacidade for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -4757,7 +4757,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -4770,8 +4770,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"Contacte support@islecheat.net para suporte ou questões legais.",
-								"Email: support@islecheat.net",
+								"Contacte support@theislehacks.com para suporte ou questões legais.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -4780,7 +4780,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Política de reembolso | IsleCheat",
 					description: "Política de reembolso for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Política de reembolso",
-					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Política de reembolso for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Política de reembolso for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -4805,8 +4805,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"Contacte support@islecheat.net para suporte ou questões legais.",
-								"Email: support@islecheat.net",
+								"Contacte support@theislehacks.com para suporte ou questões legais.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -4815,7 +4815,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Termos de uso | IsleCheat",
 					description: "Termos de uso for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Termos de uso",
-					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Termos de uso for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Termos de uso for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -4840,8 +4840,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"Contacte support@islecheat.net para suporte ou questões legais.",
-								"Email: support@islecheat.net",
+								"Contacte support@theislehacks.com para suporte ou questões legais.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -5687,7 +5687,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Informativa privacy | IsleCheat",
 					description: "Informativa privacy for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Informativa privacy",
-					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Informativa privacy for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Informativa privacy for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -5699,7 +5699,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -5712,8 +5712,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"Contatta support@islecheat.net per supporto o richieste legali.",
-								"Email: support@islecheat.net",
+								"Contatta support@theislehacks.com per supporto o richieste legali.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -5722,7 +5722,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Politica di rimborso | IsleCheat",
 					description: "Politica di rimborso for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Politica di rimborso",
-					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Politica di rimborso for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Politica di rimborso for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -5747,8 +5747,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"Contatta support@islecheat.net per supporto o richieste legali.",
-								"Email: support@islecheat.net",
+								"Contatta support@theislehacks.com per supporto o richieste legali.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -5757,7 +5757,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Termini di utilizzo | IsleCheat",
 					description: "Termini di utilizzo for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Termini di utilizzo",
-					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Termini di utilizzo for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Termini di utilizzo for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -5782,8 +5782,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"Contatta support@islecheat.net per supporto o richieste legali.",
-								"Email: support@islecheat.net",
+								"Contatta support@theislehacks.com per supporto o richieste legali.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -6629,7 +6629,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Privacybeleid | IsleCheat",
 					description: "Privacybeleid for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Privacybeleid",
-					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Privacybeleid for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Privacybeleid for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -6641,7 +6641,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -6654,8 +6654,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"support@islecheat.net voor support en juridische vragen.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com voor support en juridische vragen.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -6664,7 +6664,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Restitutiebeleid | IsleCheat",
 					description: "Restitutiebeleid for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Restitutiebeleid",
-					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Restitutiebeleid for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Restitutiebeleid for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -6689,8 +6689,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"support@islecheat.net voor support en juridische vragen.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com voor support en juridische vragen.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -6699,7 +6699,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Gebruiksvoorwaarden | IsleCheat",
 					description: "Gebruiksvoorwaarden for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Gebruiksvoorwaarden",
-					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Gebruiksvoorwaarden for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Gebruiksvoorwaarden for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -6724,8 +6724,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"support@islecheat.net voor support en juridische vragen.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com voor support en juridische vragen.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -7571,7 +7571,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Polityka prywatności | IsleCheat",
 					description: "Polityka prywatności for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Polityka prywatności",
-					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Polityka prywatności for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Polityka prywatności for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -7583,7 +7583,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -7596,8 +7596,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"support@islecheat.net w sprawach wsparcia i prawnych.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com w sprawach wsparcia i prawnych.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -7606,7 +7606,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Polityka zwrotów | IsleCheat",
 					description: "Polityka zwrotów for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Polityka zwrotów",
-					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Polityka zwrotów for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Polityka zwrotów for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -7631,8 +7631,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"support@islecheat.net w sprawach wsparcia i prawnych.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com w sprawach wsparcia i prawnych.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -7641,7 +7641,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Warunki użytkowania | IsleCheat",
 					description: "Warunki użytkowania for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Warunki użytkowania",
-					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Warunki użytkowania for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Warunki użytkowania for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -7666,8 +7666,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"support@islecheat.net w sprawach wsparcia i prawnych.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com w sprawach wsparcia i prawnych.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -8513,7 +8513,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Политика конфиденциальности | IsleCheat",
 					description: "Политика конфиденциальности for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Политика конфиденциальности",
-					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Политика конфиденциальности for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Политика конфиденциальности for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -8525,7 +8525,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -8538,8 +8538,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"support@islecheat.net для поддержки и юридических вопросов.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com для поддержки и юридических вопросов.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -8548,7 +8548,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Политика возврата | IsleCheat",
 					description: "Политика возврата for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Политика возврата",
-					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Политика возврата for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Политика возврата for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -8573,8 +8573,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"support@islecheat.net для поддержки и юридических вопросов.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com для поддержки и юридических вопросов.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -8583,7 +8583,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Условия использования | IsleCheat",
 					description: "Условия использования for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Условия использования",
-					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Условия использования for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Условия использования for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -8608,8 +8608,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"support@islecheat.net для поддержки и юридических вопросов.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com для поддержки и юридических вопросов.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -9455,7 +9455,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Gizlilik politikası | IsleCheat",
 					description: "Gizlilik politikası for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Gizlilik politikası",
-					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Gizlilik politikası for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Gizlilik politikası for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -9467,7 +9467,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -9480,8 +9480,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"Destek ve yasal sorular için support@islecheat.net.",
-								"Email: support@islecheat.net",
+								"Destek ve yasal sorular için support@theislehacks.com.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -9490,7 +9490,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "İade politikası | IsleCheat",
 					description: "İade politikası for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "İade politikası",
-					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. İade politikası for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. İade politikası for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -9515,8 +9515,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"Destek ve yasal sorular için support@islecheat.net.",
-								"Email: support@islecheat.net",
+								"Destek ve yasal sorular için support@theislehacks.com.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -9525,7 +9525,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Kullanım şartları | IsleCheat",
 					description: "Kullanım şartları for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Kullanım şartları",
-					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Kullanım şartları for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Kullanım şartları for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -9550,8 +9550,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"Destek ve yasal sorular için support@islecheat.net.",
-								"Email: support@islecheat.net",
+								"Destek ve yasal sorular için support@theislehacks.com.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -10397,7 +10397,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "سياسة الخصوصية | IsleCheat",
 					description: "سياسة الخصوصية for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "سياسة الخصوصية",
-					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. سياسة الخصوصية for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. سياسة الخصوصية for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -10409,7 +10409,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "المعلومات التي نجمعها",
 							paragraphs: [
 								"Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -10422,8 +10422,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "حقوقك",
 							paragraphs: [
-								"support@islecheat.net للدعم والطلبات القانونية.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com للدعم والطلبات القانونية.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -10432,7 +10432,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "سياسة الاسترداد | IsleCheat",
 					description: "سياسة الاسترداد for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "سياسة الاسترداد",
-					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. سياسة الاسترداد for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. سياسة الاسترداد for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -10457,8 +10457,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "كيفية الطلب",
 							paragraphs: [
-								"support@islecheat.net للدعم والطلبات القانونية.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com للدعم والطلبات القانونية.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -10467,7 +10467,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "شروط الاستخدام | IsleCheat",
 					description: "شروط الاستخدام for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "شروط الاستخدام",
-					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. شروط الاستخدام for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. شروط الاستخدام for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -10492,8 +10492,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "التغييرات",
 							paragraphs: [
-								"support@islecheat.net للدعم والطلبات القانونية.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com للدعم والطلبات القانونية.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -11339,7 +11339,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "プライバシーポリシー | IsleCheat",
 					description: "プライバシーポリシー for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "プライバシーポリシー",
-					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。プライバシーポリシー for islecheat.net and Rust licenses.",
+					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。プライバシーポリシー for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -11351,7 +11351,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "収集する情報",
 							paragraphs: [
 								"Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -11364,8 +11364,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "あなたの権利",
 							paragraphs: [
-								"サポート・法務: support@islecheat.net",
-								"Email: support@islecheat.net",
+								"サポート・法務: support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -11374,7 +11374,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "返金ポリシー | IsleCheat",
 					description: "返金ポリシー for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "返金ポリシー",
-					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。返金ポリシー for islecheat.net and Rust licenses.",
+					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。返金ポリシー for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -11399,8 +11399,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "申請方法",
 							paragraphs: [
-								"サポート・法務: support@islecheat.net",
-								"Email: support@islecheat.net",
+								"サポート・法務: support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -11409,7 +11409,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "利用規約 | IsleCheat",
 					description: "利用規約 for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "利用規約",
-					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。利用規約 for islecheat.net and Rust licenses.",
+					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。利用規約 for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -11434,8 +11434,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "変更",
 							paragraphs: [
-								"サポート・法務: support@islecheat.net",
-								"Email: support@islecheat.net",
+								"サポート・法務: support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -12281,7 +12281,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "개인정보 처리방침 | IsleCheat",
 					description: "개인정보 처리방침 for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "개인정보 처리방침",
-					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 개인정보 처리방침 for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 개인정보 처리방침 for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -12293,7 +12293,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -12306,8 +12306,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"지원 및 법무: support@islecheat.net",
-								"Email: support@islecheat.net",
+								"지원 및 법무: support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -12316,7 +12316,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "환불 정책 | IsleCheat",
 					description: "환불 정책 for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "환불 정책",
-					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 환불 정책 for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 환불 정책 for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -12341,8 +12341,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"지원 및 법무: support@islecheat.net",
-								"Email: support@islecheat.net",
+								"지원 및 법무: support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -12351,7 +12351,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "이용 약관 | IsleCheat",
 					description: "이용 약관 for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "이용 약관",
-					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 이용 약관 for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 이용 약관 for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -12376,8 +12376,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"지원 및 법무: support@islecheat.net",
-								"Email: support@islecheat.net",
+								"지원 및 법무: support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -13223,7 +13223,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "隐私政策 | IsleCheat",
 					description: "隐私政策 for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "隐私政策",
-					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。隐私政策 for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。隐私政策 for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -13235,7 +13235,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -13248,8 +13248,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"支持与法务：support@islecheat.net",
-								"Email: support@islecheat.net",
+								"支持与法务：support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -13258,7 +13258,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "退款政策 | IsleCheat",
 					description: "退款政策 for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "退款政策",
-					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。退款政策 for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。退款政策 for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -13283,8 +13283,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"支持与法务：support@islecheat.net",
-								"Email: support@islecheat.net",
+								"支持与法务：support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -13293,7 +13293,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "使用条款 | IsleCheat",
 					description: "使用条款 for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "使用条款",
-					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。使用条款 for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。使用条款 for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -13318,8 +13318,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"支持与法务：support@islecheat.net",
-								"Email: support@islecheat.net",
+								"支持与法务：support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -14165,7 +14165,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "गोपनीयता नीति | IsleCheat",
 					description: "गोपनीयता नीति for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "गोपनीयता नीति",
-					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। गोपनीयता नीति for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। गोपनीयता नीति for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -14177,7 +14177,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -14190,8 +14190,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"सहायता: support@islecheat.net",
-								"Email: support@islecheat.net",
+								"सहायता: support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -14200,7 +14200,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "रिफंड नीति | IsleCheat",
 					description: "रिफंड नीति for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "रिफंड नीति",
-					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। रिफंड नीति for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। रिफंड नीति for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -14225,8 +14225,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"सहायता: support@islecheat.net",
-								"Email: support@islecheat.net",
+								"सहायता: support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -14235,7 +14235,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "उपयोग की शर्तें | IsleCheat",
 					description: "उपयोग की शर्तें for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "उपयोग की शर्तें",
-					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। उपयोग की शर्तें for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। उपयोग की शर्तें for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -14260,8 +14260,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"सहायता: support@islecheat.net",
-								"Email: support@islecheat.net",
+								"सहायता: support@theislehacks.com",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -15107,7 +15107,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Kebijakan privasi | IsleCheat",
 					description: "Kebijakan privasi for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Kebijakan privasi",
-					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Kebijakan privasi for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Kebijakan privasi for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -15119,7 +15119,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -15132,8 +15132,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"support@islecheat.net untuk dukungan dan legal.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com untuk dukungan dan legal.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -15142,7 +15142,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Kebijakan refund | IsleCheat",
 					description: "Kebijakan refund for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Kebijakan refund",
-					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Kebijakan refund for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Kebijakan refund for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -15167,8 +15167,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"support@islecheat.net untuk dukungan dan legal.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com untuk dukungan dan legal.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -15177,7 +15177,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Syarat penggunaan | IsleCheat",
 					description: "Syarat penggunaan for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Syarat penggunaan",
-					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Syarat penggunaan for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Syarat penggunaan for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -15202,8 +15202,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"support@islecheat.net untuk dukungan dan legal.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com untuk dukungan dan legal.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -16049,7 +16049,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "นโยบายความเป็นส่วนตัว | IsleCheat",
 					description: "นโยบายความเป็นส่วนตัว for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "นโยบายความเป็นส่วนตัว",
-					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC นโยบายความเป็นส่วนตัว for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC นโยบายความเป็นส่วนตัว for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -16061,7 +16061,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -16074,8 +16074,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"support@islecheat.net สำหรับการสนับสนุน",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com สำหรับการสนับสนุน",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -16084,7 +16084,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "นโยบายการคืนเงิน | IsleCheat",
 					description: "นโยบายการคืนเงิน for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "นโยบายการคืนเงิน",
-					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC นโยบายการคืนเงิน for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC นโยบายการคืนเงิน for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -16109,8 +16109,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"support@islecheat.net สำหรับการสนับสนุน",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com สำหรับการสนับสนุน",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -16119,7 +16119,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "ข้อกำหนดการใช้งาน | IsleCheat",
 					description: "ข้อกำหนดการใช้งาน for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "ข้อกำหนดการใช้งาน",
-					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC ข้อกำหนดการใช้งาน for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC ข้อกำหนดการใช้งาน for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -16144,8 +16144,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"support@islecheat.net สำหรับการสนับสนุน",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com สำหรับการสนับสนุน",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -16991,7 +16991,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Chính sách bảo mật | IsleCheat",
 					description: "Chính sách bảo mật for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Chính sách bảo mật",
-					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Chính sách bảo mật for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Chính sách bảo mật for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -17003,7 +17003,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -17016,8 +17016,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"support@islecheat.net cho hỗ trợ và pháp lý.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com cho hỗ trợ và pháp lý.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -17026,7 +17026,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Chính sách hoàn tiền | IsleCheat",
 					description: "Chính sách hoàn tiền for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Chính sách hoàn tiền",
-					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Chính sách hoàn tiền for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Chính sách hoàn tiền for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -17051,8 +17051,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"support@islecheat.net cho hỗ trợ và pháp lý.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com cho hỗ trợ và pháp lý.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -17061,7 +17061,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Điều khoản sử dụng | IsleCheat",
 					description: "Điều khoản sử dụng for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Điều khoản sử dụng",
-					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Điều khoản sử dụng for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Điều khoản sử dụng for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -17086,8 +17086,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"support@islecheat.net cho hỗ trợ và pháp lý.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com cho hỗ trợ và pháp lý.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -17933,7 +17933,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Політика конфіденційності | IsleCheat",
 					description: "Політика конфіденційності for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Політика конфіденційності",
-					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Політика конфіденційності for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Політика конфіденційності for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -17945,7 +17945,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -17958,8 +17958,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"support@islecheat.net для підтримки та правових питань.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com для підтримки та правових питань.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -17968,7 +17968,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Політика повернення | IsleCheat",
 					description: "Політика повернення for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Політика повернення",
-					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Політика повернення for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Політика повернення for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -17993,8 +17993,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"support@islecheat.net для підтримки та правових питань.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com для підтримки та правових питань.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -18003,7 +18003,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Умови використання | IsleCheat",
 					description: "Умови використання for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Умови використання",
-					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Умови використання for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Умови використання for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -18028,8 +18028,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"support@islecheat.net для підтримки та правових питань.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com для підтримки та правових питань.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -18875,7 +18875,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Zásady ochrany soukromí | IsleCheat",
 					description: "Zásady ochrany soukromí for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Zásady ochrany soukromí",
-					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Zásady ochrany soukromí for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Zásady ochrany soukromí for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -18887,7 +18887,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -18900,8 +18900,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"support@islecheat.net pro podporu a právní dotazy.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com pro podporu a právní dotazy.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -18910,7 +18910,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Zásady vrácení peněz | IsleCheat",
 					description: "Zásady vrácení peněz for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Zásady vrácení peněz",
-					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Zásady vrácení peněz for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Zásady vrácení peněz for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -18935,8 +18935,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"support@islecheat.net pro podporu a právní dotazy.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com pro podporu a právní dotazy.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -18945,7 +18945,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Podmínky použití | IsleCheat",
 					description: "Podmínky použití for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Podmínky použití",
-					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Podmínky použití for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Podmínky použití for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -18970,8 +18970,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"support@islecheat.net pro podporu a právní dotazy.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com pro podporu a právní dotazy.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -19817,7 +19817,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Politica de confidențialitate | IsleCheat",
 					description: "Politica de confidențialitate for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Politica de confidențialitate",
-					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Politica de confidențialitate for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Politica de confidențialitate for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -19829,7 +19829,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -19842,8 +19842,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"support@islecheat.net pentru suport și legal.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com pentru suport și legal.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -19852,7 +19852,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Politica de rambursare | IsleCheat",
 					description: "Politica de rambursare for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Politica de rambursare",
-					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Politica de rambursare for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Politica de rambursare for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -19877,8 +19877,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"support@islecheat.net pentru suport și legal.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com pentru suport și legal.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -19887,7 +19887,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Termeni de utilizare | IsleCheat",
 					description: "Termeni de utilizare for IsleCheat — ESP wallhack, Aimbot, PC Windows.",
 					h1: "Termeni de utilizare",
-					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Termeni de utilizare for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Termeni de utilizare for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -19912,8 +19912,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"support@islecheat.net pentru suport și legal.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com pentru suport și legal.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -20759,7 +20759,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Integritetspolicy | IsleCheat",
 					description: "Integritetspolicy for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Integritetspolicy",
-					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Integritetspolicy for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Integritetspolicy for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats privacy ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats privacy resources",
 					heroImage: "/images/rust-esp-hitbox.webp",
@@ -20771,7 +20771,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Information we collect",
 							paragraphs: [
 								"Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Contact email, Zadeyo order references, and basic site security data.",
-								"Payment details are processed by Zadeyo checkout — not stored on islecheat.net.",
+								"Payment details are processed by Zadeyo checkout — not stored on theislehacks.com.",
 							],
 						},
 						{
@@ -20784,8 +20784,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Your rights",
 							paragraphs: [
-								"support@islecheat.net för support och juridik.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com för support och juridik.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -20794,7 +20794,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Återbetalningspolicy | IsleCheat",
 					description: "Återbetalningspolicy for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Återbetalningspolicy",
-					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Återbetalningspolicy for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Återbetalningspolicy for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats refund ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats refund resources",
 					heroImage: "/images/rust-aimbot-menu.webp",
@@ -20819,8 +20819,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "How to request",
 							paragraphs: [
-								"support@islecheat.net för support och juridik.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com för support och juridik.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],
@@ -20829,7 +20829,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					title: "Användarvillkor | IsleCheat",
 					description: "Användarvillkor for IsleCheat — ESP wallhack, Aimbot, Windows PC.",
 					h1: "Användarvillkor",
-					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Användarvillkor for islecheat.net and Rust licenses.",
+					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Användarvillkor for theislehacks.com and Rust licenses.",
 					imageAlt: "rust-cheats terms ESP wallhack Aimbot legal page",
 					galleryTitle: "Rust Cheats terms resources",
 					heroImage: "/images/rust-esp-bots.webp",
@@ -20854,8 +20854,8 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Policy changes",
 							paragraphs: [
-								"support@islecheat.net för support och juridik.",
-								"Email: support@islecheat.net",
+								"support@theislehacks.com för support och juridik.",
+								"Email: support@theislehacks.com",
 							],
 						},
 					],

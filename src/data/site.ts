@@ -1,9 +1,11 @@
 export const siteConfig = {
 	name: 'IsleCheat',
+	/** Brand search variants for Organization / WebSite schema alternateName. */
+	alternateNames: ['theislecheats', 'The Isle Cheats', 'the isle cheats'] as const,
 	url: 'https://theislehacks.com',
 	locale: 'en',
 	market: 'Worldwide',
-	supportEmail: 'support@islecheat.net',
+	supportEmail: 'support@theislehacks.com',
 	logo: '/images/zadeyo-logo.webp',
 	// Raster logo for Google/schema.org (min 112x112 required; the webp is only 64x77)
 	logoRaster: '/images/zadeyo-logo.png',
@@ -18,9 +20,9 @@ export const productInfo = {
 	name: 'IsleCheat',
 	shortName: 'Isle',
 	brand: 'IsleCheat',
-	tagline: 'Undetected IsleCheat for The Isle — ESP, aimbot, and wallhack on PC',
+	tagline: 'IsleCheat (theislecheats) — The Isle cheats with ESP, aimbot, and wallhack on PC',
 	summary:
-		'IsleCheat is a Windows PC package for ESP, aimbot, and wallhack on The Isle. Built for hunt pressure and survival fights.',
+		'IsleCheat — also searched as theislecheats and The Isle cheats — is a Windows PC package for ESP, aimbot, and wallhack on The Isle. Built for hunt pressure and survival fights.',
 	game: 'The Isle',
 	delivery: 'Digital license delivery after purchase confirmation',
 	platforms: ['Windows PC', 'Controllers'],
@@ -113,7 +115,7 @@ export const homeFaqs = [
 	{
 		question: 'What is IsleCheat?',
 		answer:
-			'IsleCheat is a Windows PC package for The Isle with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
+			'IsleCheat (also known as theislecheats or The Isle cheats) is a Windows PC package for The Isle with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
 	},
 	{
 		question: 'Is IsleCheat permanently undetected?',
@@ -143,7 +145,7 @@ export const homeFaqs = [
 	{
 		question: 'How do I contact support?',
 		answer:
-			'Use the Support page or email support@islecheat.net with your order details and a clear description of the issue.',
+			'Use the Support page or email support@theislehacks.com with your order details and a clear description of the issue.',
 	},
 ] as const;
 

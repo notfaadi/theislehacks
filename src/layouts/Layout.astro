@@ -90,6 +90,7 @@ const graph: Record<string, unknown>[] = [
 		'@id': `${siteConfig.url}/#website`,
 		url: siteConfig.url,
 		name: siteConfig.name,
+		alternateName: [...siteConfig.alternateNames],
 		description: siteDescription,
 		inLanguage: schemaLanguage,
 		publisher: { '@id': `${siteConfig.url}/#organization` },
@@ -98,6 +99,7 @@ const graph: Record<string, unknown>[] = [
 		'@type': 'Organization',
 		'@id': `${siteConfig.url}/#organization`,
 		name: siteConfig.name,
+		alternateName: [...siteConfig.alternateNames],
 		url: siteConfig.url,
 		email: siteConfig.supportEmail,
 		logo: {

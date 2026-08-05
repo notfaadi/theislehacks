@@ -3,12 +3,12 @@ import { HERO_IMAGES, clampTitle, clampDesc, section, stripZadeyoFromMeta, EXT }
 /** Richest English page content — source of truth for structure. */
 export const enPages = {
 	home: {
-		title: 'IsleCheat 2026 | Undetected ESP & Aimbot for The Isle',
+		title: 'IsleCheat (theislecheats) | The Isle Cheats 2026',
 		description:
-			'Undetected IsleCheat for The Isle: ESP, aimbot and wallhack on Windows PC. Instant delivery — pick $35/mo or $150 lifetime and start today.',
-		h1: 'IsleCheat — ESP, Aimbot & Wallhack for The Isle',
+			'IsleCheat — also known as theislecheats / The Isle cheats. Undetected ESP, aimbot & wallhack for The Isle on Windows PC. $35/mo or $150 lifetime.',
+		h1: 'IsleCheat — The Isle Cheats with ESP, Aimbot & Wallhack',
 		intro:
-			'A focused Windows PC package for The Isle: player ESP, aimbot controls, and wallhack overlays built for hunt pressure and survival fights.',
+			'Looking for theislecheats? IsleCheat is the Windows PC package for The Isle cheats: player ESP, aimbot controls, and wallhack overlays built for hunt pressure and survival fights.',
 		imageAlt: 'IsleCheat aimbot holographic sight with ESP skeleton and red head lock',
 		galleryTitle: 'IsleCheat visuals',
 		ctaPrimary: 'Buy IsleCheat',
@@ -149,7 +149,7 @@ export const enPages = {
 			section(
 				'Licensing, delivery, and EAC maintenance',
 				'Monthly ($35) and lifetime ($150) licenses with instant digital delivery. EAC maintenance rebuilds publish on the <a href="/updates/">Updates page</a> after anti-cheat or game patches.',
-				`Monitor ${EXT.status} on patch days, then confirm rebuild notes before you queue. Setup and billing help lives on <a href="/support/">Support</a> and support@islecheat.net.`,
+				`Monitor ${EXT.status} on patch days, then confirm rebuild notes before you queue. Setup and billing help lives on <a href="/support/">Support</a> and support@theislehacks.com.`,
 				'Next step: compare plans on <a href="/pricing/">Pricing</a> or read <a href="/undetected-rust-cheats/">how undetected maintenance works</a>.',
 			),
 		],
@@ -281,7 +281,7 @@ export const enPages = {
 			section(
 				'Delivery, pricing, and support',
 				'Licenses deliver digitally after payment confirmation. Monthly is $35; lifetime is $150 USD — see <a href="/pricing/">Pricing</a>.',
-				'Contact support@islecheat.net or the <a href="/support/">Support page</a> with order details for setup or billing help. First launch steps are on <a href="/setup/">Setup</a>.',
+				'Contact support@theislehacks.com or the <a href="/support/">Support page</a> with order details for setup or billing help. First launch steps are on <a href="/setup/">Setup</a>.',
 				'Refund eligibility is covered in the <a href="/refund-policy/">Refund Policy</a>.',
 			),
 		],
@@ -314,7 +314,7 @@ export const enPages = {
 			section(
 				'Self-service resources',
 				'Setup guide, Features list, Updates log, Refund Policy, and Terms of Use are linked from the footer. EAC bypass notes live on the dedicated <a href="/eac-bypass-rust/">Easy Anti-Cheat page</a>.',
-				'Email: support@islecheat.net',
+				'Email: support@theislehacks.com',
 				'Ready to purchase or renew? Open <a href="/pricing/">Pricing</a>. Need feature detail first? See <a href="/features/">Features</a>.',
 			),
 		],
@@ -480,7 +480,7 @@ export const enPages = {
 				'Before you buy in 2026',
 				'Read the <a href="/rust-hacks/">IsleCheat</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.',
 				'Also compare the <a href="/best-rust-cheats/">best Rust cheats</a> checklist, <a href="/blog/rust-cheats-2026-whats-new/">2026 blog guide</a>, and <a href="/faq/">FAQ</a>.',
-				'Support is available at support@islecheat.net via the <a href="/support/">Support page</a>.',
+				'Support is available at support@theislehacks.com via the <a href="/support/">Support page</a>.',
 			),
 		],
 	},
@@ -779,8 +779,8 @@ export const enPages = {
 			),
 			section(
 				'Your choices and contact',
-				'You may request correction or deletion of support email data by contacting support@islecheat.net with your request details.',
-				'Policy updates publish on this page. Continued use of islecheat.net after updates means you accept the revised policy. Also see <a href="/terms/">Terms of Use</a> and <a href="/refund-policy/">Refund Policy</a>.',
+				'You may request correction or deletion of support email data by contacting support@theislehacks.com with your request details.',
+				'Policy updates publish on this page. Continued use of theislehacks.com after updates means you accept the revised policy. Also see <a href="/terms/">Terms of Use</a> and <a href="/refund-policy/">Refund Policy</a>.',
 			),
 		],
 	},
@@ -809,7 +809,7 @@ export const enPages = {
 			),
 			section(
 				'How to request a refund',
-				'Email support@islecheat.net with subject "Refund Request", your order ID, purchase date, and issue summary — or use the <a href="/support/">Support page</a>.',
+				'Email support@theislehacks.com with subject "Refund Request", your order ID, purchase date, and issue summary — or use the <a href="/support/">Support page</a>.',
 				'Approved refunds process back to the original payment method when possible. Pricing details live on <a href="/pricing/">Pricing</a>.',
 			),
 		],
@@ -839,7 +839,7 @@ export const enPages = {
 			section(
 				'Changes and governing law',
 				'We may update these terms by posting revisions on this page. Continued use after changes constitutes acceptance.',
-				'Contact support@islecheat.net for questions. Related policies: <a href="/privacy-policy/">Privacy</a> and <a href="/refund-policy/">Refunds</a>.',
+				'Contact support@theislehacks.com for questions. Related policies: <a href="/privacy-policy/">Privacy</a> and <a href="/refund-policy/">Refunds</a>.',
 			),
 		],
 	},
