@@ -29,6 +29,7 @@ export function buildSoftwareApplicationSchema(canonicalURL: string, heroImage: 
 		'@type': 'SoftwareApplication',
 		'@id': `${canonicalURL}#software`,
 		name: productInfo.name,
+		alternateName: [...siteConfig.alternateNames],
 		applicationCategory: 'GameApplication',
 		operatingSystem: 'Windows',
 		description: productInfo.summary,
@@ -60,17 +61,17 @@ export const pageFaqClusters: Partial<
 > = {
 	hacks: [
 		{
-			question: 'What are theislehacks?',
+			question: 'What are Rust Hacks?',
 			answer:
-				'theislehacks is a Windows PC package for Rust with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
+				'Rust Hacks is a Windows PC package for Rust with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
 		},
 		{
-			question: 'Are theislehacks permanently undetected?',
+			question: 'Are rust hacks permanently undetected?',
 			answer:
 				'No package can promise that. We rebuild after Easy Anti-Cheat and game patches and post status on Updates. Check there before you load in.',
 		},
 		{
-			question: 'What is included in the theislehacks package?',
+			question: 'What is included in the rust hacks package?',
 			answer:
 				'Player ESP, loot markers, radar cues, and configurable aimbot in one license. See Features, ESP, and Aimbot for control detail.',
 		},
@@ -79,12 +80,12 @@ export const pageFaqClusters: Partial<
 		{
 			question: 'What is a Rust wallhack?',
 			answer:
-				'A Rust wallhack is an ESP overlay that shows enemy players, vehicles, and loot through walls and terrain. theislehacks wallhack includes distance readouts, team colours, and toggleable categories for PVE and PVP.',
+				'A Rust wallhack is an ESP overlay that shows enemy players, vehicles, and loot through walls and terrain. Rust Hacks wallhack includes distance readouts, team colours, and toggleable categories for PVE and PVP.',
 		},
 		{
-			question: 'Does theislehacks include a radar hack?',
+			question: 'Does Rust Hacks include a radar hack?',
 			answer:
-				'Yes. theislehacks includes 2D radar-style overlays that highlight nearby threats outside your direct view — useful for reading flanks during building fights and final-circle rotations.',
+				'Yes. Rust Hacks includes 2D radar-style overlays that highlight nearby threats outside your direct view — useful for reading flanks during building fights and final-circle rotations.',
 		},
 		{
 			question: 'Does this fit monument and raid play?',
@@ -96,22 +97,22 @@ export const pageFaqClusters: Partial<
 		{
 			question: 'What is Rust soft aim?',
 			answer:
-				'Rust soft aim is configurable aim assist with smoothness, FOV, and bone priority controls. It ships bundled with ESP and radar in the theislehacks license for Windows PC.',
+				'Rust soft aim is configurable aim assist with smoothness, FOV, and bone priority controls. It ships bundled with ESP and radar in the Rust Hacks license for Windows PC.',
 		},
 		{
 			question: 'Can I use Rust aimbot with a controller?',
 			answer:
-				'Yes. theislehacks supports controller play on Windows PC. Tune FOV and smoothness per weapon profile after setup.',
+				'Yes. Rust Hacks supports controller play on Windows PC. Tune FOV and smoothness per weapon profile after setup.',
 		},
 		{
-			question: 'Are theislehacks permanently undetected?',
+			question: 'Are rust hacks permanently undetected?',
 			answer:
 				'No package can promise that. We rebuild after Easy Anti-Cheat and game patches and post status on Updates. Check there before you load in.',
 		},
 	],
 	pricing: [
 		{
-			question: 'How are theislehacks licenses delivered?',
+			question: 'How are rust hacks licenses delivered?',
 			answer:
 				'Digitally after payment confirmation. Timing can vary by payment method — keep your order confirmation if you contact support.',
 		},
@@ -128,19 +129,19 @@ export const pageFaqClusters: Partial<
 	],
 	features: [
 		{
-			question: 'What is included in theislehacks?',
+			question: 'What is included in Rust Hacks?',
 			answer:
 				'Player ESP, loot markers, radar cues, and configurable aimbot in one license. See Features, ESP, and Aimbot for control detail.',
 		},
 		{
-			question: 'Does theislehacks work on Windows PC?',
+			question: 'Does Rust Hacks work on Windows PC?',
 			answer:
-				'Yes — theislehacks is built for Rust on Windows 10 and 11 with in-client toggles for ESP, radar, and aimbot.',
+				'Yes — Rust Hacks is built for Rust on Windows 10 and 11 with in-client toggles for ESP, radar, and aimbot.',
 		},
 		{
-			question: 'How does Easy Anti-Cheat (EAC) affect theislehacks?',
+			question: 'How does Easy Anti-Cheat (EAC) affect Rust hacks?',
 			answer:
-				'Facepunch Easy Anti-Cheat (EAC) monitors Rust on Windows PC. theislehacks publishes maintenance notes after patches that may require a rebuild. Read the EAC bypass guide page for how updates are handled.',
+				'Facepunch Easy Anti-Cheat (EAC) monitors Rust on Windows PC. Rust Hacks publishes maintenance notes after patches that may require a rebuild. Read the EAC bypass guide page for how updates are handled.',
 		},
 	],
 };

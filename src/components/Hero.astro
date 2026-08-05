@@ -21,11 +21,15 @@ const {
 	accent = ui.hero.accent,
 	subtitle = ui.hero.subtitle,
 	subtitleShort = ui.hero.subtitleShort,
-	heading = 'theislehacks — The Isle hacks with ESP, Aimbot & Wallhack',
+	heading = `${siteConfig.name} — ${accent}`,
 } = Astro.props;
 
-/** Visible H1 detail line — portion after the em dash in `heading`. */
-const headingDetail = heading.includes('—')
+/**
+ * Fortnite-style hero H1:
+ * Line 1 = brand (Rust Hacks)
+ * Line 2 = feature line (Undetected ESP, Aimbot & Wallhack)
+ */
+const featureLine = heading.includes('—')
 	? heading.split('—').slice(1).join('—').trim()
 	: accent;
 
@@ -34,11 +38,7 @@ const featuresUrl = getLocalizedPath('features', locale);
 ---
 
 <section class="hero" aria-label={ui.images.hero}>
-	<div class="hero__media">
-		{/*
-		  Poster paints first (LCP / fallback). Hero MP4 uses a real src + autoplay
-		  so desktop and mobile get the muted loop like the old site — not poster-only.
-		*/}
+	<div class="hero__media" aria-hidden="true">
 		<picture class="hero__poster">
 			<source media="(max-width: 760px)" srcset={heroPreloadSrc} type="image/webp" />
 			<source
@@ -55,7 +55,6 @@ const featuresUrl = getLocalizedPath('features', locale);
 				class="hero__poster-img"
 				fetchpriority="high"
 				decoding="async"
-				aria-hidden="true"
 			/>
 		</picture>
 		<video
@@ -72,23 +71,19 @@ const featuresUrl = getLocalizedPath('features', locale);
 			title={rustHeroVideo.title}
 			aria-label={rustHeroVideo.ariaLabel}
 		></video>
-		<div class="hero__splash" aria-hidden="true"></div>
-		<div class="hero__veil" aria-hidden="true"></div>
+		<div class="hero__veil"></div>
 	</div>
 
 	<div class="hero__inner">
 		<div class="hero__copy">
 			<h1 class="hero__title">
-				<span class="hero__line">
-					<span class="hero__word">{siteConfig.name}</span>
-				</span>
-				<span class="text-gradient hero__accent">{headingDetail}</span>
+				<span class="hero__brand">{siteConfig.name}</span>
+				<span class="hero__features">{featureLine}</span>
 			</h1>
-			<p class="hero__badge">{accent}</p>
 			<p class="hero__subtitle hero__subtitle--full">{subtitle}</p>
 			<p class="hero__subtitle hero__subtitle--short">{subtitleShort}</p>
 			<div class="hero__cta">
-				<a href={buyUrl} class="btn-buy" rel="noopener noreferrer" aria-label={ui.hero.buyNow}>
+				<a href={buyUrl} class="btn-buy" rel="noopener noreferrer">
 					{ui.hero.buyNow}
 				</a>
 				<a href={featuresUrl} class="hero__btn hero__btn--ghost">
@@ -104,14 +99,15 @@ const featuresUrl = getLocalizedPath('features', locale);
 		position: relative;
 		overflow: hidden;
 		isolation: isolate;
-		min-height: clamp(380px, 52vw, 520px);
+		/* First viewport: brand + one headline + one sentence + CTA + full-bleed media */
+		min-height: clamp(420px, 72vh, 640px);
 	}
 
 	.hero__media {
 		position: absolute;
 		inset: 0;
 		z-index: 0;
-		background: #0a0612;
+		background: #07040f;
 	}
 
 	.hero__poster,
@@ -131,20 +127,20 @@ const featuresUrl = getLocalizedPath('features', locale);
 
 	.hero__poster-img {
 		object-fit: cover;
-		object-position: 70% 40%;
-		background: #0a0612;
+		object-position: 72% 42%;
+		background: #07040f;
 	}
 
 	.hero__video {
 		z-index: 1;
 		object-fit: cover;
-		object-position: 70% 40%;
-		transform: translateZ(0) scale(1.03);
+		object-position: 72% 42%;
+		transform: translateZ(0) scale(1.04);
 		backface-visibility: hidden;
 		pointer-events: none;
 		opacity: 0;
 		background: transparent;
-		transition: opacity 0.45s ease;
+		transition: opacity 0.5s ease;
 	}
 
 	.hero__video.is-ready {
@@ -154,169 +150,129 @@ const featuresUrl = getLocalizedPath('features', locale);
 	@media (min-width: 761px) and (prefers-reduced-motion: no-preference) {
 		.hero__video.is-ready {
 			will-change: transform;
-			animation: kenburns 18s ease-in-out infinite alternate;
+			animation: kenburns 20s ease-in-out infinite alternate;
 		}
 	}
 
-	.hero__splash {
-		position: absolute;
-		inset: 0;
-		z-index: 2;
-		background:
-			radial-gradient(ellipse 50% 70% at 78% 45%, rgba(168, 85, 247, 0.22), transparent 70%),
-			radial-gradient(ellipse 38% 55% at 92% 72%, rgba(217, 70, 239, 0.12), transparent 65%),
-			radial-gradient(ellipse 32% 48% at 58% 18%, rgba(124, 58, 237, 0.14), transparent 70%);
-		pointer-events: none;
-		opacity: 0.55;
-	}
-
-	@media (prefers-reduced-motion: no-preference) {
-		.hero__splash {
-			animation: pulse-glow 7s ease-in-out infinite;
-		}
-	}
-
+	/* Strong left read plane so game UI / watermark text never fights the H1 */
 	.hero__veil {
 		position: absolute;
 		inset: 0;
-		z-index: 3;
-		background:
-			linear-gradient(90deg, #0a0612 0%, rgba(10, 6, 18, 0.88) 28%, rgba(10, 6, 18, 0.18) 58%, rgba(10, 6, 18, 0.35) 100%),
-			linear-gradient(180deg, rgba(10, 6, 18, 0.25) 0%, transparent 38%, rgba(10, 6, 18, 0.65) 100%);
+		z-index: 2;
 		pointer-events: none;
+		background:
+			linear-gradient(
+				90deg,
+				rgba(7, 4, 15, 0.94) 0%,
+				rgba(7, 4, 15, 0.78) 32%,
+				rgba(7, 4, 15, 0.28) 58%,
+				rgba(7, 4, 15, 0.45) 100%
+			),
+			linear-gradient(
+				180deg,
+				rgba(7, 4, 15, 0.35) 0%,
+				transparent 40%,
+				rgba(7, 4, 15, 0.72) 100%
+			);
 	}
 
 	.hero__inner {
 		position: relative;
-		z-index: 4;
+		z-index: 3;
 		display: flex;
 		align-items: center;
 		width: min(100% - (var(--page-gutter) * 2), var(--page-max));
 		margin: 0 auto;
-		padding: 4.25rem 0 3.5rem;
+		padding: 5rem 0 3.75rem;
 		min-height: inherit;
 	}
 
 	.hero__copy {
-		max-width: min(42rem, 100%);
+		max-width: min(36rem, 100%);
 		min-width: 0;
-		animation: rise-in 0.8s cubic-bezier(0.22, 1, 0.36, 1) both;
-	}
-
-	.hero__eyebrow {
-		margin: 0 0 0.85rem;
-		font-size: 0.78rem;
-		font-weight: 700;
-		letter-spacing: 0.14em;
-		text-transform: uppercase;
-		color: var(--color-orchid);
+		animation: rise-in 0.75s cubic-bezier(0.22, 1, 0.36, 1) both;
 	}
 
 	.hero__title {
 		margin: 0;
 		font-family: var(--font-display);
-		font-size: clamp(1.85rem, 4.6vw, 3.75rem);
+		font-size: clamp(2.35rem, 5.4vw, 4.15rem);
 		font-weight: 800;
-		line-height: 1.15;
-		letter-spacing: -0.03em;
+		line-height: 1.05;
+		letter-spacing: -0.035em;
+		color: #fff;
+		text-shadow: 0 10px 40px rgba(0, 0, 0, 0.55);
 		display: flex;
 		flex-direction: column;
-		gap: 0.18em;
-		text-shadow: 0 8px 32px rgba(11, 13, 15, 0.7);
-		text-wrap: balance;
-		overflow-wrap: break-word;
-		word-break: normal;
-		hyphens: none;
+		gap: 0.12em;
 	}
 
-	.hero__line {
-		display: flex;
-		flex-wrap: wrap;
-		column-gap: 0.28em;
-		row-gap: 0.02em;
-		max-width: 100%;
-	}
-
-	.hero__word {
-		display: inline-block;
-	}
-
-	.hero__word--for {
-		font-weight: 700;
-		opacity: 0.9;
-	}
-
-	.hero__accent {
+	.hero__brand,
+	.hero__features {
 		display: block;
-		max-width: 100%;
-		width: fit-content;
-		padding-bottom: 0.06em;
 	}
 
-	.hero__badge {
-		margin: 0.55rem 0 0;
-		font-size: 0.78rem;
-		font-weight: 700;
-		letter-spacing: 0.12em;
-		text-transform: uppercase;
-		color: var(--color-orchid);
+	.hero__features {
+		max-width: 14ch;
 	}
 
 	.hero__subtitle {
-		margin: 1.2rem 0 0;
-		max-width: 28rem;
-		font-size: clamp(0.95rem, 1.5vw, 1.05rem);
-		line-height: 1.65;
-		color: #cfc3e3;
-		animation: rise-in 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.1s both;
+		margin: 1.15rem 0 0;
+		max-width: 32rem;
+		font-size: clamp(0.98rem, 1.45vw, 1.12rem);
+		line-height: 1.55;
+		font-weight: 500;
+		color: rgba(255, 255, 255, 0.92);
+		animation: rise-in 0.85s cubic-bezier(0.22, 1, 0.36, 1) 0.08s both;
 	}
 
 	.hero__cta {
 		display: flex;
 		flex-wrap: wrap;
-		gap: 0.75rem;
-		margin-top: 1.6rem;
-		animation: rise-in 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.18s both;
+		align-items: center;
+		gap: 0.85rem;
+		margin-top: 1.65rem;
+		animation: rise-in 0.85s cubic-bezier(0.22, 1, 0.36, 1) 0.14s both;
+	}
+
+	.hero__cta :global(.btn-buy) {
+		box-shadow:
+			0 0 0 1px rgba(192, 132, 252, 0.25),
+			0 10px 28px rgba(124, 58, 237, 0.45),
+			0 0 40px rgba(168, 85, 247, 0.28);
 	}
 
 	.hero__btn {
 		display: inline-flex;
 		align-items: center;
 		justify-content: center;
-		padding: 0.85rem 1.25rem;
-		border-radius: 0.8rem;
-		font-size: 0.95rem;
+		min-height: 3rem;
+		padding: 0.85rem 1.35rem;
+		border-radius: 0.85rem;
+		font-size: 0.98rem;
 		font-weight: 700;
 		text-align: center;
 		transition:
 			transform 0.2s ease,
-			filter 0.2s ease,
 			background 0.2s ease,
 			border-color 0.2s ease;
 	}
 
 	.hero__btn--ghost {
-		border: 1px solid rgba(168, 85, 247, 0.35);
-		background: rgba(18, 16, 26, 0.85);
-		color: var(--color-ink);
-	}
-
-	@media (min-width: 761px) {
-		.hero__btn--ghost {
-			background: rgba(18, 16, 26, 0.55);
-			backdrop-filter: blur(8px);
-		}
+		border: 1px solid rgba(255, 255, 255, 0.55);
+		background: rgba(8, 6, 14, 0.35);
+		color: #fff;
 	}
 
 	.hero__btn--ghost:hover {
-		border-color: rgba(192, 132, 252, 0.55);
-		background: rgba(34, 28, 48, 0.7);
+		border-color: rgba(255, 255, 255, 0.85);
+		background: rgba(18, 14, 28, 0.55);
 	}
 
 	@keyframes rise-in {
 		from {
 			opacity: 0;
-			transform: translateY(18px);
+			transform: translateY(16px);
 		}
 		to {
 			opacity: 1;
@@ -329,26 +285,19 @@ const featuresUrl = getLocalizedPath('features', locale);
 			transform: translateZ(0) scale(1.04) translate3d(0, 0, 0);
 		}
 		to {
-			transform: translateZ(0) scale(1.1) translate3d(-1.5%, 1%, 0);
+			transform: translateZ(0) scale(1.1) translate3d(-1.2%, 0.8%, 0);
 		}
 	}
 
-	@keyframes pulse-glow {
-		0%,
-		100% {
-			opacity: 0.82;
-		}
-		50% {
-			opacity: 0.95;
-		}
+	.hero__subtitle--short {
+		display: none;
 	}
 
 	@media (prefers-reduced-motion: reduce) {
 		.hero__copy,
 		.hero__subtitle,
 		.hero__cta,
-		.hero__video,
-		.hero__splash {
+		.hero__video {
 			animation: none;
 		}
 
@@ -357,13 +306,9 @@ const featuresUrl = getLocalizedPath('features', locale);
 		}
 	}
 
-	.hero__subtitle--short {
-		display: none;
-	}
-
 	@media (max-width: 760px) {
 		.hero {
-			min-height: min(68svh, 520px);
+			min-height: min(78svh, 560px);
 		}
 
 		.hero__subtitle--full {
@@ -374,98 +319,66 @@ const featuresUrl = getLocalizedPath('features', locale);
 			display: block;
 		}
 
-		.hero__poster-img {
-			object-position: center 32%;
+		.hero__poster-img,
+		.hero__video {
+			object-position: center 30%;
 		}
 
 		.hero__video {
-			object-position: center 32%;
 			animation: none;
 			transform: none;
 			will-change: auto;
 		}
 
-		.hero__splash {
-			display: none;
-		}
-
-		.hero__copy,
-		.hero__subtitle,
-		.hero__cta {
-			animation: none;
-		}
-
 		.hero__veil {
 			background:
-				linear-gradient(180deg, rgba(10, 6, 18, 0.55) 0%, rgba(10, 6, 18, 0.35) 42%, rgba(10, 6, 18, 0.96) 100%),
-				linear-gradient(90deg, rgba(10, 6, 18, 0.72), rgba(10, 6, 18, 0.35) 80%);
+				linear-gradient(180deg, rgba(7, 4, 15, 0.5) 0%, rgba(7, 4, 15, 0.28) 38%, rgba(7, 4, 15, 0.96) 100%),
+				linear-gradient(90deg, rgba(7, 4, 15, 0.78), rgba(7, 4, 15, 0.35) 85%);
 		}
 
 		.hero__inner {
 			align-items: flex-end;
-			padding-top: calc(4.75rem + env(safe-area-inset-top, 0px));
-			padding-bottom: 1.35rem;
-			min-height: inherit;
+			padding-top: calc(5rem + env(safe-area-inset-top, 0px));
+			padding-bottom: 1.5rem;
 		}
 
 		.hero__copy {
 			max-width: none;
 			width: 100%;
+			animation: none;
 		}
 
 		.hero__title {
-			font-family: var(--font-sans);
-			font-size: clamp(1.65rem, 8vw, 2.15rem);
-			font-weight: 800;
-			line-height: 1.18;
-			letter-spacing: -0.025em;
-			gap: 0.22rem;
+			font-size: clamp(2rem, 9vw, 2.65rem);
+			letter-spacing: -0.03em;
 		}
 
-		.hero__line {
-			flex-direction: row;
-			flex-wrap: wrap;
-			column-gap: 0.28em;
-			width: 100%;
+		.hero__features {
+			max-width: none;
 		}
 
-		.hero__accent {
-			width: 100%;
-			font-size: 0.92em;
-			line-height: 1.25;
-			padding-bottom: 0.08em;
+		.hero__subtitle,
+		.hero__cta {
+			animation: none;
 		}
 
 		.hero__subtitle--short {
-			margin-top: 0.75rem;
-			max-width: none;
-			font-size: 0.92rem;
-			line-height: 1.55;
+			margin-top: 0.9rem;
+			font-size: 0.95rem;
 		}
 
 		.hero__cta {
 			flex-direction: column;
 			align-items: stretch;
-			gap: 0.6rem;
-			margin-top: 1.1rem;
+			gap: 0.65rem;
+			margin-top: 1.25rem;
 			width: 100%;
 		}
 
-		.hero__btn {
+		.hero__btn,
+		.hero__cta :global(.btn-buy) {
 			width: 100%;
 			min-height: var(--touch-min);
-			padding: 0.8rem 1rem;
-			font-size: 0.92rem;
-		}
-	}
-
-	@media (max-width: 380px) {
-		.hero__title {
-			font-size: 1.5rem;
-		}
-
-		.hero__subtitle--short {
-			font-size: 0.88rem;
 		}
 	}
 </style>
