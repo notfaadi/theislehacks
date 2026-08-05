@@ -3,12 +3,12 @@
 export const uiStrings = {
 	en: {
 		nav: { home: 'Home', aimbot: 'Aimbot', esp: 'ESP', features: 'Features', pricing: 'Pricing', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Buy Now' },
-		hero: { accent: 'Undetected ESP & Aimbot', accentShort: 'ESP & Aimbot', subtitle: 'IsleCheat for Windows PC — ESP, aimbot, and wallhack with EAC maintenance.', subtitleShort: 'ESP & aimbot for The Isle on PC', buyNow: 'Buy Now', seeFeatures: 'See Features' },
-		trust: { status: 'Online', statusNote: 'IsleCheat is live for The Isle on Windows PC.', statusShort: 'Live', delivery: 'Instant digital delivery', platform: 'Windows 10 & 11', antiCheat: 'EAC maintenance supported', antiCheatShort: 'Easy Anti-Cheat (EAC) supported' },
+		hero: { accent: 'Undetected ESP & Aimbot', accentShort: 'ESP & Aimbot', subtitle: 'ESP, aimbot, and wallhack for The Isle on Windows PC.', subtitleShort: 'ESP & aimbot for The Isle on PC', buyNow: 'Buy Now', seeFeatures: 'See Features' },
+		trust: { status: 'Online', statusNote: 'IsleCheat is live for The Isle on Windows PC.', statusShort: 'Live', delivery: 'Instant digital delivery', platform: 'Windows 10 & 11', antiCheat: 'Easy Anti-Cheat supported', antiCheatShort: 'Easy Anti-Cheat (EAC) supported' },
 		product: { title: 'IsleCheat', addToCart: 'Add to Cart', monthly: 'Monthly', lifetime: 'Lifetime', available: 'Available now', gameBadge: 'The Isle', platformBadge: 'Windows PC', statusBadge: 'Maintained package' },
 		reviews: { title: 'What players say', subtitle: 'Recent feedback from IsleCheat buyers', outOf: 'out of 5', countLabel: 'reviews' },
 		common: { buyNow: 'Buy Now', readGuide: 'Read guide', language: 'Language', officialLanguageNote: 'English is the official language. Other languages are convenience UI translations.', relatedPages: 'Related pages' },
-		footer: { explore: 'Explore', help: 'Help & legal', tagline: 'IsleCheat for PC — ESP, aimbot, and wallhack with EAC updates.' },
+		footer: { explore: 'Explore', help: 'Help & legal', tagline: 'IsleCheat for The Isle — ESP, aimbot, and wallhack on Windows PC.' },
 		images: { hero: 'The Isle cinematic island survival scene', espWallhack: 'The Isle predator encounter in prehistoric terrain', aimbotCombat: 'The Isle dinosaur pack roaming the island', squadFight: 'The Isle open-world survival landscape with dinosaurs', playerEsp: 'The Isle gameplay — dense jungle and dinosaur hunt view', headerArt: 'The Isle predator encounter in prehistoric terrain', cheatsPackage: 'The Isle gameplay — dense jungle and dinosaur hunt view', rebootFight: 'The Isle open-world survival landscape with dinosaurs', battleRoyale: 'The Isle predator encounter in prehistoric terrain', battleRoyaleIsland: 'The Isle dinosaur pack roaming the island' },
 	},
 	es: {

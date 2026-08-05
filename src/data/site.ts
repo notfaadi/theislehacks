@@ -1,6 +1,6 @@
 export const siteConfig = {
 	name: 'IsleCheat',
-	url: 'https://islecheat.net',
+	url: 'https://theislehacks.com',
 	locale: 'en',
 	market: 'Worldwide',
 	supportEmail: 'support@islecheat.net',
@@ -18,9 +18,9 @@ export const productInfo = {
 	name: 'IsleCheat',
 	shortName: 'Isle',
 	brand: 'IsleCheat',
-	tagline: 'Undetected IsleCheat for PC — ESP, aimbot, and wallhack with EAC updates',
+	tagline: 'Undetected IsleCheat for The Isle — ESP, aimbot, and wallhack on PC',
 	summary:
-		'IsleCheat is a Windows PC package for ESP, aimbot, and wallhack on The Isle. Built for hunt pressure and survival fights, with maintenance after Easy Anti-Cheat patches.',
+		'IsleCheat is a Windows PC package for ESP, aimbot, and wallhack on The Isle. Built for hunt pressure and survival fights.',
 	game: 'The Isle',
 	delivery: 'Digital license delivery after purchase confirmation',
 	platforms: ['Windows PC', 'Controllers'],
@@ -66,7 +66,7 @@ export const trustSignals = {
 	statusNote: 'IsleCheat is live for The Isle on Windows PC.',
 	delivery: 'Instant digital delivery',
 	platform: 'Windows 10 & 11',
-	antiCheat: 'EAC maintenance supported',
+	antiCheat: 'Easy Anti-Cheat supported',
 } as const;
 
 export const seoLandingPages = [

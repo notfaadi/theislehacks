@@ -87,7 +87,7 @@ function productPage(locale, pageKey, topicName, cta2href) {
 		title: clampTitle(stripZadeyoFromMeta(titleBase)),
 		description: clampDesc(
 			stripZadeyoFromMeta(
-				`${topicName}: ${meta.focus} for Rust. ${p.delivery}. EAC maintenance included.`,
+				`${topicName} for The Isle — ${meta.focus}. Instant digital delivery for Windows PC.`,
 			),
 		),
 		h1: `${topicName} — ${meta.suffix}`,

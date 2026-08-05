@@ -46,7 +46,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				hero: {
 					accent: "Undetected ESP & Aimbot",
 					accentShort: "ESP & Aimbot",
-					subtitle: "IsleCheat for Windows PC — ESP, aimbot, and wallhack with EAC maintenance.",
+					subtitle: "ESP, aimbot, and wallhack for The Isle on Windows PC.",
 					subtitleShort: "ESP & aimbot for The Isle on PC",
 					buyNow: "Buy Now",
 					seeFeatures: "See Features",
@@ -57,7 +57,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					statusShort: "Live",
 					delivery: "Instant digital delivery",
 					platform: "Windows 10 & 11",
-					antiCheat: "EAC maintenance supported",
+					antiCheat: "Easy Anti-Cheat supported",
 					antiCheatShort: "Easy Anti-Cheat (EAC) supported",
 				},
 				product: {
@@ -86,7 +86,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Explore",
 					help: "Help & legal",
-					tagline: "IsleCheat for PC — ESP, aimbot, and wallhack with EAC updates.",
+					tagline: "IsleCheat for The Isle — ESP, aimbot, and wallhack on Windows PC.",
 				},
 				images: {
 					hero: "The Isle cinematic island survival scene",
@@ -103,10 +103,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 			},
 			pages: {
 				home: {
-					title: "IsleCheat 2026 | Undetected ESP & Aimbot",
-					description: "Undetected IsleCheat for PC with ESP, aimbot, and wallhack overlays. Compare monthly and lifetime plans, features, setup, and EAC update status before you buy.",
-					h1: "IsleCheat — ESP, Aimbot & Wallhack for PC",
-					intro: "A focused Windows PC package for Rust: player ESP, aimbot controls, and wallhack overlays with EAC maintenance after major patches.",
+					title: "IsleCheat 2026 | Undetected ESP & Aimbot for The Isle",
+					description: "Undetected IsleCheat for The Isle: ESP, aimbot and wallhack on Windows PC. Instant delivery — pick $35/mo or $150 lifetime and start today.",
+					h1: "IsleCheat — ESP, Aimbot & Wallhack for The Isle",
+					intro: "A focused Windows PC package for The Isle: player ESP, aimbot controls, and wallhack overlays built for hunt pressure and survival fights.",
 					imageAlt: "IsleCheat aimbot holographic sight with ESP skeleton and red head lock",
 					galleryTitle: "IsleCheat visuals",
 					ctaPrimary: "Buy IsleCheat",
@@ -136,9 +136,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP for PC with player boxes, loot markers, and wallhack distance readouts. Undetected IsleCheat with EAC maintenance — compare ESP, aimbot, and pricing.",
+					description: "IsleCheat ESP for The Isle — player boxes, loot markers, and distance readouts so you read dens and hunt routes before you push.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
-					intro: "Visibility tools for Rust. Read enemy squads, vehicles, loot, chests, and distance before you commit to a fight — with toggleable ESP wallhack overlays for PVE and PVP.",
+					intro: "Visibility tools for The Isle. Read nearby players, loot, and distance before you commit to a fight — with toggleable ESP wallhack overlays.",
 					imageAlt: "Rust ESP with green skeleton, bounding box, loot labels, and distances",
 					galleryTitle: "Rust ESP overlay visuals",
 					ctaPrimary: "Buy IsleCheat",
@@ -188,9 +188,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim for PC & Controllers",
-					description: "Rust aimbot with soft aim for PC and controllers. Tune FOV, bone priority, and hotkeys — bundled with ESP in our undetected IsleCheat. Compare plans and setup.",
+					description: "IsleCheat aimbot with soft aim for The Isle. Tune FOV, bone priority, and hotkeys — bundled with ESP in one license.",
 					h1: "Rust Aimbot — Soft Aim for PC & Controllers",
-					intro: "Configurable Aimbot tools for Rust firefights. Smoothness, FOV, bone priority, and per-weapon profiles — bundled with ESP wallhack and radar in one undetected license.",
+					intro: "Configurable Aimbot tools for The Isle. Smoothness, FOV, bone priority, and per-weapon profiles — bundled with ESP and radar in one license.",
 					imageAlt: "Rust aimbot menu with red skeleton ESP, silent aim, and feature toggles",
 					galleryTitle: "Rust Aimbot combat previews",
 					ctaPrimary: "Buy IsleCheat",
@@ -240,9 +240,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "IsleCheat Features | ESP, Soft Aim, Cloud DMA",
-					description: "Full IsleCheat feature list: ESP boxes, soft aim, radar, cloud DMA, and in-match toggles for PC. Review every control before checkout on islecheat.net.",
+					description: "Full IsleCheat feature list for The Isle: ESP, soft aim, radar, and in-match toggles. Review every control before you buy.",
 					h1: "IsleCheat Features — Full Control List",
-					intro: "Every ESP wallhack, radar hack, and Aimbot control included in the Rust Cheats package for Rust on Windows PC — with EAC maintenance after major patches.",
+					intro: "Every ESP wallhack, radar, and Aimbot control included in the IsleCheat package for The Isle on Windows PC.",
 					imageAlt: "Rust ESP boxes, weapon labels, and distances on UKN practice bots",
 					galleryTitle: "Rust Cheats feature gallery",
 					ctaPrimary: "Buy IsleCheat",
@@ -278,9 +278,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "IsleCheat Pricing | $35/mo or $150 Life",
-					description: "IsleCheat pricing: $35/month or $150 lifetime for ESP, soft aim, radar, and cloud DMA on Windows PC. Instant digital delivery — pick monthly or lifetime today.",
+					description: "IsleCheat pricing for The Isle: $35/month or $150 lifetime. ESP, soft aim, and radar with instant digital delivery.",
 					h1: "IsleCheat Pricing — Monthly & Lifetime",
-					intro: "Choose monthly or lifetime access to undetected Rust Cheats — ESP wallhack, radar hack, and Aimbot for Rust on Windows PC. Instant digital delivery after payment.",
+					intro: "Choose monthly or lifetime access to IsleCheat — ESP, radar, and Aimbot for The Isle on Windows PC. Instant digital delivery after payment.",
 					imageAlt: "Rust ESP overlay with skeleton ESP and loot inventory labels",
 					galleryTitle: "Rust Cheats package visuals",
 					ctaPrimary: "Buy IsleCheat",
@@ -316,9 +316,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "IsleCheat Setup | PC & Controller Guide",
-					description: "Set up IsleCheat on PC and controllers — activate ESP boxes, soft aim profiles, and cloud DMA. Check EAC updates before your first queue.",
+					description: "Set up IsleCheat on Windows PC — activate your license, load ESP and aimbot profiles, and get ready for The Isle.",
 					h1: "IsleCheat Setup — PC & Controller Guide",
-					intro: "Install and configure Rust Cheats for Rust on Windows 10 or 11. Activate your license, load ESP wallhack and Aimbot profiles, and verify EAC maintenance status before queueing.",
+					intro: "Install and configure IsleCheat for The Isle on Windows 10 or 11. Activate your license, load ESP and Aimbot profiles, then start your first session.",
 					imageAlt: "Rust aimbot cheats menu with red skeleton ESP and hotkey toggles",
 					galleryTitle: "Rust Cheats setup visuals",
 					ctaPrimary: "Buy IsleCheat",
@@ -354,9 +354,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "IsleCheat Updates | EAC Maintenance Log",
-					description: "IsleCheat update log: EAC rebuilds for ESP boxes, soft aim, and cloud DMA on PC and controllers. Check status before queueing after patches.",
+					description: "IsleCheat update log for The Isle. Check rebuild status after game or anti-cheat patches before you queue.",
 					h1: "IsleCheat Updates — Maintenance Log",
-					intro: "Track EAC maintenance and Rust patch rebuilds for the undetected ESP wallhack, radar hack, and Aimbot package. Check here before queueing after major updates.",
+					intro: "Track rebuild notes for the IsleCheat ESP, radar, and Aimbot package. Check here before queueing after major updates.",
 					imageAlt: "Rust ESP green hitbox wallhack on a hazmat-suited player",
 					galleryTitle: "Rust patch and maintenance visuals",
 					ctaPrimary: "Buy IsleCheat",
@@ -392,9 +392,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "IsleCheat FAQ | ESP, Soft Aim & EAC Answers",
-					description: "IsleCheat FAQ: ESP boxes, soft aim, cloud DMA, controller support, EAC maintenance, and pricing for PC. Clear answers before you buy.",
+					description: "IsleCheat FAQ — answers on ESP, aimbot, delivery, pricing, and support for The Isle on Windows PC.",
 					h1: "IsleCheat FAQ — Common Questions",
-					intro: "Answers about undetected Rust Cheats — ESP wallhack, radar hack, Aimbot, EAC maintenance, checkout, and Rust compatibility on Windows PC.",
+					intro: "Answers about IsleCheat — ESP, radar, Aimbot, checkout, and Windows PC compatibility for The Isle.",
 					imageAlt: "Rust ESP boxes and distance labels on UKN practice bots",
 					galleryTitle: "Rust Cheats FAQ visuals",
 					ctaPrimary: "Buy IsleCheat",
@@ -430,9 +430,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "IsleCheat Support | Help & Contact",
-					description: "Contact IsleCheat support for licenses, ESP setup, soft aim profiles, and cloud DMA on PC and controllers. Include your order ID for faster help.",
+					description: "Contact IsleCheat support for licenses, setup help, and billing questions. Include your order ID for faster replies.",
 					h1: "IsleCheat Support — Contact Us",
-					intro: "Get help with Rust Cheats licenses, checkout, ESP wallhack setup, Aimbot profiles, and EAC maintenance for Rust on Windows PC.",
+					intro: "Get help with IsleCheat licenses, checkout, ESP setup, and Aimbot profiles for The Isle on Windows PC.",
 					imageAlt: "IsleCheat aimbot sight with ESP skeleton and red head lock",
 					galleryTitle: "Rust Cheats support resources",
 					ctaPrimary: "Email support",
@@ -468,9 +468,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected IsleCheat 2026 | EAC Safe",
-					description: "Undetected IsleCheat with EAC maintenance for ESP boxes, soft aim, and cloud DMA on PC and controllers. Check status before you queue.",
+					description: "How IsleCheat stays maintained for The Isle after Easy Anti-Cheat patches. Check status before you queue.",
 					h1: "Undetected IsleCheat — EAC Maintenance",
-					intro: "How Rust Cheats stays maintained for Rust after Easy Anti-Cheat patches — ESP wallhack, radar hack, and Aimbot rebuilds for Windows PC.",
+					intro: "How IsleCheat stays maintained for The Isle after Easy Anti-Cheat patches — ESP, radar, and Aimbot rebuilds for Windows PC.",
 					imageAlt: "Rust wallhack green hitbox ESP on a hazmat suit player",
 					galleryTitle: "Undetected Rust Cheats visuals",
 					ctaPrimary: "Buy IsleCheat",
@@ -506,9 +506,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Boxes & Visibility",
-					description: "Rust wallhack ESP with player boxes and loot markers for PC and controllers. Undetected rust cheats with cloud DMA — learn overlays and buy.",
+					description: "IsleCheat wallhack ESP for The Isle — player boxes and loot markers through terrain. See overlays and buy.",
 					h1: "Rust Wallhack — ESP Boxes & Visibility",
-					intro: "Rust wallhack ESP for Rust — see players, loot, vehicles, and chests through toggleable wallhack overlays built for PVE and PVP.",
+					intro: "Wallhack ESP for The Isle — see players, loot, and threats through toggleable overlays built for hunt and survival play.",
 					imageAlt: "Rust wallhack ESP green hitbox around a hazmat-suited player",
 					galleryTitle: "Rust wallhack ESP gallery",
 					ctaPrimary: "Buy IsleCheat",
@@ -544,7 +544,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Rust Radar Hack 2026 | 2D Threat Overlay",
-					description: "Rust radar hack for flank awareness on PC and controllers. Bundled with ESP boxes, soft aim, and cloud DMA in our IsleCheat package.",
+					description: "IsleCheat radar for flank awareness on The Isle. Bundled with ESP and soft aim in one package.",
 					h1: "Rust Radar Hack — 2D Threat Awareness",
 					intro: "2D radar-style overlay for Rust — directional threat cues for nearby players outside your line of sight, bundled with ESP wallhack and Aimbot.",
 					imageAlt: "Rust ESP distance markers and weapon labels on UKN practice bots",
@@ -582,7 +582,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC Bypass Rust | Hack Maintenance Guide",
-					description: "How IsleCheat rebuild after EAC patches — ESP boxes, soft aim, and cloud DMA maintenance for PC and controllers. Read before queueing.",
+					description: "How IsleCheat handles Easy Anti-Cheat patches for The Isle — rebuild notes and what to check before queueing.",
 					h1: "EAC Bypass — IsleCheat Maintenance",
 					intro: "Understand Easy Anti-Cheat maintenance for Rust Cheats — how ESP wallhack, radar hack, and Aimbot rebuild after Rust security updates.",
 					imageAlt: "Rust ESP green hitbox wallhack used for EAC maintenance status pages",
@@ -620,9 +620,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 | Hacks with ESP & Cloud DMA",
-					description: "Best rust cheats 2026: ESP boxes, soft aim, and cloud DMA for PC and controllers. Undetected IsleCheat with EAC maintenance — compare and buy.",
+					description: "IsleCheat for The Isle in 2026 — ESP, soft aim, and radar in one maintained package. Compare plans and buy.",
 					h1: "Rust Cheats 2026 — ESP, Soft Aim & Cloud DMA",
-					intro: "The 2026 Rust Cheats package for Rust — undetected ESP wallhack, radar hack, and Aimbot with EAC maintenance, instant delivery, and Windows PC support.",
+					intro: "The 2026 IsleCheat package for The Isle — ESP, radar, and Aimbot with instant delivery and Windows PC support.",
 					imageAlt: "IsleCheat aimbot holographic sight with ESP skeleton and red head lock",
 					galleryTitle: "Rust Cheats 2026 gallery",
 					ctaPrimary: "Buy IsleCheat",
@@ -658,9 +658,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | Undetected ESP Aimbot Guide",
-					description: "IsleCheat for Windows PC: undetected ESP wallhack, radar hack, and Aimbot with EAC maintenance. Compare rust cheats options and buy the full package.",
+					description: "IsleCheat for The Isle on Windows PC: ESP, wallhack, and aimbot in one license. Compare options and buy.",
 					h1: "IsleCheat — Undetected ESP, Aimbot & Wallhack",
-					intro: "IsleCheat for survival and monuments combine ESP wallhack visibility, 2D radar-style threat cues, and Aimbot controls in one undetected Windows PC license — maintained after Easy Anti-Cheat patches. This is the pillar guide for IsleCheat in 2026.",
+					intro: "IsleCheat for The Isle combines ESP visibility, radar threat cues, and Aimbot controls in one Windows PC license. This is the pillar guide for IsleCheat.",
 					imageAlt: "IsleCheat aimbot sight with ESP skeleton and red head lock",
 					galleryTitle: "IsleCheat gallery — ESP, Aimbot, wallhack",
 					ctaPrimary: "Buy IsleCheat",
@@ -704,7 +704,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Hack Download 2026 | Instant Access",
-					description: "Rust hack download with instant license delivery — ESP boxes, soft aim, and cloud DMA for PC and controllers. Buy, activate, and play.",
+					description: "Download IsleCheat with instant license delivery — ESP, soft aim, and radar for The Isle. Buy, activate, and play.",
 					h1: "Rust Hack Download — Instant License Delivery",
 					intro: "How Rust cheat download works for Rust — digital license delivery after payment confirmation, with ESP wallhack, radar hack, and Aimbot access on Windows PC.",
 					imageAlt: "Rust ESP overlay with skeleton ESP and loot inventory labels",
@@ -742,7 +742,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | ESP & Soft Aim Toggles",
-					description: "Rust mod menu for in-match toggles — ESP boxes, soft aim, radar, and cloud DMA on PC and controllers. Undetected IsleCheat package.",
+					description: "IsleCheat mod menu for in-match toggles — ESP, soft aim, and radar on The Isle. One maintained package.",
 					h1: "Rust Mod Menu — In-Client Control Panel",
 					intro: "Rust mod menu controls for Rust — toggle ESP wallhack categories, radar range, and Aimbot profiles mid-match without leaving your Rust session on Windows PC.",
 					imageAlt: "Rust mod menu / aimbot overlay with red skeleton ESP and hotkeys",
@@ -780,7 +780,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aimbot Settings",
-					description: "Rust soft aim settings for natural tracking on PC and controllers. Smoothness, FOV, and bone priority — included in our IsleCheat with ESP boxes.",
+					description: "IsleCheat soft aim settings for natural tracking on The Isle. Smoothness, FOV, and bone priority included.",
 					h1: "Rust Soft Aim — Smooth Aimbot Controls",
 					intro: "Rust soft aim settings for Rust — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.",
 					imageAlt: "Rust soft aim ESP boxes and FOV circle on UKN practice bots",
@@ -818,7 +818,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best IsleCheat 2026 | Buyer Guide",
-					description: "Best IsleCheat for 2026: ESP boxes, soft aim, cloud DMA, and EAC maintenance on PC and controllers. Use this checklist before checkout.",
+					description: "Best IsleCheat options for The Isle — ESP, soft aim, and radar checklist before you buy.",
 					h1: "Best IsleCheat — 2026 Buyer Guide",
 					intro: "Compare the best Rust cheats for Rust in 2026 — undetected ESP wallhack, radar hack, and Aimbot in one maintained package with Easy Anti-Cheat rebuilds and instant delivery.",
 					imageAlt: "Rust ESP overlay with skeleton ESP and loot inventory labels",
@@ -856,7 +856,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust aimbot hack with soft aim for PC and controllers. FOV, bone priority, and hotkeys — bundled with ESP boxes in our IsleCheat package.",
+					description: "IsleCheat aimbot with soft aim for The Isle. FOV, bone priority, and hotkeys bundled with ESP.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust aimbot hack tools for Rust — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.",
 					imageAlt: "Rust aimbot hack menu with red skeleton ESP and silent aim toggles",
@@ -894,7 +894,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | Player Boxes & Loot",
-					description: "Rust ESP hack with player boxes and loot markers for PC and controllers. Undetected rust cheats with cloud DMA — see overlays and buy.",
+					description: "IsleCheat ESP for The Isle — player boxes, loot markers, and distance readouts. See overlays and buy.",
 					h1: "Rust ESP Hack — Player Boxes Guide",
 					intro: "Rust ESP hack overlays for Rust — player outlines, vehicle threat cues, loot and chest markers with distance readouts across survival and monuments.",
 					imageAlt: "Rust ESP hack with green skeleton, box, and loot visibility labels",
@@ -932,7 +932,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Really Means",
-					description: "Rust unlock all explained vs real IsleCheat — ESP boxes, soft aim, and cloud DMA for PC and controllers. Know what you are buying.",
+					description: "Unlock-all searches vs real IsleCheat for The Isle — ESP, soft aim, and radar. Know what you are buying.",
 					h1: "Rust Unlock All — What Players Search For",
 					intro: "Rust unlock all is a common search term for Rust — this page clarifies what unlock-all tools claim versus the ESP wallhack, radar hack, and Aimbot tools Rust Cheats actually provides on Windows PC.",
 					imageAlt: "Rust ESP boxes and distances on UKN bots for unlock-all context",
@@ -970,9 +970,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Privacy Policy | IsleCheat",
-					description: "Privacy policy for IsleCheat. How we handle support emails, order data, and checkout for rust cheats licenses on islecheat.net.",
+					description: "Privacy policy for IsleCheat. How we handle support emails, order data, and checkout on theislehacks.com.",
 					h1: "Privacy Policy",
-					intro: "How IsleCheat handles information when you browse islecheat.net or contact support about a Rust license.",
+					intro: "How IsleCheat handles information when you browse theislehacks.com or contact support about a license.",
 					imageAlt: "Rust ESP overlay visual for privacy policy page",
 					galleryTitle: "Rust Cheats legal resources",
 					ctaPrimary: "Email support",
@@ -1010,7 +1010,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Refund Policy | IsleCheat",
-					description: "Refund policy for IsleCheat. Digital delivery terms and eligibility for IsleCheat packages with ESP, soft aim, and cloud DMA.",
+					description: "Refund policy for IsleCheat. Digital delivery terms and eligibility for IsleCheat packages.",
 					h1: "Refund Policy",
 					intro: "Refund terms for Rust Cheats licenses — ESP wallhack, radar hack, and Aimbot packages purchased through checkout for Rust.",
 					imageAlt: "Rust ESP overlay visual for refund policy page",
@@ -1045,9 +1045,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				terms: {
 					title: "Terms of Use 2026 | IsleCheat Rules",
-					description: "Terms of use for islecheat.net and IsleCheat licenses. Usage rules, anti-cheat risk, and liability for PC and controller cheats.",
+					description: "Terms of use for IsleCheat licenses. Usage rules, anti-cheat risk, and liability for Windows PC.",
 					h1: "Terms of Use",
-					intro: "Terms governing use of islecheat.net and IsleCheat licenses for Rust on Windows PC.",
+					intro: "Terms governing use of theislehacks.com and IsleCheat licenses for The Isle on Windows PC.",
 					imageAlt: "Rust ESP overlay visual for terms of use page",
 					galleryTitle: "Rust Cheats legal pages",
 					ctaPrimary: "Email support",
@@ -1182,7 +1182,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -1217,7 +1217,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -1252,7 +1252,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funciones 2026 | IsleCheat Full Feature List",
-					description: "Funciones: ESP, soft aim, radar, and cloud DMA controls for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Funciones for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Funciones — Full Feature List",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Funciones for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -1287,7 +1287,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Precios 2026 | IsleCheat Monthly & Lifetime",
-					description: "Precios: $35 monthly or $150 lifetime licenses for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Precios for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Precios — Monthly & Lifetime",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Precios for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -1322,7 +1322,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Instalación 2026 | IsleCheat PC Setup Guide",
-					description: "Instalación: Windows PC activation and first-launch setup for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Instalación for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Instalación — PC Setup Guide",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Instalación for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -1357,7 +1357,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Actualizaciones 2026 | EAC Maintenance Log",
-					description: "Actualizaciones: EAC patch status and rebuild notes for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Actualizaciones for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Actualizaciones — EAC Maintenance Log",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Actualizaciones for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -1392,7 +1392,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -1427,7 +1427,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Soporte 2026 | IsleCheat Help & Contact",
-					description: "Soporte: order help and license support contact for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Soporte for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Soporte — Help & Contact",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Soporte for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -1462,7 +1462,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Trucos indetectables 2026 | EAC Safe Status",
-					description: "Trucos indetectables: undetected maintenance after Easy Anti-Cheat patches for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Trucos indetectables for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Trucos indetectables — EAC Safe Status",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Trucos indetectables for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -1497,7 +1497,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -1532,7 +1532,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -1567,7 +1567,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -1602,7 +1602,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -1637,7 +1637,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -1672,7 +1672,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Descarga Rust Cheats 2026 | Instant Access",
-					description: "Descarga Rust Cheats: digital license download after payment for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Descarga Rust Cheats for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Descarga Rust Cheats — Instant Access",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Descarga Rust Cheats for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -1707,7 +1707,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -1742,7 +1742,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -1777,7 +1777,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Mejores Rust Cheats 2026 | Buyer Checklist",
-					description: "Mejores Rust Cheats: what to compare before buying Rust cheats for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Mejores Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Mejores Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Mejores Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -1812,7 +1812,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -1847,7 +1847,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -1882,7 +1882,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. entrega digital instantánea. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats ofrece ESP wallhack, radar hack y Aimbot indetectables para Rust en Windows PC. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -2124,7 +2124,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -2159,7 +2159,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -2194,7 +2194,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Fonctions 2026 | IsleCheat Full Feature List",
-					description: "Fonctions: ESP, soft aim, radar, and cloud DMA controls for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Fonctions for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Fonctions — Full Feature List",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Fonctions for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -2229,7 +2229,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Tarifs 2026 | IsleCheat Monthly & Lifetime",
-					description: "Tarifs: $35 monthly or $150 lifetime licenses for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Tarifs for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Tarifs — Monthly & Lifetime",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Tarifs for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -2264,7 +2264,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Installation 2026 | IsleCheat PC Setup Guide",
-					description: "Installation: Windows PC activation and first-launch setup for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Installation for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Installation — PC Setup Guide",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Installation for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -2299,7 +2299,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Mises à jour 2026 | EAC Maintenance Log",
-					description: "Mises à jour: EAC patch status and rebuild notes for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Mises à jour for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Mises à jour — EAC Maintenance Log",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Mises à jour for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -2334,7 +2334,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -2369,7 +2369,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Support 2026 | IsleCheat Help & Contact",
-					description: "Support: order help and license support contact for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Support for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Support — Help & Contact",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Support for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -2404,7 +2404,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Triches indétectables 2026 | EAC Safe Status",
-					description: "Triches indétectables: undetected maintenance after Easy Anti-Cheat patches for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Triches indétectables for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Triches indétectables — EAC Safe Status",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Triches indétectables for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -2439,7 +2439,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -2474,7 +2474,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -2509,7 +2509,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -2544,7 +2544,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -2579,7 +2579,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -2614,7 +2614,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Téléchargement Rust Cheats 2026 | Instant Access",
-					description: "Téléchargement Rust Cheats: digital license download after payment for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Téléchargement Rust Cheats for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Téléchargement Rust Cheats — Instant Access",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Téléchargement Rust Cheats for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -2649,7 +2649,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -2684,7 +2684,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -2719,7 +2719,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Meilleures Rust Cheats 2026 | Buyer Checklist",
-					description: "Meilleures Rust Cheats: what to compare before buying Rust cheats for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Meilleures Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Meilleures Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Meilleures Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -2754,7 +2754,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -2789,7 +2789,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -2824,7 +2824,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. livraison numérique instantanée. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats combine ESP wallhack, radar hack et Aimbot indétectables pour Rust sur PC Windows. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -3066,7 +3066,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -3101,7 +3101,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -3136,7 +3136,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Features 2026 | IsleCheat Full Feature List",
-					description: "Features: ESP, soft aim, radar, and cloud DMA controls for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Features for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Features — Full Feature List",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Features for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -3171,7 +3171,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Preise 2026 | IsleCheat Monthly & Lifetime",
-					description: "Preise: $35 monthly or $150 lifetime licenses for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Preise for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Preise — Monthly & Lifetime",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Preise for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -3206,7 +3206,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Setup 2026 | IsleCheat PC Setup Guide",
-					description: "Setup: Windows PC activation and first-launch setup for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Setup for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Setup — PC Setup Guide",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Setup for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -3241,7 +3241,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Updates 2026 | IsleCheat EAC Maintenance Log",
-					description: "Updates: EAC patch status and rebuild notes for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Updates for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Updates — EAC Maintenance Log",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Updates for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -3276,7 +3276,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -3311,7 +3311,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Support 2026 | IsleCheat Help & Contact",
-					description: "Support: order help and license support contact for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Support for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Support — Help & Contact",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Support for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -3346,7 +3346,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected Cheats 2026 | EAC Safe Status",
-					description: "Undetected Cheats: undetected maintenance after Easy Anti-Cheat patches for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Undetected Cheats for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetected Cheats — EAC Safe Status",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Undetected Cheats for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -3381,7 +3381,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -3416,7 +3416,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack 2026 | 2D Threat Overlay",
-					description: "Radar Hack: 2D radar cues for flanks and rotations for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Radar Hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Radar Hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -3451,7 +3451,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC Bypass 2026 | Patch Maintenance",
-					description: "EAC Bypass: how EAC updates are handled for IsleCheat for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "EAC Bypass for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "EAC Bypass — Patch Maintenance",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. EAC Bypass for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -3486,7 +3486,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -3521,7 +3521,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -3556,7 +3556,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -3591,7 +3591,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -3626,7 +3626,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -3661,7 +3661,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Beste Rust Cheats 2026 | Buyer Checklist",
-					description: "Beste Rust Cheats: what to compare before buying Rust cheats for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Beste Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Beste Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Beste Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -3696,7 +3696,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -3731,7 +3731,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -3766,7 +3766,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. sofortige digitale Lieferung. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats bündelt ESP wallhack, radar hack und Aimbot als undetected Paket für Rust auf Windows PC. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -4008,7 +4008,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -4043,7 +4043,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -4078,7 +4078,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Recursos 2026 | IsleCheat Full Feature List",
-					description: "Recursos: ESP, soft aim, radar, and cloud DMA controls for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Recursos for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Recursos — Full Feature List",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Recursos for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -4113,7 +4113,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Preços 2026 | IsleCheat Monthly & Lifetime",
-					description: "Preços: $35 monthly or $150 lifetime licenses for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Preços for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Preços — Monthly & Lifetime",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Preços for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -4148,7 +4148,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Instalação 2026 | IsleCheat PC Setup Guide",
-					description: "Instalação: Windows PC activation and first-launch setup for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Instalação for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Instalação — PC Setup Guide",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Instalação for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -4183,7 +4183,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Atualizações 2026 | EAC Maintenance Log",
-					description: "Atualizações: EAC patch status and rebuild notes for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Atualizações for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Atualizações — EAC Maintenance Log",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Atualizações for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -4218,7 +4218,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -4253,7 +4253,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Suporte 2026 | IsleCheat Help & Contact",
-					description: "Suporte: order help and license support contact for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Suporte for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Suporte — Help & Contact",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Suporte for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -4288,7 +4288,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Cheats indetectáveis 2026 | EAC Safe Status",
-					description: "Cheats indetectáveis: undetected maintenance after Easy Anti-Cheat patches for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Cheats indetectáveis for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Cheats indetectáveis — EAC Safe Status",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Cheats indetectáveis for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -4323,7 +4323,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -4358,7 +4358,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -4393,7 +4393,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -4428,7 +4428,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -4463,7 +4463,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -4498,7 +4498,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Download Rust Cheats 2026 | Instant Access",
-					description: "Download Rust Cheats: digital license download after payment for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Download Rust Cheats for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Download Rust Cheats — Instant Access",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Download Rust Cheats for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -4533,7 +4533,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -4568,7 +4568,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -4603,7 +4603,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Melhores Rust Cheats 2026 | Buyer Checklist",
-					description: "Melhores Rust Cheats: what to compare before buying Rust cheats for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Melhores Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Melhores Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Melhores Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -4638,7 +4638,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -4673,7 +4673,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -4708,7 +4708,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. entrega digital instantânea. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats reúne ESP wallhack, radar hack e Aimbot indetectáveis para Rust no PC Windows. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -4950,7 +4950,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -4985,7 +4985,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -5020,7 +5020,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funzioni 2026 | IsleCheat Full Feature List",
-					description: "Funzioni: ESP, soft aim, radar, and cloud DMA controls for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Funzioni for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Funzioni — Full Feature List",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Funzioni for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -5055,7 +5055,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Prezzi 2026 | IsleCheat Monthly & Lifetime",
-					description: "Prezzi: $35 monthly or $150 lifetime licenses for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Prezzi for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Prezzi — Monthly & Lifetime",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Prezzi for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -5090,7 +5090,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Setup 2026 | IsleCheat PC Setup Guide",
-					description: "Setup: Windows PC activation and first-launch setup for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Setup for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Setup — PC Setup Guide",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Setup for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -5125,7 +5125,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Aggiornamenti 2026 | EAC Maintenance Log",
-					description: "Aggiornamenti: EAC patch status and rebuild notes for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Aggiornamenti for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Aggiornamenti — EAC Maintenance Log",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Aggiornamenti for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -5160,7 +5160,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -5195,7 +5195,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Supporto 2026 | IsleCheat Help & Contact",
-					description: "Supporto: order help and license support contact for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Supporto for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Supporto — Help & Contact",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Supporto for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -5230,7 +5230,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Cheat indetectable 2026 | EAC Safe Status",
-					description: "Cheat indetectable: undetected maintenance after Easy Anti-Cheat patches for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Cheat indetectable for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Cheat indetectable — EAC Safe Status",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Cheat indetectable for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -5265,7 +5265,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -5300,7 +5300,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -5335,7 +5335,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -5370,7 +5370,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -5405,7 +5405,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -5440,7 +5440,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Download Rust Cheats 2026 | Instant Access",
-					description: "Download Rust Cheats: digital license download after payment for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Download Rust Cheats for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Download Rust Cheats — Instant Access",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Download Rust Cheats for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -5475,7 +5475,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -5510,7 +5510,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -5545,7 +5545,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Migliori Rust Cheats 2026 | Buyer Checklist",
-					description: "Migliori Rust Cheats: what to compare before buying Rust cheats for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Migliori Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Migliori Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Migliori Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -5580,7 +5580,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -5615,7 +5615,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -5650,7 +5650,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. consegna digitale istantanea. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats unisce ESP wallhack, radar hack e Aimbot indetectable per Rust su PC Windows. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -5892,7 +5892,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -5927,7 +5927,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -5962,7 +5962,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Functies 2026 | IsleCheat Full Feature List",
-					description: "Functies: ESP, soft aim, radar, and cloud DMA controls for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Functies for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Functies — Full Feature List",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Functies for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -5997,7 +5997,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Prijzen 2026 | IsleCheat Monthly & Lifetime",
-					description: "Prijzen: $35 monthly or $150 lifetime licenses for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Prijzen for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Prijzen — Monthly & Lifetime",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Prijzen for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -6032,7 +6032,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Setup 2026 | IsleCheat PC Setup Guide",
-					description: "Setup: Windows PC activation and first-launch setup for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Setup for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Setup — PC Setup Guide",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Setup for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -6067,7 +6067,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Updates 2026 | IsleCheat EAC Maintenance Log",
-					description: "Updates: EAC patch status and rebuild notes for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Updates for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Updates — EAC Maintenance Log",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Updates for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -6102,7 +6102,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. directe digitale levering. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -6137,7 +6137,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Support 2026 | IsleCheat Help & Contact",
-					description: "Support: order help and license support contact for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Support for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Support — Help & Contact",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Support for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -6172,7 +6172,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected Cheats 2026 | EAC Safe Status",
-					description: "Undetected Cheats: undetected maintenance after Easy Anti-Cheat patches for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Undetected Cheats for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetected Cheats — EAC Safe Status",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Undetected Cheats for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -6207,7 +6207,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -6242,7 +6242,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack 2026 | 2D Threat Overlay",
-					description: "Radar Hack: 2D radar cues for flanks and rotations for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Radar Hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Radar Hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -6277,7 +6277,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC Bypass 2026 | Patch Maintenance",
-					description: "EAC Bypass: how EAC updates are handled for IsleCheat for Rust. directe digitale levering. EAC maintenance included.",
+					description: "EAC Bypass for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "EAC Bypass — Patch Maintenance",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. EAC Bypass for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -6312,7 +6312,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -6347,7 +6347,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. directe digitale levering. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -6382,7 +6382,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -6417,7 +6417,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -6452,7 +6452,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -6487,7 +6487,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Beste Rust Cheats 2026 | Buyer Checklist",
-					description: "Beste Rust Cheats: what to compare before buying Rust cheats for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Beste Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Beste Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Beste Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -6522,7 +6522,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -6557,7 +6557,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -6592,7 +6592,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. directe digitale levering. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats bundelt ESP wallhack, radar hack en Aimbot als undetected pakket voor Rust op Windows PC. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -6834,7 +6834,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -6869,7 +6869,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -6904,7 +6904,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funkcje 2026 | IsleCheat Full Feature List",
-					description: "Funkcje: ESP, soft aim, radar, and cloud DMA controls for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Funkcje for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Funkcje — Full Feature List",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Funkcje for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -6939,7 +6939,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Cennik 2026 | IsleCheat Monthly & Lifetime",
-					description: "Cennik: $35 monthly or $150 lifetime licenses for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Cennik for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Cennik — Monthly & Lifetime",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Cennik for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -6974,7 +6974,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Instalacja 2026 | IsleCheat PC Setup Guide",
-					description: "Instalacja: Windows PC activation and first-launch setup for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Instalacja for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Instalacja — PC Setup Guide",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Instalacja for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -7009,7 +7009,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Aktualizacje 2026 | EAC Maintenance Log",
-					description: "Aktualizacje: EAC patch status and rebuild notes for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Aktualizacje for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Aktualizacje — EAC Maintenance Log",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Aktualizacje for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -7044,7 +7044,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -7079,7 +7079,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Wsparcie 2026 | IsleCheat Help & Contact",
-					description: "Wsparcie: order help and license support contact for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Wsparcie for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Wsparcie — Help & Contact",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Wsparcie for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -7114,7 +7114,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Cheaty undetected 2026 | EAC Safe Status",
-					description: "Cheaty undetected: undetected maintenance after Easy Anti-Cheat patches for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Cheaty undetected for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Cheaty undetected — EAC Safe Status",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Cheaty undetected for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -7149,7 +7149,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -7184,7 +7184,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -7219,7 +7219,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -7254,7 +7254,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -7289,7 +7289,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -7324,7 +7324,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Pobieranie Rust Cheats 2026 | Instant Access",
-					description: "Pobieranie Rust Cheats: digital license download after payment for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Pobieranie Rust Cheats for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Pobieranie Rust Cheats — Instant Access",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Pobieranie Rust Cheats for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -7359,7 +7359,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -7394,7 +7394,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -7429,7 +7429,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Najlepsze Rust Cheats 2026 | Buyer Checklist",
-					description: "Najlepsze Rust Cheats: what to compare before buying Rust cheats for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Najlepsze Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Najlepsze Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Najlepsze Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -7464,7 +7464,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -7499,7 +7499,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -7534,7 +7534,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. natychmiastowa dostawa cyfrowa. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats łączy ESP wallhack, radar hack i Aimbot jako pakiet undetected dla Rust na PC Windows. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -7776,7 +7776,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -7811,7 +7811,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -7846,7 +7846,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Функции 2026 | IsleCheat Full Feature List",
-					description: "Функции: ESP, soft aim, radar, and cloud DMA controls for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Функции for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Функции — Full Feature List",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Функции for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -7881,7 +7881,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Цены 2026 | IsleCheat Monthly & Lifetime",
-					description: "Цены: $35 monthly or $150 lifetime licenses for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Цены for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Цены — Monthly & Lifetime",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Цены for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -7916,7 +7916,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Установка 2026 | IsleCheat PC Setup Guide",
-					description: "Установка: Windows PC activation and first-launch setup for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Установка for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Установка — PC Setup Guide",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Установка for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -7951,7 +7951,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Обновления 2026 | EAC Maintenance Log",
-					description: "Обновления: EAC patch status and rebuild notes for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Обновления for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Обновления — EAC Maintenance Log",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Обновления for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -7986,7 +7986,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -8021,7 +8021,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Поддержка 2026 | IsleCheat Help & Contact",
-					description: "Поддержка: order help and license support contact for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Поддержка for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Поддержка — Help & Contact",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Поддержка for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -8056,7 +8056,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected читы 2026 | EAC Safe Status",
-					description: "Undetected читы: undetected maintenance after Easy Anti-Cheat patches for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Undetected читы for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetected читы — EAC Safe Status",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Undetected читы for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -8091,7 +8091,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -8126,7 +8126,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -8161,7 +8161,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -8196,7 +8196,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -8231,7 +8231,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -8266,7 +8266,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Скачать Rust Cheats 2026 | Instant Access",
-					description: "Скачать Rust Cheats: digital license download after payment for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Скачать Rust Cheats for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Скачать Rust Cheats — Instant Access",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Скачать Rust Cheats for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -8301,7 +8301,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -8336,7 +8336,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -8371,7 +8371,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Лучшие Rust Cheats 2026 | Buyer Checklist",
-					description: "Лучшие Rust Cheats: what to compare before buying Rust cheats for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Лучшие Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Лучшие Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Лучшие Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -8406,7 +8406,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -8441,7 +8441,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -8476,7 +8476,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. мгновенная цифровая доставка. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats объединяет ESP wallhack, radar hack и Aimbot в undetected пакете для Rust на Windows PC. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -8718,7 +8718,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -8753,7 +8753,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -8788,7 +8788,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Özellikler 2026 | Full Feature List",
-					description: "Özellikler: ESP, soft aim, radar, and cloud DMA controls for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Özellikler for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Özellikler — Full Feature List",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Özellikler for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -8823,7 +8823,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Fiyatlar 2026 | IsleCheat Monthly & Lifetime",
-					description: "Fiyatlar: $35 monthly or $150 lifetime licenses for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Fiyatlar for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Fiyatlar — Monthly & Lifetime",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Fiyatlar for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -8858,7 +8858,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Kurulum 2026 | IsleCheat PC Setup Guide",
-					description: "Kurulum: Windows PC activation and first-launch setup for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Kurulum for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Kurulum — PC Setup Guide",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Kurulum for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -8893,7 +8893,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Güncellemeler 2026 | EAC Maintenance Log",
-					description: "Güncellemeler: EAC patch status and rebuild notes for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Güncellemeler for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Güncellemeler — EAC Maintenance Log",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Güncellemeler for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -8928,7 +8928,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "SSS 2026 | IsleCheat Common Answers",
-					description: "SSS: ESP, soft aim, delivery, and EAC questions for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "SSS for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "SSS — Common Answers",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. SSS for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -8963,7 +8963,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Destek 2026 | IsleCheat Help & Contact",
-					description: "Destek: order help and license support contact for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Destek for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Destek — Help & Contact",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Destek for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -8998,7 +8998,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected hileler 2026 | EAC Safe Status",
-					description: "Undetected hileler: undetected maintenance after Easy Anti-Cheat patches for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Undetected hileler for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetected hileler — EAC Safe Status",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Undetected hileler for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -9033,7 +9033,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -9068,7 +9068,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -9103,7 +9103,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC bypass 2026 | Patch Maintenance",
-					description: "EAC bypass: how EAC updates are handled for IsleCheat for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "EAC bypass for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "EAC bypass — Patch Maintenance",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. EAC bypass for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -9138,7 +9138,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -9173,7 +9173,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -9208,7 +9208,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Hile İndir 2026 | Instant Access",
-					description: "Rust Hile İndir: digital license download after payment for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Rust Hile İndir for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Hile İndir — Instant Access",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Rust Hile İndir for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -9243,7 +9243,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -9278,7 +9278,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -9313,7 +9313,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "En İyi Rust Hileleri 2026 | Buyer Checklist",
-					description: "En İyi Rust Hileleri: what to compare before buying Rust cheats for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "En İyi Rust Hileleri for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "En İyi Rust Hileleri — Buyer Checklist",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. En İyi Rust Hileleri for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -9348,7 +9348,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -9383,7 +9383,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -9418,7 +9418,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. anında dijital teslimat. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats, Rust için Windows PC üzerinde ESP wallhack, radar hack ve Aimbot undetected paket sunar. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -9660,7 +9660,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -9695,7 +9695,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -9730,7 +9730,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "الميزات 2026 | IsleCheat Full Feature List",
-					description: "الميزات: ESP, soft aim, radar, and cloud DMA controls for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "الميزات for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "الميزات — Full Feature List",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. الميزات for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -9765,7 +9765,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "الأسعار 2026 | IsleCheat Monthly & Lifetime",
-					description: "الأسعار: $35 monthly or $150 lifetime licenses for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "الأسعار for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "الأسعار — Monthly & Lifetime",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. الأسعار for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -9800,7 +9800,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "التثبيت 2026 | IsleCheat PC Setup Guide",
-					description: "التثبيت: Windows PC activation and first-launch setup for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "التثبيت for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "التثبيت — PC Setup Guide",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. التثبيت for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -9835,7 +9835,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "التحديثات 2026 | EAC Maintenance Log",
-					description: "التحديثات: EAC patch status and rebuild notes for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "التحديثات for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "التحديثات — EAC Maintenance Log",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. التحديثات for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -9870,7 +9870,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "الأسئلة 2026 | IsleCheat Common Answers",
-					description: "الأسئلة: ESP, soft aim, delivery, and EAC questions for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "الأسئلة for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "الأسئلة — Common Answers",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. الأسئلة for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -9905,7 +9905,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "الدعم 2026 | IsleCheat Help & Contact",
-					description: "الدعم: order help and license support contact for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "الدعم for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "الدعم — Help & Contact",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. الدعم for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -9940,7 +9940,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "غش undetected 2026 | EAC Safe Status",
-					description: "غش undetected: undetected maintenance after Easy Anti-Cheat patches for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "غش undetected for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "غش undetected — EAC Safe Status",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. غش undetected for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -9975,7 +9975,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -10010,7 +10010,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -10045,7 +10045,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -10080,7 +10080,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -10115,7 +10115,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -10150,7 +10150,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -10185,7 +10185,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -10220,7 +10220,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -10255,7 +10255,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Rust Cheats 2026 | Buyer Checklist",
-					description: "Best Rust Cheats: what to compare before buying Rust cheats for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Best Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Best Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Best Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -10290,7 +10290,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -10325,7 +10325,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -10360,7 +10360,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. تسليم رقمي فوري. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats يجمع ESP wallhack وradar hack وAimbot غير مكتشف لـ Rust على Windows PC. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -10602,7 +10602,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -10637,7 +10637,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -10672,7 +10672,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "機能 2026 | IsleCheat Full Feature List",
-					description: "機能: ESP, soft aim, radar, and cloud DMA controls for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "機能 for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "機能 — Full Feature List",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。機能 for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -10707,7 +10707,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "料金 2026 | IsleCheat Monthly & Lifetime",
-					description: "料金: $35 monthly or $150 lifetime licenses for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "料金 for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "料金 — Monthly & Lifetime",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。料金 for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -10742,7 +10742,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "セットアップ 2026 | IsleCheat PC Setup Guide",
-					description: "セットアップ: Windows PC activation and first-launch setup for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "セットアップ for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "セットアップ — PC Setup Guide",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。セットアップ for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -10777,7 +10777,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "更新 2026 | IsleCheat EAC Maintenance Log",
-					description: "更新: EAC patch status and rebuild notes for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "更新 for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "更新 — EAC Maintenance Log",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。更新 for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -10812,7 +10812,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -10847,7 +10847,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "サポート 2026 | IsleCheat Help & Contact",
-					description: "サポート: order help and license support contact for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "サポート for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "サポート — Help & Contact",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。サポート for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -10882,7 +10882,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetectedチート 2026 | EAC Safe Status",
-					description: "Undetectedチート: undetected maintenance after Easy Anti-Cheat patches for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Undetectedチート for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetectedチート — EAC Safe Status",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Undetectedチート for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -10917,7 +10917,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -10952,7 +10952,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack 2026 | 2D Threat Overlay",
-					description: "Radar Hack: 2D radar cues for flanks and rotations for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Radar Hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Radar Hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -10987,7 +10987,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC Bypass 2026 | Patch Maintenance",
-					description: "EAC Bypass: how EAC updates are handled for IsleCheat for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "EAC Bypass for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "EAC Bypass — Patch Maintenance",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。EAC Bypass for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -11022,7 +11022,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -11057,7 +11057,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -11092,7 +11092,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -11127,7 +11127,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -11162,7 +11162,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -11197,7 +11197,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Rust Cheats 2026 | Buyer Checklist",
-					description: "Best Rust Cheats: what to compare before buying Rust cheats for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Best Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Best Rust Cheats — Buyer Checklist",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Best Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -11232,7 +11232,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -11267,7 +11267,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -11302,7 +11302,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. 即時デジタル配信. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust CheatsはRust向けWindows PC用ESP wallhack、radar hack、Aimbotのundetectedパッケージです。Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -11544,7 +11544,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -11579,7 +11579,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -11614,7 +11614,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "기능 2026 | IsleCheat Full Feature List",
-					description: "기능: ESP, soft aim, radar, and cloud DMA controls for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "기능 for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "기능 — Full Feature List",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 기능 for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -11649,7 +11649,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "가격 2026 | IsleCheat Monthly & Lifetime",
-					description: "가격: $35 monthly or $150 lifetime licenses for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "가격 for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "가격 — Monthly & Lifetime",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 가격 for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -11684,7 +11684,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "설치 2026 | IsleCheat PC Setup Guide",
-					description: "설치: Windows PC activation and first-launch setup for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "설치 for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "설치 — PC Setup Guide",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 설치 for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -11719,7 +11719,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "업데이트 2026 | IsleCheat EAC Maintenance Log",
-					description: "업데이트: EAC patch status and rebuild notes for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "업데이트 for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "업데이트 — EAC Maintenance Log",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 업데이트 for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -11754,7 +11754,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -11789,7 +11789,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "지원 2026 | IsleCheat Help & Contact",
-					description: "지원: order help and license support contact for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "지원 for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "지원 — Help & Contact",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. 지원 for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -11824,7 +11824,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected 치트 2026 | EAC Safe Status",
-					description: "Undetected 치트: undetected maintenance after Easy Anti-Cheat patches for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Undetected 치트 for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetected 치트 — EAC Safe Status",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Undetected 치트 for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -11859,7 +11859,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -11894,7 +11894,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack 2026 | 2D Threat Overlay",
-					description: "Radar Hack: 2D radar cues for flanks and rotations for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Radar Hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Radar Hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -11929,7 +11929,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC Bypass 2026 | Patch Maintenance",
-					description: "EAC Bypass: how EAC updates are handled for IsleCheat for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "EAC Bypass for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "EAC Bypass — Patch Maintenance",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. EAC Bypass for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -11964,7 +11964,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -11999,7 +11999,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -12034,7 +12034,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -12069,7 +12069,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -12104,7 +12104,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -12139,7 +12139,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Rust Cheats 2026 | Buyer Checklist",
-					description: "Best Rust Cheats: what to compare before buying Rust cheats for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Best Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Best Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Best Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -12174,7 +12174,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -12209,7 +12209,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -12244,7 +12244,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. 즉시 디지털 배송. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats는 Rust Windows PC용 ESP wallhack, radar hack, Aimbot undetected 패키지입니다. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -12486,7 +12486,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -12521,7 +12521,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -12556,7 +12556,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "功能 2026 | IsleCheat Full Feature List",
-					description: "功能: ESP, soft aim, radar, and cloud DMA controls for Rust. 即时数字交付. EAC maintenance included.",
+					description: "功能 for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "功能 — Full Feature List",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。功能 for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -12591,7 +12591,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "价格 2026 | IsleCheat Monthly & Lifetime",
-					description: "价格: $35 monthly or $150 lifetime licenses for Rust. 即时数字交付. EAC maintenance included.",
+					description: "价格 for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "价格 — Monthly & Lifetime",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。价格 for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -12626,7 +12626,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "安装 2026 | IsleCheat PC Setup Guide",
-					description: "安装: Windows PC activation and first-launch setup for Rust. 即时数字交付. EAC maintenance included.",
+					description: "安装 for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "安装 — PC Setup Guide",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。安装 for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -12661,7 +12661,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "更新 2026 | IsleCheat EAC Maintenance Log",
-					description: "更新: EAC patch status and rebuild notes for Rust. 即时数字交付. EAC maintenance included.",
+					description: "更新 for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "更新 — EAC Maintenance Log",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。更新 for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -12696,7 +12696,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "常见问题 2026 | IsleCheat Common Answers",
-					description: "常见问题: ESP, soft aim, delivery, and EAC questions for Rust. 即时数字交付. EAC maintenance included.",
+					description: "常见问题 for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "常见问题 — Common Answers",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。常见问题 for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -12731,7 +12731,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "支持 2026 | IsleCheat Help & Contact",
-					description: "支持: order help and license support contact for Rust. 即时数字交付. EAC maintenance included.",
+					description: "支持 for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "支持 — Help & Contact",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。支持 for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -12766,7 +12766,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected作弊 2026 | EAC Safe Status",
-					description: "Undetected作弊: undetected maintenance after Easy Anti-Cheat patches for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Undetected作弊 for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetected作弊 — EAC Safe Status",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Undetected作弊 for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -12801,7 +12801,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -12836,7 +12836,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack 2026 | 2D Threat Overlay",
-					description: "Radar Hack: 2D radar cues for flanks and rotations for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Radar Hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Radar Hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -12871,7 +12871,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC Bypass 2026 | Patch Maintenance",
-					description: "EAC Bypass: how EAC updates are handled for IsleCheat for Rust. 即时数字交付. EAC maintenance included.",
+					description: "EAC Bypass for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "EAC Bypass — Patch Maintenance",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。EAC Bypass for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -12906,7 +12906,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -12941,7 +12941,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. 即时数字交付. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -12976,7 +12976,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -13011,7 +13011,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -13046,7 +13046,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -13081,7 +13081,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Rust Cheats 2026 | Buyer Checklist",
-					description: "Best Rust Cheats: what to compare before buying Rust cheats for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Best Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Best Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Best Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -13116,7 +13116,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -13151,7 +13151,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -13186,7 +13186,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. 即时数字交付. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats为RustWindows PC提供ESP wallhack、radar hack和Aimbotundetected套餐。Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -13428,7 +13428,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -13463,7 +13463,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -13498,7 +13498,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "फ़ीचर्स 2026 | IsleCheat Full Feature List",
-					description: "फ़ीचर्स: ESP, soft aim, radar, and cloud DMA controls for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "फ़ीचर्स for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "फ़ीचर्स — Full Feature List",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। फ़ीचर्स for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -13533,7 +13533,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "कीमत 2026 | IsleCheat Monthly & Lifetime",
-					description: "कीमत: $35 monthly or $150 lifetime licenses for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "कीमत for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "कीमत — Monthly & Lifetime",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। कीमत for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -13568,7 +13568,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "सेटअप 2026 | IsleCheat PC Setup Guide",
-					description: "सेटअप: Windows PC activation and first-launch setup for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "सेटअप for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "सेटअप — PC Setup Guide",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। सेटअप for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -13603,7 +13603,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "अपडेट 2026 | IsleCheat EAC Maintenance Log",
-					description: "अपडेट: EAC patch status and rebuild notes for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "अपडेट for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "अपडेट — EAC Maintenance Log",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। अपडेट for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -13638,7 +13638,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -13673,7 +13673,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "सहायता 2026 | IsleCheat Help & Contact",
-					description: "सहायता: order help and license support contact for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "सहायता for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "सहायता — Help & Contact",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। सहायता for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -13708,7 +13708,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected cheats 2026 | EAC Safe Status",
-					description: "Undetected cheats: undetected maintenance after Easy Anti-Cheat patches for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Undetected cheats for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetected cheats — EAC Safe Status",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Undetected cheats for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -13743,7 +13743,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -13778,7 +13778,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack 2026 | 2D Threat Overlay",
-					description: "Radar Hack: 2D radar cues for flanks and rotations for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Radar Hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Radar Hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -13813,7 +13813,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC Bypass 2026 | Patch Maintenance",
-					description: "EAC Bypass: how EAC updates are handled for IsleCheat for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "EAC Bypass for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "EAC Bypass — Patch Maintenance",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। EAC Bypass for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -13848,7 +13848,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -13883,7 +13883,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -13918,7 +13918,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -13953,7 +13953,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -13988,7 +13988,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -14023,7 +14023,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Rust Cheats 2026 | Buyer Checklist",
-					description: "Best Rust Cheats: what to compare before buying Rust cheats for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Best Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Best Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Best Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -14058,7 +14058,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -14093,7 +14093,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -14128,7 +14128,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. तुरंत डिजिटल डिलीवरी. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats Rust के लिए Windows PC पर ESP wallhack, radar hack और Aimbot undetected पैकेज देता है। Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -14370,7 +14370,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -14405,7 +14405,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -14440,7 +14440,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Fitur 2026 | IsleCheat Full Feature List",
-					description: "Fitur: ESP, soft aim, radar, and cloud DMA controls for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Fitur for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Fitur — Full Feature List",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Fitur for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -14475,7 +14475,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Harga 2026 | IsleCheat Monthly & Lifetime",
-					description: "Harga: $35 monthly or $150 lifetime licenses for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Harga for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Harga — Monthly & Lifetime",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Harga for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -14510,7 +14510,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Setup 2026 | IsleCheat PC Setup Guide",
-					description: "Setup: Windows PC activation and first-launch setup for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Setup for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Setup — PC Setup Guide",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Setup for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -14545,7 +14545,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Pembaruan 2026 | EAC Maintenance Log",
-					description: "Pembaruan: EAC patch status and rebuild notes for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Pembaruan for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Pembaruan — EAC Maintenance Log",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Pembaruan for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -14580,7 +14580,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -14615,7 +14615,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Dukungan 2026 | IsleCheat Help & Contact",
-					description: "Dukungan: order help and license support contact for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Dukungan for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Dukungan — Help & Contact",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Dukungan for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -14650,7 +14650,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Cheat undetected 2026 | EAC Safe Status",
-					description: "Cheat undetected: undetected maintenance after Easy Anti-Cheat patches for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Cheat undetected for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Cheat undetected — EAC Safe Status",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Cheat undetected for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -14685,7 +14685,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -14720,7 +14720,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -14755,7 +14755,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -14790,7 +14790,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -14825,7 +14825,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -14860,7 +14860,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -14895,7 +14895,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -14930,7 +14930,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -14965,7 +14965,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Rust Cheats 2026 | Buyer Checklist",
-					description: "Best Rust Cheats: what to compare before buying Rust cheats for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Best Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Best Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Best Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -15000,7 +15000,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -15035,7 +15035,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -15070,7 +15070,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. pengiriman digital instan. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats menyediakan ESP wallhack, radar hack, dan Aimbot undetected untuk Rust di PC Windows. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -15312,7 +15312,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -15347,7 +15347,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -15382,7 +15382,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "ฟีเจอร์ 2026 | IsleCheat Full Feature List",
-					description: "ฟีเจอร์: ESP, soft aim, radar, and cloud DMA controls for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "ฟีเจอร์ for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "ฟีเจอร์ — Full Feature List",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC ฟีเจอร์ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -15417,7 +15417,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "ราคา 2026 | IsleCheat Monthly & Lifetime",
-					description: "ราคา: $35 monthly or $150 lifetime licenses for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "ราคา for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "ราคา — Monthly & Lifetime",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC ราคา for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -15452,7 +15452,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "ติดตั้ง 2026 | IsleCheat PC Setup Guide",
-					description: "ติดตั้ง: Windows PC activation and first-launch setup for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "ติดตั้ง for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "ติดตั้ง — PC Setup Guide",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC ติดตั้ง for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -15487,7 +15487,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "อัปเดต 2026 | IsleCheat EAC Maintenance Log",
-					description: "อัปเดต: EAC patch status and rebuild notes for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "อัปเดต for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "อัปเดต — EAC Maintenance Log",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC อัปเดต for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -15522,7 +15522,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -15557,7 +15557,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "สนับสนุน 2026 | IsleCheat Help & Contact",
-					description: "สนับสนุน: order help and license support contact for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "สนับสนุน for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "สนับสนุน — Help & Contact",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC สนับสนุน for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -15592,7 +15592,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Cheats undetected 2026 | EAC Safe Status",
-					description: "Cheats undetected: undetected maintenance after Easy Anti-Cheat patches for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Cheats undetected for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Cheats undetected — EAC Safe Status",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Cheats undetected for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -15627,7 +15627,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -15662,7 +15662,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack 2026 | 2D Threat Overlay",
-					description: "Radar Hack: 2D radar cues for flanks and rotations for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Radar Hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Radar Hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -15697,7 +15697,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC Bypass 2026 | Patch Maintenance",
-					description: "EAC Bypass: how EAC updates are handled for IsleCheat for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "EAC Bypass for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "EAC Bypass — Patch Maintenance",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC EAC Bypass for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -15732,7 +15732,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -15767,7 +15767,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -15802,7 +15802,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -15837,7 +15837,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -15872,7 +15872,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -15907,7 +15907,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Rust Cheats 2026 | Buyer Checklist",
-					description: "Best Rust Cheats: what to compare before buying Rust cheats for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Best Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Best Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Best Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -15942,7 +15942,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -15977,7 +15977,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -16012,7 +16012,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. จัดส่งดิจิทัลทันที. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats รวม ESP wallhack, radar hack และ Aimbot แบบ undetected สำหรับ Rust บน Windows PC Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -16254,7 +16254,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -16289,7 +16289,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -16324,7 +16324,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Tính năng 2026 | IsleCheat Full Feature List",
-					description: "Tính năng: ESP, soft aim, radar, and cloud DMA controls for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Tính năng for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Tính năng — Full Feature List",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Tính năng for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -16359,7 +16359,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Giá 2026 | IsleCheat Monthly & Lifetime",
-					description: "Giá: $35 monthly or $150 lifetime licenses for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Giá for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Giá — Monthly & Lifetime",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Giá for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -16394,7 +16394,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Cài đặt 2026 | IsleCheat PC Setup Guide",
-					description: "Cài đặt: Windows PC activation and first-launch setup for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Cài đặt for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Cài đặt — PC Setup Guide",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Cài đặt for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -16429,7 +16429,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Cập nhật 2026 | EAC Maintenance Log",
-					description: "Cập nhật: EAC patch status and rebuild notes for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Cập nhật for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Cập nhật — EAC Maintenance Log",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Cập nhật for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -16464,7 +16464,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -16499,7 +16499,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Hỗ trợ 2026 | IsleCheat Help & Contact",
-					description: "Hỗ trợ: order help and license support contact for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Hỗ trợ for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Hỗ trợ — Help & Contact",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Hỗ trợ for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -16534,7 +16534,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Cheat undetected 2026 | EAC Safe Status",
-					description: "Cheat undetected: undetected maintenance after Easy Anti-Cheat patches for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Cheat undetected for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Cheat undetected — EAC Safe Status",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Cheat undetected for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -16569,7 +16569,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -16604,7 +16604,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -16639,7 +16639,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -16674,7 +16674,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -16709,7 +16709,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -16744,7 +16744,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -16779,7 +16779,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -16814,7 +16814,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -16849,7 +16849,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Rust Cheats 2026 | Buyer Checklist",
-					description: "Best Rust Cheats: what to compare before buying Rust cheats for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Best Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Best Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Best Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -16884,7 +16884,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -16919,7 +16919,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -16954,7 +16954,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. giao hàng kỹ thuật số tức thì. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats cung cấp ESP wallhack, radar hack và Aimbot undetected cho Rust trên PC Windows. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -17196,7 +17196,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -17231,7 +17231,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -17266,7 +17266,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Функції 2026 | IsleCheat Full Feature List",
-					description: "Функції: ESP, soft aim, radar, and cloud DMA controls for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Функції for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Функції — Full Feature List",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Функції for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -17301,7 +17301,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Ціни 2026 | IsleCheat Monthly & Lifetime",
-					description: "Ціни: $35 monthly or $150 lifetime licenses for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Ціни for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Ціни — Monthly & Lifetime",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Ціни for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -17336,7 +17336,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Встановлення 2026 | IsleCheat PC Setup Guide",
-					description: "Встановлення: Windows PC activation and first-launch setup for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Встановлення for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Встановлення — PC Setup Guide",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Встановлення for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -17371,7 +17371,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Оновлення 2026 | EAC Maintenance Log",
-					description: "Оновлення: EAC patch status and rebuild notes for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Оновлення for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Оновлення — EAC Maintenance Log",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Оновлення for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -17406,7 +17406,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -17441,7 +17441,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Підтримка 2026 | IsleCheat Help & Contact",
-					description: "Підтримка: order help and license support contact for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Підтримка for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Підтримка — Help & Contact",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Підтримка for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -17476,7 +17476,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected чіти 2026 | EAC Safe Status",
-					description: "Undetected чіти: undetected maintenance after Easy Anti-Cheat patches for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Undetected чіти for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetected чіти — EAC Safe Status",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Undetected чіти for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -17511,7 +17511,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -17546,7 +17546,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -17581,7 +17581,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -17616,7 +17616,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -17651,7 +17651,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -17686,7 +17686,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Завантаження Rust Cheats 2026 | Instant Access",
-					description: "Завантаження Rust Cheats: digital license download after payment for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Завантаження Rust Cheats for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Завантаження Rust Cheats — Instant Access",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Завантаження Rust Cheats for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -17721,7 +17721,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -17756,7 +17756,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -17791,7 +17791,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Найкращі Rust Cheats 2026 | Buyer Checklist",
-					description: "Найкращі Rust Cheats: what to compare before buying Rust cheats for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Найкращі Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Найкращі Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Найкращі Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -17826,7 +17826,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -17861,7 +17861,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -17896,7 +17896,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. миттєва цифрова доставка. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats об'єднує ESP wallhack, radar hack і Aimbot у undetected пакеті для Rust на Windows PC. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -18138,7 +18138,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -18173,7 +18173,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -18208,7 +18208,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funkce 2026 | IsleCheat Full Feature List",
-					description: "Funkce: ESP, soft aim, radar, and cloud DMA controls for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Funkce for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Funkce — Full Feature List",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Funkce for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -18243,7 +18243,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Ceny 2026 | IsleCheat Monthly & Lifetime",
-					description: "Ceny: $35 monthly or $150 lifetime licenses for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Ceny for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Ceny — Monthly & Lifetime",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Ceny for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -18278,7 +18278,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Instalace 2026 | IsleCheat PC Setup Guide",
-					description: "Instalace: Windows PC activation and first-launch setup for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Instalace for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Instalace — PC Setup Guide",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Instalace for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -18313,7 +18313,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Aktualizace 2026 | EAC Maintenance Log",
-					description: "Aktualizace: EAC patch status and rebuild notes for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Aktualizace for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Aktualizace — EAC Maintenance Log",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Aktualizace for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -18348,7 +18348,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -18383,7 +18383,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Podpora 2026 | IsleCheat Help & Contact",
-					description: "Podpora: order help and license support contact for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Podpora for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Podpora — Help & Contact",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Podpora for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -18418,7 +18418,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected cheaty 2026 | EAC Safe Status",
-					description: "Undetected cheaty: undetected maintenance after Easy Anti-Cheat patches for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Undetected cheaty for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetected cheaty — EAC Safe Status",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Undetected cheaty for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -18453,7 +18453,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -18488,7 +18488,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack 2026 | 2D Threat Overlay",
-					description: "Radar Hack: 2D radar cues for flanks and rotations for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Radar Hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Radar Hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -18523,7 +18523,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC Bypass 2026 | Patch Maintenance",
-					description: "EAC Bypass: how EAC updates are handled for IsleCheat for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "EAC Bypass for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "EAC Bypass — Patch Maintenance",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. EAC Bypass for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -18558,7 +18558,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -18593,7 +18593,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -18628,7 +18628,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -18663,7 +18663,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -18698,7 +18698,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -18733,7 +18733,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Nejlepší Rust Cheats 2026 | Buyer Checklist",
-					description: "Nejlepší Rust Cheats: what to compare before buying Rust cheats for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Nejlepší Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Nejlepší Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Nejlepší Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -18768,7 +18768,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -18803,7 +18803,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -18838,7 +18838,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. okamžité digitální doručení. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats spojuje ESP wallhack, radar hack a Aimbot jako undetected balíček pro Rust na Windows PC. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -19080,7 +19080,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -19115,7 +19115,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -19150,7 +19150,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funcții 2026 | IsleCheat Full Feature List",
-					description: "Funcții: ESP, soft aim, radar, and cloud DMA controls for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Funcții for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Funcții — Full Feature List",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Funcții for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -19185,7 +19185,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Prețuri 2026 | IsleCheat Monthly & Lifetime",
-					description: "Prețuri: $35 monthly or $150 lifetime licenses for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Prețuri for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Prețuri — Monthly & Lifetime",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Prețuri for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -19220,7 +19220,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Instalare 2026 | IsleCheat PC Setup Guide",
-					description: "Instalare: Windows PC activation and first-launch setup for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Instalare for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Instalare — PC Setup Guide",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Instalare for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -19255,7 +19255,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Actualizări 2026 | EAC Maintenance Log",
-					description: "Actualizări: EAC patch status and rebuild notes for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Actualizări for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Actualizări — EAC Maintenance Log",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Actualizări for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -19290,7 +19290,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -19325,7 +19325,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Suport 2026 | IsleCheat Help & Contact",
-					description: "Suport: order help and license support contact for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Suport for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Suport — Help & Contact",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Suport for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -19360,7 +19360,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Cheats undetected 2026 | EAC Safe Status",
-					description: "Cheats undetected: undetected maintenance after Easy Anti-Cheat patches for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Cheats undetected for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Cheats undetected — EAC Safe Status",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Cheats undetected for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -19395,7 +19395,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -19430,7 +19430,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar hack 2026 | 2D Threat Overlay",
-					description: "Radar hack: 2D radar cues for flanks and rotations for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Radar hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar hack — 2D Threat Overlay",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Radar hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -19465,7 +19465,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "Bypass Easy Anti-Cheat (EAC) 2026 | Patch Maintenance",
-					description: "Bypass Easy Anti-Cheat (EAC): how EAC updates are handled for IsleCheat for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Bypass Easy Anti-Cheat (EAC) for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "Bypass Easy Anti-Cheat (EAC) — Patch Maintenance",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Bypass Easy Anti-Cheat (EAC) for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -19500,7 +19500,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -19535,7 +19535,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -19570,7 +19570,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Descărcare Rust Cheats 2026 | Instant Access",
-					description: "Descărcare Rust Cheats: digital license download after payment for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Descărcare Rust Cheats for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Descărcare Rust Cheats — Instant Access",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Descărcare Rust Cheats for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -19605,7 +19605,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -19640,7 +19640,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -19675,7 +19675,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Cele mai bune Rust Cheats 2026 | Buyer Checklist",
-					description: "Cele mai bune Rust Cheats: what to compare before buying Rust cheats for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Cele mai bune Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Cele mai bune Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Cele mai bune Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -19710,7 +19710,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -19745,7 +19745,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -19780,7 +19780,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. livrare digitală instantă. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats combină ESP wallhack, radar hack și Aimbot undetected pentru Rust pe PC Windows. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
@@ -20022,7 +20022,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-esp": {
 					title: "Rust ESP 2026 | Player Boxes & Wallhack",
-					description: "Rust ESP: player boxes, loot markers, and wallhack overlays for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Rust ESP for The Isle — player boxes, loot markers, and wallhack overlays. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP — Player Boxes & Wallhack",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Rust ESP for monuments, oil rigs, and wipe-cycle raids: player boxes, loot markers, and wallhack overlays.",
 					imageAlt: "rust-cheats rust-esp player boxes, loot markers, and wallhack overlays preview",
@@ -20057,7 +20057,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"rust-aimbot": {
 					title: "Rust Aimbot 2026 | Soft Aim Controls",
-					description: "Rust Aimbot: soft aim, FOV, and per-weapon Aimbot profiles for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Rust Aimbot for The Isle — soft aim, FOV, and per-weapon Aimbot profiles. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot — Soft Aim Controls",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Rust Aimbot for monuments, oil rigs, and wipe-cycle raids: soft aim, FOV, and per-weapon Aimbot profiles.",
 					imageAlt: "rust-cheats rust-aimbot soft aim, FOV, and per-weapon Aimbot profiles preview",
@@ -20092,7 +20092,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Funktioner 2026 | Full Feature List",
-					description: "Funktioner: ESP, soft aim, radar, and cloud DMA controls for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Funktioner for The Isle — ESP, soft aim, radar, and cloud DMA controls. Instant digital delivery for Windows PC.",
 					h1: "Funktioner — Full Feature List",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Funktioner for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, radar, and cloud DMA controls.",
 					imageAlt: "rust-cheats features ESP, soft aim, radar, and cloud DMA controls preview",
@@ -20127,7 +20127,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				pricing: {
 					title: "Priser 2026 | IsleCheat Monthly & Lifetime",
-					description: "Priser: $35 monthly or $150 lifetime licenses for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Priser for The Isle — $35 monthly or $150 lifetime licenses. Instant digital delivery for Windows PC.",
 					h1: "Priser — Monthly & Lifetime",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Priser for monuments, oil rigs, and wipe-cycle raids: $35 monthly or $150 lifetime licenses.",
 					imageAlt: "rust-cheats pricing $35 monthly or $150 lifetime licenses preview",
@@ -20162,7 +20162,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				setup: {
 					title: "Installation 2026 | IsleCheat PC Setup Guide",
-					description: "Installation: Windows PC activation and first-launch setup for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Installation for The Isle — Windows PC activation and first-launch setup. Instant digital delivery for Windows PC.",
 					h1: "Installation — PC Setup Guide",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Installation for monuments, oil rigs, and wipe-cycle raids: Windows PC activation and first-launch setup.",
 					imageAlt: "rust-cheats setup Windows PC activation and first-launch setup preview",
@@ -20197,7 +20197,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				updates: {
 					title: "Uppdateringar 2026 | EAC Maintenance Log",
-					description: "Uppdateringar: EAC patch status and rebuild notes for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Uppdateringar for The Isle — EAC patch status and rebuild notes. Instant digital delivery for Windows PC.",
 					h1: "Uppdateringar — EAC Maintenance Log",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Uppdateringar for monuments, oil rigs, and wipe-cycle raids: EAC patch status and rebuild notes.",
 					imageAlt: "rust-cheats updates EAC patch status and rebuild notes preview",
@@ -20232,7 +20232,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				faq: {
 					title: "FAQ 2026 | IsleCheat Common Answers",
-					description: "FAQ: ESP, soft aim, delivery, and EAC questions for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "FAQ for The Isle — ESP, soft aim, delivery, and EAC questions. Instant digital delivery for Windows PC.",
 					h1: "FAQ — Common Answers",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. FAQ for monuments, oil rigs, and wipe-cycle raids: ESP, soft aim, delivery, and EAC questions.",
 					imageAlt: "rust-cheats faq ESP, soft aim, delivery, and EAC questions preview",
@@ -20267,7 +20267,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				support: {
 					title: "Support 2026 | IsleCheat Help & Contact",
-					description: "Support: order help and license support contact for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Support for The Isle — order help and license support contact. Instant digital delivery for Windows PC.",
 					h1: "Support — Help & Contact",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Support for monuments, oil rigs, and wipe-cycle raids: order help and license support contact.",
 					imageAlt: "rust-cheats support order help and license support contact preview",
@@ -20302,7 +20302,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				undetected: {
 					title: "Undetected cheats 2026 | EAC Safe Status",
-					description: "Undetected cheats: undetected maintenance after Easy Anti-Cheat patches for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Undetected cheats for The Isle — undetected maintenance after Easy Anti-Cheat patches. Instant digital delivery for Windows PC.",
 					h1: "Undetected cheats — EAC Safe Status",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Undetected cheats for monuments, oil rigs, and wipe-cycle raids: undetected maintenance after Easy Anti-Cheat patches.",
 					imageAlt: "rust-cheats undetected undetected maintenance after Easy Anti-Cheat patches preview",
@@ -20337,7 +20337,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				wallhack: {
 					title: "Rust Wallhack 2026 | ESP Visibility",
-					description: "Rust Wallhack: wallhack ESP for players, loot, and distance for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Rust Wallhack for The Isle — wallhack ESP for players, loot, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust Wallhack — ESP Visibility",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Rust Wallhack for monuments, oil rigs, and wipe-cycle raids: wallhack ESP for players, loot, and distance.",
 					imageAlt: "rust-cheats wallhack wallhack ESP for players, loot, and distance preview",
@@ -20372,7 +20372,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				radar: {
 					title: "Radar Hack 2026 | 2D Threat Overlay",
-					description: "Radar Hack: 2D radar cues for flanks and rotations for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Radar Hack for The Isle — 2D radar cues for flanks and rotations. Instant digital delivery for Windows PC.",
 					h1: "Radar Hack — 2D Threat Overlay",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Radar Hack for monuments, oil rigs, and wipe-cycle raids: 2D radar cues for flanks and rotations.",
 					imageAlt: "rust-cheats radar 2D radar cues for flanks and rotations preview",
@@ -20407,7 +20407,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"eac-bypass": {
 					title: "EAC Bypass 2026 | Patch Maintenance",
-					description: "EAC Bypass: how EAC updates are handled for IsleCheat for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "EAC Bypass for The Isle — how EAC updates are handled for IsleCheat. Instant digital delivery for Windows PC.",
 					h1: "EAC Bypass — Patch Maintenance",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. EAC Bypass for monuments, oil rigs, and wipe-cycle raids: how EAC updates are handled for IsleCheat.",
 					imageAlt: "rust-cheats eac-bypass how EAC updates are handled for IsleCheat preview",
@@ -20442,7 +20442,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Rust Cheats 2026 2026 | IsleCheat Buyer Guide",
-					description: "Rust Cheats 2026: 2026 Rust cheats checklist before checkout for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Rust Cheats 2026 for The Isle — 2026 Rust cheats checklist before checkout. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheats 2026 — Buyer Guide",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Rust Cheats 2026 for monuments, oil rigs, and wipe-cycle raids: 2026 Rust cheats checklist before checkout.",
 					imageAlt: "rust-cheats cheats-2026 2026 Rust cheats checklist before checkout preview",
@@ -20477,7 +20477,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "IsleCheat 2026 | IsleCheat ESP Aimbot Guide",
-					description: "IsleCheat: the IsleCheat pillar for ESP and Aimbot for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "IsleCheat for The Isle — the IsleCheat pillar for ESP and Aimbot. Instant digital delivery for Windows PC.",
 					h1: "IsleCheat — ESP Aimbot Guide",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. IsleCheat for monuments, oil rigs, and wipe-cycle raids: the IsleCheat pillar for ESP and Aimbot.",
 					imageAlt: "rust-cheats hacks the IsleCheat pillar for ESP and Aimbot preview",
@@ -20512,7 +20512,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheat-download": {
 					title: "Rust Cheat Download 2026 | Instant Access",
-					description: "Rust Cheat Download: digital license download after payment for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Rust Cheat Download for The Isle — digital license download after payment. Instant digital delivery for Windows PC.",
 					h1: "Rust Cheat Download — Instant Access",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Rust Cheat Download for monuments, oil rigs, and wipe-cycle raids: digital license download after payment.",
 					imageAlt: "rust-cheats cheat-download digital license download after payment preview",
@@ -20547,7 +20547,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"mod-menu": {
 					title: "Rust Mod Menu 2026 | In-Game Toggles",
-					description: "Rust Mod Menu: in-client ESP and soft aim toggles for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Rust Mod Menu for The Isle — in-client ESP and soft aim toggles. Instant digital delivery for Windows PC.",
 					h1: "Rust Mod Menu — In-Game Toggles",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Rust Mod Menu for monuments, oil rigs, and wipe-cycle raids: in-client ESP and soft aim toggles.",
 					imageAlt: "rust-cheats mod-menu in-client ESP and soft aim toggles preview",
@@ -20582,7 +20582,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"soft-aim": {
 					title: "Rust Soft Aim 2026 | Smooth Aim Settings",
-					description: "Rust Soft Aim: smooth soft aim settings for PC and controllers for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Rust Soft Aim for The Isle — smooth soft aim settings for PC and controllers. Instant digital delivery for Windows PC.",
 					h1: "Rust Soft Aim — Smooth Aim Settings",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Rust Soft Aim for monuments, oil rigs, and wipe-cycle raids: smooth soft aim settings for PC and controllers.",
 					imageAlt: "rust-cheats soft-aim smooth soft aim settings for PC and controllers preview",
@@ -20617,7 +20617,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Bästa Rust Cheats 2026 | Buyer Checklist",
-					description: "Bästa Rust Cheats: what to compare before buying Rust cheats for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Bästa Rust Cheats for The Isle — what to compare before buying Rust cheats. Instant digital delivery for Windows PC.",
 					h1: "Bästa Rust Cheats — Buyer Checklist",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Bästa Rust Cheats for monuments, oil rigs, and wipe-cycle raids: what to compare before buying Rust cheats.",
 					imageAlt: "rust-cheats best-cheats what to compare before buying Rust cheats preview",
@@ -20652,7 +20652,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"aimbot-hack": {
 					title: "Rust Aimbot Hack 2026 | Soft Aim Assist",
-					description: "Rust Aimbot Hack: undetected Aimbot hack assist for Rust for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Rust Aimbot Hack for The Isle — undetected Aimbot hack assist for Rust. Instant digital delivery for Windows PC.",
 					h1: "Rust Aimbot Hack — Soft Aim Assist",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Rust Aimbot Hack for monuments, oil rigs, and wipe-cycle raids: undetected Aimbot hack assist for Rust.",
 					imageAlt: "rust-cheats aimbot-hack undetected Aimbot hack assist for Rust preview",
@@ -20687,7 +20687,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"esp-hack": {
 					title: "Rust ESP Hack 2026 | IsleCheat Boxes & Loot",
-					description: "Rust ESP Hack: ESP hack boxes, loot pins, and distance for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Rust ESP Hack for The Isle — ESP hack boxes, loot pins, and distance. Instant digital delivery for Windows PC.",
 					h1: "Rust ESP Hack — Boxes & Loot",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Rust ESP Hack for monuments, oil rigs, and wipe-cycle raids: ESP hack boxes, loot pins, and distance.",
 					imageAlt: "rust-cheats esp-hack ESP hack boxes, loot pins, and distance preview",
@@ -20722,7 +20722,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"unlock-all": {
 					title: "Rust Unlock All 2026 | What It Means",
-					description: "Rust Unlock All: unlock-all searches vs real ESP and Aimbot tools for Rust. omedelbar digital leverans. EAC maintenance included.",
+					description: "Rust Unlock All for The Isle — unlock-all searches vs real ESP and Aimbot tools. Instant digital delivery for Windows PC.",
 					h1: "Rust Unlock All — What It Means",
 					intro: "Rust Cheats kombinerar ESP wallhack, radar hack och Aimbot som undetected paket för Rust på Windows PC. Rust Unlock All for monuments, oil rigs, and wipe-cycle raids: unlock-all searches vs real ESP and Aimbot tools.",
 					imageAlt: "rust-cheats unlock-all unlock-all searches vs real ESP and Aimbot tools preview",
