@@ -13,10 +13,10 @@ const OUT = join(__dirname, '..', 'src', 'data', 'blog', 'posts.generated.ts');
 const LOCALES = ['en'];
 
 const EXT = {
-	epic: '<a href="https://rust.facepunch.com/" target="_blank" rel="noopener noreferrer">Facepunch Rust</a>',
-	rust: '<a href="https://rust.facepunch.com/" target="_blank" rel="noopener noreferrer">Rust.com</a>',
-	status: '<a href="https://rust.facepunch.com/" target="_blank" rel="noopener noreferrer">Facepunch Rust status</a>',
-	competitive: '<a href="https://rust.facepunch.com/competitive" target="_blank" rel="noopener noreferrer">Rust Competitive</a>',
+	epic: '<a href="https://store.steampowered.com/app/376210/The_Isle/" target="_blank" rel="noopener noreferrer">The Isle on Steam</a>',
+	rust: '<a href="https://store.steampowered.com/app/376210/The_Isle/" target="_blank" rel="noopener noreferrer">The Isle on Steam</a>',
+	status: '<a href="https://store.steampowered.com/app/376210/The_Isle/" target="_blank" rel="noopener noreferrer">The Isle on Steam</a>',
+	competitive: '<a href="https://store.steampowered.com/app/376210/The_Isle/" target="_blank" rel="noopener noreferrer">The Isle on Steam</a>',
 };
 
 /** @typedef {{ h2: string, paragraphs: string[] }} Section */

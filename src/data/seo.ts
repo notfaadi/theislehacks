@@ -1,22 +1,22 @@
 /**
  * Site-wide SEO keyword cluster — keep this tight and single-intent.
- * One product angle: Rust (survival game) hacks for Windows PC.
+ * Brand queries: theislehacks / The Isle hacks.
  */
-export const primaryKeyword = 'rust hacks';
+export const primaryKeyword = 'theislehacks';
 
 /** ~7 phrases max — no synonym stuffing. */
 export const metaKeywords = [
-	'rust hacks',
-	'rust cheats',
-	'rust esp',
-	'rust aimbot',
-	'undetected rust hacks',
-	'rust wallhack',
-	'rust hacks 2026',
+	'theislehacks',
+	'the isle hacks',
+	'isle hacks',
+	'isle esp',
+	'isle aimbot',
+	'isle wallhack',
+	'the isle esp',
 ] as const;
 
 export const metaKeywordsContent = metaKeywords.join(', ');
 
-export const defaultTitle = 'Rust Hacks 2026 | Buy Rust Hacks for PC';
+export const defaultTitle = 'theislehacks | The Isle Hacks 2026';
 export const defaultDescription =
-	'Rust hacks for PC — buy Rust Hacks with undetected ESP, aimbot, and wallhack. Compare monthly and lifetime plans, setup, and EAC update status before checkout.';
+	'theislehacks — The Isle hacks with undetected ESP, aimbot & wallhack for Windows PC. $35/mo or $150 lifetime.';

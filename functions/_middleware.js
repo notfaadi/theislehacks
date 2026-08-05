@@ -1,9 +1,13 @@
-﻿const CANONICAL_ORIGIN = 'https://rusthacks.net';
-const APEX_HOST = 'rusthacks.net';
-const WWW_HOST = 'www.rusthacks.net';
+const CANONICAL_ORIGIN = 'https://theislehacks.com';
+const APEX_HOST = 'theislehacks.com';
+const WWW_HOST = 'www.theislehacks.com';
 
 /** Old hosts → canonical apex (301). Never include the apex host itself. */
 const LEGACY_HOSTS = new Set([
+	'islecheat.net',
+	'www.islecheat.net',
+	'rusthacks.net',
+	'www.rusthacks.net',
 	'fortnitehack.net',
 	'www.fortnitehack.net',
 	'fortnitecheats.xyz',

@@ -23,7 +23,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Read patches like a player, not a spectator",
 				paragraphs: [
 					"Most players misread patch notes by chasing the loudest bullet point. A small SMG nerf gets a rant video while a quiet mobility tweak silently rewires mid-game. The best ranked grinders treat patches like accountants — what changed in expected value?",
-					"Official notes publish through <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Rust.com</a> and <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust</a>. Use those primary sources first, then translate each line into inventory decisions for your playlist.",
+					"Official notes publish through <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> and <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a>. Use those primary sources first, then translate each line into inventory decisions for your playlist.",
 					"Pro Tip — Three-question filter: For every note ask: (1) Does this change my drop path? (2) Does this change my 5-slot priority? (3) Does this change my fight distance? If all three are no, ignore the drama.",
 				],
 			},
@@ -45,7 +45,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Late-season checklist and next steps",
 				paragraphs: [
 					"Post-patch checklist: skim official notes for vaults first, update your shotgun/AR/mobility/heals spine, play 10 intentional test games, revisit tier-list assumptions, and adjust drop routes if mobility or loot changed.",
-					"On big update mornings, confirm <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust status</a> is healthy before blaming your settings. If you also use theislehacks in-match, check <a href=\"/updates/\">theislehacks Updates</a> after Easy Anti-Cheat patches.",
+					"On big update mornings, confirm <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> is healthy before blaming your settings. If you also use theislehacks in-match, check <a href=\"/updates/\">theislehacks Updates</a> after Easy Anti-Cheat patches.",
 					"Try This Today: Open the latest official patch notes and highlight vaults. Rewrite your 5-slot priority on paper. Queue a focused 5-game test block and note which fights felt different at 30–60m vs 0–15m.",
 				],
 			}
@@ -74,7 +74,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Stop impulse buying before Season 4",
 				paragraphs: [
 					"Most players blow V-Bucks the week before a new season and then cannot buy the Battle Pass. Controversial take: most Item Shop impulse buys do not improve your win rate or locker happiness a month later.",
-					"Shop rotations and Battle Pass exclusives are official through <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Rust.com</a>. Leaks are entertainment — not a shopping list. Use them to decide what to skip.",
+					"Shop rotations and Battle Pass exclusives are official through <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a>. Leaks are entertainment — not a shopping list. Use them to decide what to skip.",
 					"Pro Tip — Locker performance: Pros pick clean silhouettes. Busy outfits can hide enemy outlines in chaotic monuments endgames. Style is cool; readability wins games.",
 				],
 			},
@@ -119,7 +119,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				paragraphs: [
 					"Creator tier lists are entertainment, not science. They rank flashy mythics while the Hammer AR quietly prints mid-range eliminations because damage-per-second consistency beats higher-ceiling guns average players cannot control.",
 					"S-tier means best expected value across 100 ranked fights. Hammer wins at 30–70 meters — the distances where monuments and endgame actually happen. Shotguns own 0–15m. Snipers own 80m+. Everything between is AR country.",
-					"Confirm live values after patches on <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Rust.com</a>. Hierarchy logic stays useful even when decimals nudge.",
+					"Confirm live values after patches on <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a>. Hierarchy logic stays useful even when decimals nudge.",
 					"Pro Tip — Spray discipline: Pros tap or micro-burst until bloom settles, then commit. Treat Hammer like a laser until the enemy wide-peeks — then dump.",
 				],
 			},
@@ -174,7 +174,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				paragraphs: [
 					"1) Pre-aim rotations — hold upper-chest crosshair on every cover hop; clear angles in 0.4–0.6s. 2) Mobility wedge entries — land 8–12m past the target for a clean shotgun angle, not a panic 180. 3) Double-peek shotgun timing — fake left, finish right when their chamber is weak.",
 					"4) Natural cover laddering — never more than 8–12m from hard cover. 5) Zone edge pressure — spray late rotates silhouetted on storm tint, then hold the angle instead of ego-chasing.",
-					"Mode rules evolve with <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust</a> seasons; the geometry of first-shot advantage does not.",
+					"Mode rules evolve with <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> seasons; the geometry of first-shot advantage does not.",
 				],
 			},
 			{
@@ -209,7 +209,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Watch tournament film like a coach",
 				paragraphs: [
-					"Most FNCS drop threads name a POI without contest rate, zone percent, split potential, or exit paths. Pros pick drops like investors pick assets — expected value over vibes. Start with <a href=\"https://rust.facepunch.com/competitive\" target=\"_blank\" rel=\"noopener noreferrer\">Rust Competitive</a> schedules and VODs, then tag habits.",
+					"Most FNCS drop threads name a POI without contest rate, zone percent, split potential, or exit paths. Pros pick drops like investors pick assets — expected value over vibes. Start with <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> schedules and VODs, then tag habits.",
 					"Pro Tip — Tag the VOD: landing plan, first heal, first rotate, first voluntary fight, and endgame key move. Five tags beat a full passive watch.",
 				],
 			},
@@ -262,7 +262,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				paragraphs: [
 					"Route A — contested edge POI (3–6 players): land outer roof loot, snake inward, leave before late third parties (~2 minutes). Route B — uncontested three-POI chain: sacrifice early kills for purple/gold inventory by minute three. Route C — mid-map surge: loot vacuum piles 90–150 seconds after hot drops empty.",
 					"Timing targets: 0–20s first gun, 20–50s clear cluster, 50–80s chests + minis, 80–120s upgrade or leave. Slot priority: shotgun, AR, mobility, heals, flex.",
-					"POI names rotate with <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Rust.com</a> seasons — keep the geometry, not the landmark brand.",
+					"POI names rotate with <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> seasons — keep the geometry, not the landmark brand.",
 				],
 			},
 			{
@@ -306,7 +306,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				paragraphs: [
 					"Use an eDPI band that lets you 180 with a controlled swipe without over-flicking shotguns. If you overshoot close targets, lower slightly. If you cannot track strafers at 40m with Hammer AR, raise cautiously — then lock settings for 14 days.",
 					"Put edit, crouch, and mobility on keys you can hit while still aiming. Make slot 1 shotgun and slot 2 AR muscle memory. Prefer performance clarity over cinema settings; motion blur off.",
-					"Hardware and competitive context evolve, but fundamentals stay — see <a href=\"https://rust.facepunch.com/competitive\" target=\"_blank\" rel=\"noopener noreferrer\">Rust Competitive</a> for high-level play standards.",
+					"Hardware and competitive context evolve, but fundamentals stay — see <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> for high-level play standards.",
 				],
 			},
 			{
@@ -342,7 +342,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Warmups win Elo before the queue starts",
 				paragraphs: [
 					"Your first two ranked fights often decide whether a session tilts. Pros arrive sharp from Creative — another 40 pub stomps is a worse warmup than 20 focused minutes.",
-					"Find current island codes in Creative via <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Rust.com</a>. We list durable categories because brittle codes die every season update.",
+					"Find current island codes in Creative via <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a>. We list durable categories because brittle codes die every season update.",
 					"Pro Tip — Keep a sticky core playlist. Swap one map per week, not every day.",
 				],
 			},
@@ -387,7 +387,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "What theislehacks actually include",
 				paragraphs: [
 					"theislehacks usually mean visibility plus combat assist: player ESP wallhack, loot markers, 2D radar threat cues, and configurable Aimbot. Buyers who type rust cheats are looking for the same stack — different wording, same BR loop.",
-					"Official seasons and client updates publish through <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust</a> and <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Rust.com</a>. Anti-cheat context lives on Easy Anti-Cheat. Our <a href=\"/rust-hacks/\">theislehacks pillar</a> is the commercial landing; this post is the long-form explainer.",
+					"Official seasons and client updates publish through <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> and <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a>. Anti-cheat context lives on Easy Anti-Cheat. Our <a href=\"/rust-hacks/\">theislehacks pillar</a> is the commercial landing; this post is the long-form explainer.",
 					"Pro Tip — One license, full loop: Prefer a maintained package over stacking single-feature downloads that break on every patch.",
 				],
 			},
@@ -402,7 +402,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Undetected theislehacks and EAC patches",
 				paragraphs: [
 					"Undetected theislehacks require rebuilds after Easy Anti-Cheat and major Rust updates. No vendor can promise permanent undetected status — check <a href=\"/updates/\">Updates</a> before you queue.",
-					"On patch mornings confirm <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust status</a>, then read our <a href=\"/eac-bypass-rust/\">EAC bypass guide</a> and <a href=\"/blog/undetected-rust-hacks-eac/\">undetected EAC notes</a>.",
+					"On patch mornings confirm <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a>, then read our <a href=\"/eac-bypass-rust/\">EAC bypass guide</a> and <a href=\"/blog/undetected-rust-hacks-eac/\">undetected EAC notes</a>.",
 					"Try This Today: Open the hacks pillar, skim Features, compare Pricing ($35 monthly / $150 lifetime), and bookmark Updates for the next Epic patch.",
 				],
 			},
@@ -445,7 +445,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Hacks vs cheats wording",
 				paragraphs: [
 					"theislehacks and The Isle hacks describe the same product for most searchers. We lead with theislehacks / theislehacks on theislehacks.com while keeping cheats pages for buyers who use that query.",
-					"Balance and anti-cheat reality still come from <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust</a>. Product rebuild timing is on our <a href=\"/updates/\">Updates</a> page.",
+					"Balance and anti-cheat reality still come from <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a>. Product rebuild timing is on our <a href=\"/updates/\">Updates</a> page.",
 				],
 			},
 			{
@@ -481,7 +481,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Why 2026 buyers still need maintenance",
 				paragraphs: [
 					"Season maps, weapons, and EAC updates still break stale tools. A 2026-ready package publishes rebuild notes — not a frozen prior-year build.",
-					"Track official messaging on <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Rust.com</a>, then confirm product status on <a href=\"/updates/\">Updates</a> and <a href=\"/rust-cheats-2026/\">the cheats 2026 landing</a>.",
+					"Track official messaging on <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a>, then confirm product status on <a href=\"/updates/\">Updates</a> and <a href=\"/rust-cheats-2026/\">the cheats 2026 landing</a>.",
 				],
 			},
 			{
@@ -530,7 +530,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Pair Aimbot with ESP and radar",
 				paragraphs: [
 					"Aimbot alone does not solve rotations. Pair with <a href=\"/rust-esp/\">ESP</a> and <a href=\"/rust-radar-hack/\">radar</a> inside the <a href=\"/rust-hacks/\">theislehacks</a> package.",
-					"Weapon balance shifts on <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Rust.com</a> — revisit FOV after combat patches.",
+					"Weapon balance shifts on <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> — revisit FOV after combat patches.",
 				],
 			},
 			{
@@ -572,7 +572,7 @@ export const blogPosts: BlogPostDefinition[] = [
 				h2: "Wallhack vs radar vs Aimbot",
 				paragraphs: [
 					"Wallhack/ESP is line-of-sight information through walls. Radar covers off-screen flanks. Aimbot is combat assist. The <a href=\"/rust-hacks/\">hacks pillar</a> bundles all three.",
-					"Map and loot systems evolve with <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust</a> seasons — toggleable categories stay useful when POIs rotate.",
+					"Map and loot systems evolve with <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> seasons — toggleable categories stay useful when POIs rotate.",
 				],
 			},
 			{
@@ -613,7 +613,7 @@ export const blogPosts: BlogPostDefinition[] = [
 			{
 				h2: "Patch-day workflow",
 				paragraphs: [
-					"Check <a href=\"https://rust.facepunch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Facepunch Rust status</a> for Epic health, wait for our Updates note, then launch. If services are degraded, do not assume the hack failed.",
+					"Check <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> for Epic health, wait for our Updates note, then launch. If services are degraded, do not assume the hack failed.",
 					"Commercial entry points: <a href=\"/rust-hacks/\">theislehacks</a> and <a href=\"/rust-cheats-2026/\">rust cheats 2026</a>.",
 				],
 			},

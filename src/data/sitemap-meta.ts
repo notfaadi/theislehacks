@@ -18,10 +18,10 @@ export type PageSitemapMeta = {
  * pages to the same date on deploy, only bump pages whose content was edited.
  */
 export const pageSitemapMeta: Record<PageId, PageSitemapMeta> = {
-	home: { priority: 1.0, changefreq: 'daily', i18nPriority: 0.88, lastmod: '2026-08-05' },
+	home: { priority: 1.0, changefreq: 'daily', i18nPriority: 0.88, lastmod: '2026-08-03' },
 	undetected: { priority: 0.98, changefreq: 'weekly', i18nPriority: 0.87, lastmod: '2026-07-30' },
 	'cheats-2026': { priority: 0.98, changefreq: 'weekly', i18nPriority: 0.87, lastmod: '2026-07-29' },
-	hacks: { priority: 0.97, changefreq: 'weekly', i18nPriority: 0.86, lastmod: '2026-08-05' },
+	hacks: { priority: 0.97, changefreq: 'weekly', i18nPriority: 0.86, lastmod: '2026-08-03' },
 	'cheat-download': { priority: 0.96, changefreq: 'weekly', i18nPriority: 0.85, lastmod: '2026-07-26' },
 	'mod-menu': { priority: 0.96, changefreq: 'weekly', i18nPriority: 0.85, lastmod: '2026-07-24' },
 	'soft-aim': { priority: 0.95, changefreq: 'weekly', i18nPriority: 0.85, lastmod: '2026-07-25' },

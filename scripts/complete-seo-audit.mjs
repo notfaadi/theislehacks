@@ -41,8 +41,8 @@ const GLOBAL_REPLACEMENTS = [
 	[/Warzone loadout builder/g, 'Rust loadout builder'],
 	[/Warzone pricing/g, 'Rust pricing'],
 	[/Warzone Easy Anti-Cheat/g, 'Rust Easy Anti-Cheat'],
-	[/on Warzone/g, 'on Rust'],
-	[/for Warzone/g, 'for Rust'],
+	[/on Warzone/g, 'on The Isle'],
+	[/for Warzone/g, 'for The Isle'],
 	[/Warzone guides/g, 'Rust guides'],
 	[/Warzone guide/g, 'Rust guide'],
 	[/Warzone hileleri/g, 'Rust hileleri'],
@@ -62,17 +62,17 @@ const GLOBAL_REPLACEMENTS = [
 	[/Verdansk and Urzikstan/g, 'the island and monuments'],
 	[/Verdansk, Urzikstan/g, 'the island, monuments'],
 	[/survival and Resurgence/g, 'survival and monuments'],
-	[/Activision's anti-cheat/g, "Facepunch' anti-cheat"],
-	[/Activision anti-cheat/g, 'Facepunch anti-cheat'],
-	[/Activision ships/g, 'Facepunch ships'],
-	[/Activision security/g, 'Facepunch security'],
-	[/Activision bans/g, 'Facepunch bans'],
-	[/Activision/g, 'Facepunch'],
+	[/Activision's anti-cheat/g, "Afterthought' anti-cheat"],
+	[/Activision anti-cheat/g, 'Afterthought anti-cheat'],
+	[/Activision ships/g, 'Afterthought ships'],
+	[/Activision security/g, 'Afterthought security'],
+	[/Activision bans/g, 'Afterthought bans'],
+	[/Activision/g, 'Afterthought'],
 	[/ricochet/gi, 'eac'],
 	[/Ricochet/g, 'Easy Anti-Cheat (EAC)'],
 	[/call-of-duty-warzone-cheats/g, 'rust-cheats'],
 	[/call-of-duty-warzone/g, 'rust'],
-	[/Undetected Wallhack for Call of Duty/g, 'Undetected Wallhack for Rust'],
+	[/Undetected Wallhack for Call of Duty/g, 'Undetected Wallhack for The Isle'],
 	[/How ESP wallhack, radar, and Aimbot rebuild after Call of Duty anti-cheat/g,
 		'How ESP wallhack, radar, and Aimbot rebuild after Rust anti-cheat'],
 ];
@@ -90,7 +90,7 @@ function stripZadeyoFromMeta(text) {
 		.replace(/\s*Zadeyo delivery\.?/gi, 'instant digital delivery.')
 		.replace(/\s*and Zadeyo delivery\.?/gi, ' and instant digital delivery.')
 		.replace(/\|\s*Instant Zadeyo Delivery/g, '| Instant Digital Delivery')
-		.replace(/Buy on Zadeyo/g, 'Buy Rust Cheats')
+		.replace(/Buy on Zadeyo/g, 'Buy theislehacks')
 		.replace(/\s{2,}/g, ' ')
 		.trim();
 }
@@ -200,7 +200,7 @@ async function fixLocalesBlogUi() {
 	console.log('Fixed locales.ts blogUi');
 }
 
-console.log('=== Rust Cheats SEO completion ===\n');
+console.log('=== theislehacks SEO completion ===\n');
 await applyGlobalFixes();
 await createExtraPages();
 await fixLocalesBlogUi();

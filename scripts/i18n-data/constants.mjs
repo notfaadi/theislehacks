@@ -126,8 +126,8 @@ export function section(h2, ...args) {
 
 /** Authoritative external citation helpers (open in new tab). */
 export const EXT = {
-	epic: '<a href="https://rust.facepunch.com/" target="_blank" rel="noopener noreferrer">Facepunch Rust</a>',
-	rust: '<a href="https://rust.facepunch.com/" target="_blank" rel="noopener noreferrer">Facepunch Rust</a>',
-	status: '<a href="https://rust.facepunch.com/" target="_blank" rel="noopener noreferrer">Facepunch Rust</a>',
+	epic: '<a href="https://store.steampowered.com/app/376210/The_Isle/" target="_blank" rel="noopener noreferrer">The Isle on Steam</a>',
+	rust: '<a href="https://store.steampowered.com/app/376210/The_Isle/" target="_blank" rel="noopener noreferrer">The Isle on Steam</a>',
+	status: '<a href="https://store.steampowered.com/app/376210/The_Isle/" target="_blank" rel="noopener noreferrer">The Isle on Steam</a>',
 	eac: '<a href="https://www.easy.ac/" target="_blank" rel="noopener noreferrer">Easy Anti-Cheat</a>',
 };
