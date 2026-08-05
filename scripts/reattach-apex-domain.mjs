@@ -7,8 +7,8 @@ import { join } from 'node:path';
 
 const ACCOUNT_ID = '002527a31814aabc946cce93095ec7a5';
 const ZONE_ID = '19b024cbc6f2e427a849d1b1af8b6fc7';
-const SCRIPT = 'islecheat';
-const TARGET = 'islecheat.notfaadi.workers.dev';
+const SCRIPT = 'islehacks';
+const TARGET = 'islehacks.notfaadi.workers.dev';
 const APEX_DOMAIN_ID = '6aed124334c270780b24750eff520820a11345ee';
 
 function getToken() {
@@ -51,7 +51,7 @@ async function main() {
 	r = await api(`/accounts/${ACCOUNT_ID}/workers/domains`, {
 		method: 'PUT',
 		body: {
-			hostname: 'islecheat.net',
+			hostname: 'islehacks.net',
 			service: SCRIPT,
 			environment: 'production',
 			zone_id: ZONE_ID,
@@ -77,7 +77,7 @@ async function main() {
 		method: 'POST',
 		body: {
 			type: 'CNAME',
-			name: 'islecheat.net',
+			name: 'islehacks.net',
 			content: TARGET,
 			proxied: true,
 			ttl: 1,

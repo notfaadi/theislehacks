@@ -3,24 +3,24 @@ import { HERO_IMAGES, clampTitle, clampDesc, section, stripZadeyoFromMeta, EXT }
 /** Richest English page content — source of truth for structure. */
 export const enPages = {
 	home: {
-		title: 'IsleCheat (theislecheats) | The Isle Cheats 2026',
+		title: 'IsleHacks (theislehacks) | The Isle Hacks 2026',
 		description:
-			'IsleCheat — also known as theislecheats / The Isle cheats. Undetected ESP, aimbot & wallhack for The Isle on Windows PC. $35/mo or $150 lifetime.',
-		h1: 'IsleCheat — The Isle Cheats with ESP, Aimbot & Wallhack',
+			'IsleHacks — also known as theislehacks / The Isle hacks. Undetected ESP, aimbot & wallhack for The Isle on Windows PC. $35/mo or $150 lifetime.',
+		h1: 'IsleHacks — The Isle Hacks with ESP, Aimbot & Wallhack',
 		intro:
-			'Looking for theislecheats? IsleCheat is the Windows PC package for The Isle cheats: player ESP, aimbot controls, and wallhack overlays built for hunt pressure and survival fights.',
-		imageAlt: 'IsleCheat aimbot holographic sight with ESP skeleton and red head lock',
-		galleryTitle: 'IsleCheat visuals',
-		ctaPrimary: 'Buy IsleCheat',
+			'Looking for theislehacks? IsleHacks is the Windows PC package for The Isle hacks: player ESP, aimbot controls, and wallhack overlays built for hunt pressure and survival fights.',
+		imageAlt: 'IsleHacks aimbot holographic sight with ESP skeleton and red head lock',
+		galleryTitle: 'IsleHacks visuals',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'See all features',
 		ctaSecondaryHref: '/features/',
 		sections: [
 			section(
 				'Built for wipe pressure',
-				'Rust punishes incomplete information. IsleCheat puts ESP, wallhack, and aimbot in one license so you can read monuments, oil-rig pushes, and compound fights before you commit.',
+				'Rust punishes incomplete information. IsleHacks puts ESP, wallhack, and aimbot in one license so you can read monuments, oil-rig pushes, and compound fights before you commit.',
 				`Client and anti-cheat updates come from ${EXT.epic} and ${EXT.eac}. When a patch needs a rebuild, we post status on the <a href="/updates/">Updates page</a> — no permanent “undetected forever” promises.`,
 				'Monthly ($35) and lifetime ($150) licenses ship digitally after payment confirmation, with maintenance rebuilds when EAC or game updates require them.',
-				'Compare the <a href="/rust-hacks/">IsleCheat guide</a>, <a href="/rust-esp/">ESP</a>, <a href="/rust-aimbot/">Aimbot</a>, and <a href="/undetected-rust-cheats/">undetected status</a> pages before checkout.',
+				'Compare the <a href="/rust-hacks/">IsleHacks guide</a>, <a href="/rust-esp/">ESP</a>, <a href="/rust-aimbot/">Aimbot</a>, and <a href="/undetected-rust-cheats/">undetected status</a> pages before checkout.',
 			),
 			section(
 				'One license, clear controls',
@@ -34,13 +34,13 @@ export const enPages = {
 	'rust-esp': {
 		title: 'Rust ESP 2026 | Player Boxes & Wallhack',
 		description:
-			'IsleCheat ESP for The Isle — player boxes, loot markers, and distance readouts so you read dens and hunt routes before you push.',
+			'IsleHacks ESP for The Isle — player boxes, loot markers, and distance readouts so you read dens and hunt routes before you push.',
 		h1: 'Rust ESP — Player Boxes & Wallhack',
 		intro:
 			'Visibility tools for The Isle. Read nearby players, loot, and distance before you commit to a fight — with toggleable ESP wallhack overlays.',
 		imageAlt: 'Rust ESP with green skeleton, bounding box, loot labels, and distances',
 		galleryTitle: 'Rust ESP overlay visuals',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Rust wallhack guide',
 		ctaSecondaryHref: '/rust-wallhack/',
 		sections: [
@@ -79,13 +79,13 @@ export const enPages = {
 	'rust-aimbot': {
 		title: 'Rust Aimbot 2026 | Soft Aim for PC & Controllers',
 		description:
-			'IsleCheat aimbot with soft aim for The Isle. Tune FOV, bone priority, and hotkeys — bundled with ESP in one license.',
+			'IsleHacks aimbot with soft aim for The Isle. Tune FOV, bone priority, and hotkeys — bundled with ESP in one license.',
 		h1: 'Rust Aimbot — Soft Aim for PC & Controllers',
 		intro:
 			'Configurable Aimbot tools for The Isle. Smoothness, FOV, bone priority, and per-weapon profiles — bundled with ESP and radar in one license.',
 		imageAlt: 'Rust aimbot menu with red skeleton ESP, silent aim, and feature toggles',
 		galleryTitle: 'Rust Aimbot combat previews',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'See ESP wallhack',
 		ctaSecondaryHref: '/rust-esp/',
 		sections: [
@@ -122,15 +122,15 @@ export const enPages = {
 		],
 	},
 	features: {
-		title: 'IsleCheat Features | ESP, Soft Aim, Cloud DMA',
+		title: 'IsleHacks Features | ESP, Soft Aim, Cloud DMA',
 		description:
-			'Full IsleCheat feature list for The Isle: ESP, soft aim, radar, and in-match toggles. Review every control before you buy.',
-		h1: 'IsleCheat Features — Full Control List',
+			'Full IsleHacks feature list for The Isle: ESP, soft aim, radar, and in-match toggles. Review every control before you buy.',
+		h1: 'IsleHacks Features — Full Control List',
 		intro:
-			'Every ESP wallhack, radar, and Aimbot control included in the IsleCheat package for The Isle on Windows PC.',
+			'Every ESP wallhack, radar, and Aimbot control included in the IsleHacks package for The Isle on Windows PC.',
 		imageAlt: 'Rust ESP boxes, weapon labels, and distances on UKN practice bots',
 		galleryTitle: 'Rust Cheats feature gallery',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'View pricing',
 		ctaSecondaryHref: '/pricing/',
 		sections: [
@@ -155,15 +155,15 @@ export const enPages = {
 		],
 	},
 	pricing: {
-		title: 'IsleCheat Pricing | $35/mo or $150 Life',
+		title: 'IsleHacks Pricing | $35/mo or $150 Life',
 		description:
-			'IsleCheat pricing for The Isle: $35/month or $150 lifetime. ESP, soft aim, and radar with instant digital delivery.',
-		h1: 'IsleCheat Pricing — Monthly & Lifetime',
+			'IsleHacks pricing for The Isle: $35/month or $150 lifetime. ESP, soft aim, and radar with instant digital delivery.',
+		h1: 'IsleHacks Pricing — Monthly & Lifetime',
 		intro:
-			'Choose monthly or lifetime access to IsleCheat — ESP, radar, and Aimbot for The Isle on Windows PC. Instant digital delivery after payment.',
+			'Choose monthly or lifetime access to IsleHacks — ESP, radar, and Aimbot for The Isle on Windows PC. Instant digital delivery after payment.',
 		imageAlt: 'Rust ESP overlay with skeleton ESP and loot inventory labels',
 		galleryTitle: 'Rust Cheats package visuals',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Read setup guide',
 		ctaSecondaryHref: '/setup/',
 		sections: [
@@ -188,15 +188,15 @@ export const enPages = {
 		],
 	},
 	setup: {
-		title: 'IsleCheat Setup | PC & Controller Guide',
+		title: 'IsleHacks Setup | PC & Controller Guide',
 		description:
-			'Set up IsleCheat on Windows PC — activate your license, load ESP and aimbot profiles, and get ready for The Isle.',
-		h1: 'IsleCheat Setup — PC & Controller Guide',
+			'Set up IsleHacks on Windows PC — activate your license, load ESP and aimbot profiles, and get ready for The Isle.',
+		h1: 'IsleHacks Setup — PC & Controller Guide',
 		intro:
-			'Install and configure IsleCheat for The Isle on Windows 10 or 11. Activate your license, load ESP and Aimbot profiles, then start your first session.',
+			'Install and configure IsleHacks for The Isle on Windows 10 or 11. Activate your license, load ESP and Aimbot profiles, then start your first session.',
 		imageAlt: 'Rust aimbot cheats menu with red skeleton ESP and hotkey toggles',
 		galleryTitle: 'Rust Cheats setup visuals',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Contact support',
 		ctaSecondaryHref: '/support/',
 		sections: [
@@ -221,15 +221,15 @@ export const enPages = {
 		],
 	},
 	updates: {
-		title: 'IsleCheat Updates | EAC Maintenance Log',
+		title: 'IsleHacks Updates | EAC Maintenance Log',
 		description:
-			'IsleCheat update log for The Isle. Check rebuild status after game or anti-cheat patches before you queue.',
-		h1: 'IsleCheat Updates — Maintenance Log',
+			'IsleHacks update log for The Isle. Check rebuild status after game or anti-cheat patches before you queue.',
+		h1: 'IsleHacks Updates — Maintenance Log',
 		intro:
-			'Track rebuild notes for the IsleCheat ESP, radar, and Aimbot package. Check here before queueing after major updates.',
+			'Track rebuild notes for the IsleHacks ESP, radar, and Aimbot package. Check here before queueing after major updates.',
 		imageAlt: 'Rust ESP green hitbox wallhack on a hazmat-suited player',
 		galleryTitle: 'Rust patch and maintenance visuals',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Undetected status guide',
 		ctaSecondaryHref: '/undetected-rust-cheats/',
 		sections: [
@@ -254,15 +254,15 @@ export const enPages = {
 		],
 	},
 	faq: {
-		title: 'IsleCheat FAQ | ESP, Soft Aim & EAC Answers',
+		title: 'IsleHacks FAQ | ESP, Soft Aim & EAC Answers',
 		description:
-			'IsleCheat FAQ — answers on ESP, aimbot, delivery, pricing, and support for The Isle on Windows PC.',
-		h1: 'IsleCheat FAQ — Common Questions',
+			'IsleHacks FAQ — answers on ESP, aimbot, delivery, pricing, and support for The Isle on Windows PC.',
+		h1: 'IsleHacks FAQ — Common Questions',
 		intro:
-			'Answers about IsleCheat — ESP, radar, Aimbot, checkout, and Windows PC compatibility for The Isle.',
+			'Answers about IsleHacks — ESP, radar, Aimbot, checkout, and Windows PC compatibility for The Isle.',
 		imageAlt: 'Rust ESP boxes and distance labels on UKN practice bots',
 		galleryTitle: 'Rust Cheats FAQ visuals',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Contact support',
 		ctaSecondaryHref: '/support/',
 		sections: [
@@ -287,13 +287,13 @@ export const enPages = {
 		],
 	},
 	support: {
-		title: 'IsleCheat Support | Help & Contact',
+		title: 'IsleHacks Support | Help & Contact',
 		description:
-			'Contact IsleCheat support for licenses, setup help, and billing questions. Include your order ID for faster replies.',
-		h1: 'IsleCheat Support — Contact Us',
+			'Contact IsleHacks support for licenses, setup help, and billing questions. Include your order ID for faster replies.',
+		h1: 'IsleHacks Support — Contact Us',
 		intro:
-			'Get help with IsleCheat licenses, checkout, ESP setup, and Aimbot profiles for The Isle on Windows PC.',
-		imageAlt: 'IsleCheat aimbot sight with ESP skeleton and red head lock',
+			'Get help with IsleHacks licenses, checkout, ESP setup, and Aimbot profiles for The Isle on Windows PC.',
+		imageAlt: 'IsleHacks aimbot sight with ESP skeleton and red head lock',
 		galleryTitle: 'Rust Cheats support resources',
 		ctaPrimary: 'Email support',
 		ctaSecondary: 'Read setup guide',
@@ -320,15 +320,15 @@ export const enPages = {
 		],
 	},
 	undetected: {
-		title: 'Undetected IsleCheat 2026 | EAC Safe',
+		title: 'Undetected IsleHacks 2026 | EAC Safe',
 		description:
-			'How IsleCheat stays maintained for The Isle after Easy Anti-Cheat patches. Check status before you queue.',
-		h1: 'Undetected IsleCheat — EAC Maintenance',
+			'How IsleHacks stays maintained for The Isle after Easy Anti-Cheat patches. Check status before you queue.',
+		h1: 'Undetected IsleHacks — EAC Maintenance',
 		intro:
-			'How IsleCheat stays maintained for The Isle after Easy Anti-Cheat patches — ESP, radar, and Aimbot rebuilds for Windows PC.',
+			'How IsleHacks stays maintained for The Isle after Easy Anti-Cheat patches — ESP, radar, and Aimbot rebuilds for Windows PC.',
 		imageAlt: 'Rust wallhack green hitbox ESP on a hazmat suit player',
 		galleryTitle: 'Undetected Rust Cheats visuals',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'EAC bypass guide',
 		ctaSecondaryHref: '/eac-bypass-rust/',
 		sections: [
@@ -355,13 +355,13 @@ export const enPages = {
 	wallhack: {
 		title: 'Rust Wallhack 2026 | ESP Boxes & Visibility',
 		description:
-			'IsleCheat wallhack ESP for The Isle — player boxes and loot markers through terrain. See overlays and buy.',
+			'IsleHacks wallhack ESP for The Isle — player boxes and loot markers through terrain. See overlays and buy.',
 		h1: 'Rust Wallhack — ESP Boxes & Visibility',
 		intro:
 			'Wallhack ESP for The Isle — see players, loot, and threats through toggleable overlays built for hunt and survival play.',
 		imageAlt: 'Rust wallhack ESP green hitbox around a hazmat-suited player',
 		galleryTitle: 'Rust wallhack ESP gallery',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Rust ESP page',
 		ctaSecondaryHref: '/rust-esp/',
 		sections: [
@@ -388,13 +388,13 @@ export const enPages = {
 	radar: {
 		title: 'Rust Radar Hack 2026 | 2D Threat Overlay',
 		description:
-			'IsleCheat radar for flank awareness on The Isle. Bundled with ESP and soft aim in one package.',
+			'IsleHacks radar for flank awareness on The Isle. Bundled with ESP and soft aim in one package.',
 		h1: 'Rust Radar Hack — 2D Threat Awareness',
 		intro:
 			'2D radar-style overlay for Rust — directional threat cues for nearby players outside your line of sight, bundled with ESP wallhack and Aimbot.',
 		imageAlt: 'Rust ESP distance markers and weapon labels on UKN practice bots',
 		galleryTitle: 'Rust radar hack visuals',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'See ESP wallhack',
 		ctaSecondaryHref: '/rust-esp/',
 		sections: [
@@ -421,13 +421,13 @@ export const enPages = {
 	'eac-bypass': {
 		title: 'EAC Bypass Rust | Hack Maintenance Guide',
 		description:
-			'How IsleCheat handles Easy Anti-Cheat patches for The Isle — rebuild notes and what to check before queueing.',
-		h1: 'EAC Bypass — IsleCheat Maintenance',
+			'How IsleHacks handles Easy Anti-Cheat patches for The Isle — rebuild notes and what to check before queueing.',
+		h1: 'EAC Bypass — IsleHacks Maintenance',
 		intro:
 			'Understand Easy Anti-Cheat maintenance for Rust Cheats — how ESP wallhack, radar hack, and Aimbot rebuild after Rust security updates.',
 		imageAlt: 'Rust ESP green hitbox wallhack used for EAC maintenance status pages',
 		galleryTitle: 'EAC maintenance visuals',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Check updates',
 		ctaSecondaryHref: '/updates/',
 		sections: [
@@ -454,13 +454,13 @@ export const enPages = {
 	'cheats-2026': {
 		title: 'Rust Cheats 2026 | Hacks with ESP & Cloud DMA',
 		description:
-			'IsleCheat for The Isle in 2026 — ESP, soft aim, and radar in one maintained package. Compare plans and buy.',
+			'IsleHacks for The Isle in 2026 — ESP, soft aim, and radar in one maintained package. Compare plans and buy.',
 		h1: 'Rust Cheats 2026 — ESP, Soft Aim & Cloud DMA',
 		intro:
-			'The 2026 IsleCheat package for The Isle — ESP, radar, and Aimbot with instant delivery and Windows PC support.',
-		imageAlt: 'IsleCheat aimbot holographic sight with ESP skeleton and red head lock',
+			'The 2026 IsleHacks package for The Isle — ESP, radar, and Aimbot with instant delivery and Windows PC support.',
+		imageAlt: 'IsleHacks aimbot holographic sight with ESP skeleton and red head lock',
 		galleryTitle: 'Rust Cheats 2026 gallery',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Compare features',
 		ctaSecondaryHref: '/features/',
 		sections: [
@@ -473,51 +473,51 @@ export const enPages = {
 			section(
 				'Full feature stack for 2026 buyers',
 				'Player ESP wallhack, loot markers, 2D radar overlays, Aimbot profiles, in-client toggles, and post-patch rebuilds — one license instead of stacking separate tools.',
-				'Deep links: <a href="/rust-hacks/">IsleCheat pillar</a>, <a href="/rust-esp/">ESP</a>, <a href="/rust-aimbot/">Aimbot</a>, <a href="/rust-wallhack/">wallhack</a>, <a href="/rust-radar-hack/">radar</a>, <a href="/undetected-rust-cheats/">undetected</a>.',
+				'Deep links: <a href="/rust-hacks/">IsleHacks pillar</a>, <a href="/rust-esp/">ESP</a>, <a href="/rust-aimbot/">Aimbot</a>, <a href="/rust-wallhack/">wallhack</a>, <a href="/rust-radar-hack/">radar</a>, <a href="/undetected-rust-cheats/">undetected</a>.',
 				'Instant digital delivery after checkout confirmation worldwide.',
 			),
 			section(
 				'Before you buy in 2026',
-				'Read the <a href="/rust-hacks/">IsleCheat</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.',
+				'Read the <a href="/rust-hacks/">IsleHacks</a> pillar, Features, Pricing, Setup, and Updates pages. Check undetected status notes after every major patch — responsible use and maintenance awareness matter.',
 				'Also compare the <a href="/best-rust-cheats/">best Rust cheats</a> checklist, <a href="/blog/rust-cheats-2026-whats-new/">2026 blog guide</a>, and <a href="/faq/">FAQ</a>.',
 				'Support is available at support@theislehacks.com via the <a href="/support/">Support page</a>.',
 			),
 		],
 	},
 	hacks: {
-		title: 'IsleCheat 2026 | Undetected ESP Aimbot Guide',
+		title: 'IsleHacks 2026 | Undetected ESP Aimbot Guide',
 		description:
-			'IsleCheat for The Isle on Windows PC: ESP, wallhack, and aimbot in one license. Compare options and buy.',
-		h1: 'IsleCheat — Undetected ESP, Aimbot & Wallhack',
+			'IsleHacks for The Isle on Windows PC: ESP, wallhack, and aimbot in one license. Compare options and buy.',
+		h1: 'IsleHacks — Undetected ESP, Aimbot & Wallhack',
 		intro:
-			'IsleCheat for The Isle combines ESP visibility, radar threat cues, and Aimbot controls in one Windows PC license. This is the pillar guide for IsleCheat.',
-		imageAlt: 'IsleCheat aimbot sight with ESP skeleton and red head lock',
-		galleryTitle: 'IsleCheat gallery — ESP, Aimbot, wallhack',
-		ctaPrimary: 'Buy IsleCheat',
+			'IsleHacks for The Isle combines ESP visibility, radar threat cues, and Aimbot controls in one Windows PC license. This is the pillar guide for IsleHacks.',
+		imageAlt: 'IsleHacks aimbot sight with ESP skeleton and red head lock',
+		galleryTitle: 'IsleHacks gallery — ESP, Aimbot, wallhack',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'See undetected guide',
 		ctaSecondaryHref: '/undetected-rust-cheats/',
 		sections: [
 			section(
-				'What IsleCheat include in 2026',
-				'Players searching for IsleCheat usually want visibility and combat tools without stacking separate downloads. IsleCheat bundles player ESP wallhack, loot markers, 2D radar overlays, and configurable Aimbot in one maintained package — the same toolkit often called rust cheats.',
+				'What IsleHacks include in 2026',
+				'Players searching for IsleHacks usually want visibility and combat tools without stacking separate downloads. IsleHacks bundles player ESP wallhack, loot markers, 2D radar overlays, and configurable Aimbot in one maintained package — the same toolkit often called rust cheats.',
 				'Coverage spans survival and monuments with in-client toggles for live matches. Monthly ($35) and lifetime ($150) licenses unlock the full stack.',
 				`Official game updates come from ${EXT.epic}; our hacks package tracks those releases via the <a href="/updates/">Updates page</a>. Cross-check platform health on ${EXT.status} before patch-day queues.`,
 			),
 			section(
-				'IsleCheat vs rust cheats — same stack, clear pages',
-				'Searchers use IsleCheat and rust cheats interchangeably. This pillar focuses on hacks language; the <a href="/rust-cheats-2026/">rust cheats 2026</a> and <a href="/best-rust-cheats/">best Rust cheats</a> pages cover buyer comparisons in cheats wording.',
+				'IsleHacks vs rust cheats — same stack, clear pages',
+				'Searchers use IsleHacks and rust cheats interchangeably. This pillar focuses on hacks language; the <a href="/rust-cheats-2026/">rust cheats 2026</a> and <a href="/best-rust-cheats/">best Rust cheats</a> pages cover buyer comparisons in cheats wording.',
 				'Deep-dive modules: <a href="/rust-esp/">Rust ESP</a>, <a href="/rust-aimbot/">Rust Aimbot</a>, <a href="/rust-wallhack/">wallhack</a>, <a href="/rust-radar-hack/">radar hack</a>, and <a href="/rust-soft-aim/">soft aim</a>.',
 				'Blog guides expand each keyword: <a href="/blog/rust-hacks-complete-guide-2026/">hacks complete guide</a>, <a href="/blog/rust-cheats-buyers-guide/">cheats buyers guide</a>, and <a href="/blog/undetected-rust-hacks-eac/">undetected EAC notes</a>.',
 			),
 			section(
-				'IsleCheat vs single-feature tools',
-				'Standalone hacks often cover only wallhack or only aim assist. IsleCheat maps the full BR loop: read enemy squads, track vehicles and chests, spot flanks on radar, and tune Aimbot per weapon class.',
+				'IsleHacks vs single-feature tools',
+				'Standalone hacks often cover only wallhack or only aim assist. IsleHacks maps the full BR loop: read enemy squads, track vehicles and chests, spot flanks on radar, and tune Aimbot per weapon class.',
 				'Compare the <a href="/rust-esp/">ESP</a>, <a href="/rust-aimbot/">Aimbot</a>, and <a href="/features/">Features</a> pages — or review <a href="/pricing/">Pricing</a> for monthly and lifetime licenses.',
 				'Related landings: <a href="/rust-cheat-download/">cheat download</a>, <a href="/rust-mod-menu/">mod menu</a>, <a href="/rust-aimbot-hack/">aimbot hack</a>, <a href="/rust-esp-hack/">ESP hack</a>.',
 			),
 			section(
-				'Undetected IsleCheat with EAC maintenance',
-				'Undetected IsleCheat require rebuilds after Easy Anti-Cheat and major Rust patches. Check Updates before queueing — maintenance notes confirm when a new build is live. No package can promise permanent undetected status.',
+				'Undetected IsleHacks with EAC maintenance',
+				'Undetected IsleHacks require rebuilds after Easy Anti-Cheat and major Rust patches. Check Updates before queueing — maintenance notes confirm when a new build is live. No package can promise permanent undetected status.',
 				`See ${EXT.eac} for anti-cheat background and our <a href="/eac-bypass-rust/">EAC bypass guide</a> for the practical workflow. Pair with <a href="/undetected-rust-cheats/">undetected Rust cheats</a> for status language buyers expect.`,
 				'Digital delivery runs after checkout for Windows 10 and 11 PCs worldwide. After purchase, follow <a href="/setup/">Setup</a> and keep <a href="/support/">Support</a> ready with your order ID.',
 			),
@@ -526,13 +526,13 @@ export const enPages = {
 	'cheat-download': {
 		title: 'Rust Hack Download 2026 | Instant Access',
 		description:
-			'Download IsleCheat with instant license delivery — ESP, soft aim, and radar for The Isle. Buy, activate, and play.',
+			'Download IsleHacks with instant license delivery — ESP, soft aim, and radar for The Isle. Buy, activate, and play.',
 		h1: 'Rust Hack Download — Instant License Delivery',
 		intro:
 			'How Rust cheat download works for Rust — digital license delivery after payment confirmation, with ESP wallhack, radar hack, and Aimbot access on Windows PC.',
 		imageAlt: 'Rust ESP overlay with skeleton ESP and loot inventory labels',
 		galleryTitle: 'Rust cheat download visuals',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Setup guide',
 		ctaSecondaryHref: '/setup/',
 		sections: [
@@ -559,13 +559,13 @@ export const enPages = {
 	'mod-menu': {
 		title: 'Rust Mod Menu 2026 | ESP & Soft Aim Toggles',
 		description:
-			'IsleCheat mod menu for in-match toggles — ESP, soft aim, and radar on The Isle. One maintained package.',
+			'IsleHacks mod menu for in-match toggles — ESP, soft aim, and radar on The Isle. One maintained package.',
 		h1: 'Rust Mod Menu — In-Client Control Panel',
 		intro:
 			'Rust mod menu controls for Rust — toggle ESP wallhack categories, radar range, and Aimbot profiles mid-match without leaving your Rust session on Windows PC.',
 		imageAlt: 'Rust mod menu / aimbot overlay with red skeleton ESP and hotkeys',
 		galleryTitle: 'Rust mod menu gallery',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Full feature list',
 		ctaSecondaryHref: '/features/',
 		sections: [
@@ -592,13 +592,13 @@ export const enPages = {
 	'soft-aim': {
 		title: 'Rust Soft Aim 2026 | Smooth Aimbot Settings',
 		description:
-			'IsleCheat soft aim settings for natural tracking on The Isle. Smoothness, FOV, and bone priority included.',
+			'IsleHacks soft aim settings for natural tracking on The Isle. Smoothness, FOV, and bone priority included.',
 		h1: 'Rust Soft Aim — Smooth Aimbot Controls',
 		intro:
 			'Rust soft aim settings for Rust — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.',
 		imageAlt: 'Rust soft aim ESP boxes and FOV circle on UKN practice bots',
 		galleryTitle: 'Rust soft aim gallery',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Aimbot controls',
 		ctaSecondaryHref: '/rust-aimbot/',
 		sections: [
@@ -623,15 +623,15 @@ export const enPages = {
 		],
 	},
 	'best-cheats': {
-		title: 'Best IsleCheat 2026 | Buyer Guide',
+		title: 'Best IsleHacks 2026 | Buyer Guide',
 		description:
-			'Best IsleCheat options for The Isle — ESP, soft aim, and radar checklist before you buy.',
-		h1: 'Best IsleCheat — 2026 Buyer Guide',
+			'Best IsleHacks options for The Isle — ESP, soft aim, and radar checklist before you buy.',
+		h1: 'Best IsleHacks — 2026 Buyer Guide',
 		intro:
 			'Compare the best Rust cheats for Rust in 2026 — undetected ESP wallhack, radar hack, and Aimbot in one maintained package with Easy Anti-Cheat rebuilds and instant delivery.',
 		imageAlt: 'Rust ESP overlay with skeleton ESP and loot inventory labels',
 		galleryTitle: 'Best Rust cheats gallery',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Compare pricing',
 		ctaSecondaryHref: '/pricing/',
 		sections: [
@@ -658,13 +658,13 @@ export const enPages = {
 	'aimbot-hack': {
 		title: 'Rust Aimbot Hack 2026 | Soft Aim Assist',
 		description:
-			'IsleCheat aimbot with soft aim for The Isle. FOV, bone priority, and hotkeys bundled with ESP.',
+			'IsleHacks aimbot with soft aim for The Isle. FOV, bone priority, and hotkeys bundled with ESP.',
 		h1: 'Rust Aimbot Hack — Soft Aim Assist',
 		intro:
 			'Rust aimbot hack tools for Rust — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.',
 		imageAlt: 'Rust aimbot hack menu with red skeleton ESP and silent aim toggles',
 		galleryTitle: 'Rust aimbot hack gallery',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'Aimbot settings',
 		ctaSecondaryHref: '/rust-aimbot/',
 		sections: [
@@ -691,13 +691,13 @@ export const enPages = {
 	'esp-hack': {
 		title: 'Rust ESP Hack 2026 | Player Boxes & Loot',
 		description:
-			'IsleCheat ESP for The Isle — player boxes, loot markers, and distance readouts. See overlays and buy.',
+			'IsleHacks ESP for The Isle — player boxes, loot markers, and distance readouts. See overlays and buy.',
 		h1: 'Rust ESP Hack — Player Boxes Guide',
 		intro:
 			'Rust ESP hack overlays for Rust — player outlines, vehicle threat cues, loot and chest markers with distance readouts across survival and monuments.',
 		imageAlt: 'Rust ESP hack with green skeleton, box, and loot visibility labels',
 		galleryTitle: 'Rust ESP hack gallery',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'ESP controls',
 		ctaSecondaryHref: '/rust-esp/',
 		sections: [
@@ -724,13 +724,13 @@ export const enPages = {
 	'unlock-all': {
 		title: 'Rust Unlock All 2026 | What It Really Means',
 		description:
-			'Unlock-all searches vs real IsleCheat for The Isle — ESP, soft aim, and radar. Know what you are buying.',
+			'Unlock-all searches vs real IsleHacks for The Isle — ESP, soft aim, and radar. Know what you are buying.',
 		h1: 'Rust Unlock All — What Players Search For',
 		intro:
 			'Rust unlock all is a common search term for Rust — this page clarifies what unlock-all tools claim versus the ESP wallhack, radar hack, and Aimbot tools Rust Cheats actually provides on Windows PC.',
 		imageAlt: 'Rust ESP boxes and distances on UKN bots for unlock-all context',
 		galleryTitle: 'Rust unlock all guide visuals',
-		ctaPrimary: 'Buy IsleCheat',
+		ctaPrimary: 'Buy IsleHacks',
 		ctaSecondary: 'See features',
 		ctaSecondaryHref: '/features/',
 		sections: [
@@ -744,7 +744,7 @@ export const enPages = {
 				'Visibility tools vs unlock-all claims',
 				'ESP wallhack helps you spot enemy squads, vehicles, and loot chests during live matches. Radar hack adds flank awareness; Aimbot covers combat assist with smoothness and hotkey controls.',
 				'For loadout planning during a match, loot and chest markers speed BR rotations — see the <a href="/rust-esp/">ESP</a> and <a href="/features/">Features</a> pages for the full tool list.',
-				'Related: <a href="/rust-hacks/">IsleCheat</a> and <a href="/best-rust-cheats/">best Rust cheats</a>.',
+				'Related: <a href="/rust-hacks/">IsleHacks</a> and <a href="/best-rust-cheats/">best Rust cheats</a>.',
 			),
 			section(
 				'Buying Rust Cheats for the right reasons',
@@ -755,11 +755,11 @@ export const enPages = {
 		],
 	},
 	privacy: {
-		title: 'Privacy Policy | IsleCheat',
+		title: 'Privacy Policy | IsleHacks',
 		description:
-			'Privacy policy for IsleCheat. How we handle support emails, order data, and checkout on theislehacks.com.',
+			'Privacy policy for IsleHacks. How we handle support emails, order data, and checkout on theislehacks.com.',
 		h1: 'Privacy Policy',
-		intro: 'How IsleCheat handles information when you browse theislehacks.com or contact support about a license.',
+		intro: 'How IsleHacks handles information when you browse theislehacks.com or contact support about a license.',
 		imageAlt: 'Rust ESP overlay visual for privacy policy page',
 		galleryTitle: 'Rust Cheats legal resources',
 		ctaPrimary: 'Email support',
@@ -785,9 +785,9 @@ export const enPages = {
 		],
 	},
 	refund: {
-		title: 'Refund Policy | IsleCheat',
+		title: 'Refund Policy | IsleHacks',
 		description:
-			'Refund policy for IsleCheat. Digital delivery terms and eligibility for IsleCheat packages.',
+			'Refund policy for IsleHacks. Digital delivery terms and eligibility for IsleHacks packages.',
 		h1: 'Refund Policy',
 		intro:
 			'Refund terms for Rust Cheats licenses — ESP wallhack, radar hack, and Aimbot packages purchased through checkout for Rust.',
@@ -815,11 +815,11 @@ export const enPages = {
 		],
 	},
 	terms: {
-		title: 'Terms of Use 2026 | IsleCheat Rules',
+		title: 'Terms of Use 2026 | IsleHacks Rules',
 		description:
-			'Terms of use for IsleCheat licenses. Usage rules, anti-cheat risk, and liability for Windows PC.',
+			'Terms of use for IsleHacks licenses. Usage rules, anti-cheat risk, and liability for Windows PC.',
 		h1: 'Terms of Use',
-		intro: 'Terms governing use of theislehacks.com and IsleCheat licenses for The Isle on Windows PC.',
+		intro: 'Terms governing use of theislehacks.com and IsleHacks licenses for The Isle on Windows PC.',
 		imageAlt: 'Rust ESP overlay visual for terms of use page',
 		galleryTitle: 'Rust Cheats legal pages',
 		ctaPrimary: 'Email support',

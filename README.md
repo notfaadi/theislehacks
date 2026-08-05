@@ -1,12 +1,12 @@
-# IsleCheat — Marketing Site
+# IsleHacks — Marketing Site
 
-Static Astro 7 site for [islecheat.net](https://islecheat.net). Primary SEO focus: **IsleCheat** (supporting: rust cheats, rust esp, rust aimbot).
+Static Astro 7 site for [theislehacks.com](https://theislehacks.com). Primary SEO focus: **IsleHacks** (supporting: The Isle hacks, isle esp, isle aimbot).
 
 ## Stack
 
 - Astro 7 + Tailwind CSS 4 + TypeScript
 - 22-locale i18n (English at root, `/es/`, `/fr/`, …)
-- Cloudflare Pages with `functions/_middleware.js`
+- Cloudflare Workers with static assets (`wrangler.toml`)
 
 ## Quick start
 
@@ -22,34 +22,27 @@ Build and validate sitemaps:
 npm run build:validate
 ```
 
-Refresh Rust atmosphere images (optional):
+Refresh atmosphere images (optional):
 
 ```bash
 npm run fetch:images
 npm run optimize:images
 ```
 
-## Deploy (Cloudflare Pages)
+## Deploy (Cloudflare Worker)
 
-1. Create a Cloudflare Pages project named **rusthacks**
-2. Connect this repo or upload `dist/` after `npm run build`
-3. Build command: `npm run build`
-4. Output directory: `dist`
-5. Custom domain **islecheat.net** (apex) and redirect **www** → apex
-6. Enable SSL **Always Use HTTPS**
-
-CLI deploy:
-
-```bash
-npm run pages:deploy
-```
+1. Worker name: **theislehacks** (`wrangler.toml`)
+2. Build: `npm run build`
+3. Deploy: `npm run deploy` (or `npx wrangler deploy`)
+4. Custom domain **theislehacks.com** (apex) and redirect **www** → apex
+5. Enable SSL **Always Use HTTPS**
 
 ## Environment
 
 - Node.js >= 22.12.0
 - Checkout URL in `src/data/site.ts` (`siteConfig.checkoutUrl`)
-- Canonical site URL: `https://islecheat.net`
+- Canonical site URL: `https://theislehacks.com`
 
 ## License
 
-Private — for islecheat.net deployment only.
+Private — for theislehacks.com deployment only.

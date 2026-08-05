@@ -32,7 +32,7 @@ const UI_REPLACEMENTS = [
 	['Verdansk', 'the island'],
 	['Resurgence', 'monuments'],
 	['gulag', 'monument'],
-	['warzonescheats.net', 'islecheat.net'],
+	['warzonescheats.net', 'islehacks.net'],
 	['Trucos Warzone', 'Trucos Rust'],
 	['Triches Warzone', 'Triches Rust'],
 	['Cheats Warzone', 'Cheats Rust'],

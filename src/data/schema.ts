@@ -60,17 +60,17 @@ export const pageFaqClusters: Partial<
 > = {
 	hacks: [
 		{
-			question: 'What are IsleCheat?',
+			question: 'What are IsleHacks?',
 			answer:
-				'IsleCheat is a Windows PC package for Rust with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
+				'IsleHacks is a Windows PC package for Rust with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
 		},
 		{
-			question: 'Are IsleCheat permanently undetected?',
+			question: 'Are IsleHacks permanently undetected?',
 			answer:
 				'No package can promise that. We rebuild after Easy Anti-Cheat and game patches and post status on Updates. Check there before you load in.',
 		},
 		{
-			question: 'What is included in the IsleCheat package?',
+			question: 'What is included in the IsleHacks package?',
 			answer:
 				'Player ESP, loot markers, radar cues, and configurable aimbot in one license. See Features, ESP, and Aimbot for control detail.',
 		},
@@ -79,12 +79,12 @@ export const pageFaqClusters: Partial<
 		{
 			question: 'What is a Rust wallhack?',
 			answer:
-				'A Rust wallhack is an ESP overlay that shows enemy players, vehicles, and loot through walls and terrain. IsleCheat wallhack includes distance readouts, team colours, and toggleable categories for PVE and PVP.',
+				'A Rust wallhack is an ESP overlay that shows enemy players, vehicles, and loot through walls and terrain. IsleHacks wallhack includes distance readouts, team colours, and toggleable categories for PVE and PVP.',
 		},
 		{
-			question: 'Does IsleCheat include a radar hack?',
+			question: 'Does IsleHacks include a radar hack?',
 			answer:
-				'Yes. IsleCheat includes 2D radar-style overlays that highlight nearby threats outside your direct view — useful for reading flanks during building fights and final-circle rotations.',
+				'Yes. IsleHacks includes 2D radar-style overlays that highlight nearby threats outside your direct view — useful for reading flanks during building fights and final-circle rotations.',
 		},
 		{
 			question: 'Does this fit monument and raid play?',
@@ -96,22 +96,22 @@ export const pageFaqClusters: Partial<
 		{
 			question: 'What is Rust soft aim?',
 			answer:
-				'Rust soft aim is configurable aim assist with smoothness, FOV, and bone priority controls. It ships bundled with ESP and radar in the IsleCheat license for Windows PC.',
+				'Rust soft aim is configurable aim assist with smoothness, FOV, and bone priority controls. It ships bundled with ESP and radar in the IsleHacks license for Windows PC.',
 		},
 		{
 			question: 'Can I use Rust aimbot with a controller?',
 			answer:
-				'Yes. IsleCheat supports controller play on Windows PC. Tune FOV and smoothness per weapon profile after setup.',
+				'Yes. IsleHacks supports controller play on Windows PC. Tune FOV and smoothness per weapon profile after setup.',
 		},
 		{
-			question: 'Are IsleCheat permanently undetected?',
+			question: 'Are IsleHacks permanently undetected?',
 			answer:
 				'No package can promise that. We rebuild after Easy Anti-Cheat and game patches and post status on Updates. Check there before you load in.',
 		},
 	],
 	pricing: [
 		{
-			question: 'How are IsleCheat licenses delivered?',
+			question: 'How are IsleHacks licenses delivered?',
 			answer:
 				'Digitally after payment confirmation. Timing can vary by payment method — keep your order confirmation if you contact support.',
 		},
@@ -128,19 +128,19 @@ export const pageFaqClusters: Partial<
 	],
 	features: [
 		{
-			question: 'What is included in IsleCheat?',
+			question: 'What is included in IsleHacks?',
 			answer:
 				'Player ESP, loot markers, radar cues, and configurable aimbot in one license. See Features, ESP, and Aimbot for control detail.',
 		},
 		{
-			question: 'Does IsleCheat work on Windows PC?',
+			question: 'Does IsleHacks work on Windows PC?',
 			answer:
-				'Yes — IsleCheat is built for Rust on Windows 10 and 11 with in-client toggles for ESP, radar, and aimbot.',
+				'Yes — IsleHacks is built for Rust on Windows 10 and 11 with in-client toggles for ESP, radar, and aimbot.',
 		},
 		{
-			question: 'How does Easy Anti-Cheat (EAC) affect IsleCheat?',
+			question: 'How does Easy Anti-Cheat (EAC) affect IsleHacks?',
 			answer:
-				'Facepunch Easy Anti-Cheat (EAC) monitors Rust on Windows PC. IsleCheat publishes maintenance notes after patches that may require a rebuild. Read the EAC bypass guide page for how updates are handled.',
+				'Facepunch Easy Anti-Cheat (EAC) monitors Rust on Windows PC. IsleHacks publishes maintenance notes after patches that may require a rebuild. Read the EAC bypass guide page for how updates are handled.',
 		},
 	],
 };
