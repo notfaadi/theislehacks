@@ -62,7 +62,7 @@ export const pageFaqClusters: Partial<
 		{
 			question: 'What are theislehacks?',
 			answer:
-				'theislehacks is a Windows PC package for Rust with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
+				'theislehacks is a Windows PC package for The Isle with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
 		},
 		{
 			question: 'Are theislehacks permanently undetected?',
@@ -77,29 +77,29 @@ export const pageFaqClusters: Partial<
 	],
 	'rust-esp': [
 		{
-			question: 'What is a Rust wallhack?',
+			question: 'What is an Isle wallhack?',
 			answer:
-				'A Rust wallhack is an ESP overlay that shows enemy players, vehicles, and loot through walls and terrain. theislehacks wallhack includes distance readouts, team colours, and toggleable categories for PVE and PVP.',
+				'An Isle wallhack is an ESP overlay that shows enemy players and loot through terrain. theislehacks wallhack includes distance readouts, team colours, and toggleable categories for PVE and PVP on The Isle.',
 		},
 		{
 			question: 'Does theislehacks include a radar hack?',
 			answer:
-				'Yes. theislehacks includes 2D radar-style overlays that highlight nearby threats outside your direct view — useful for reading flanks during building fights and final-circle rotations.',
+				'Yes. theislehacks includes 2D radar-style overlays that highlight nearby threats outside your direct view — useful for reading flanks around dens and hunt routes.',
 		},
 		{
-			question: 'Does this fit monument and raid play?',
+			question: 'Does this fit dens and hunt play?',
 			answer:
-				'Yes. ESP and radar help you read nearby players and loot; aimbot covers the firefight. Tuned for PVE and PVP on the island.',
+				'Yes. ESP and radar help you read nearby players and loot; aimbot covers the firefight. Tuned for PVE and PVP on The Isle.',
 		},
 	],
 	'rust-aimbot': [
 		{
-			question: 'What is Rust soft aim?',
+			question: 'What is Isle soft aim?',
 			answer:
-				'Rust soft aim is configurable aim assist with smoothness, FOV, and bone priority controls. It ships bundled with ESP and radar in the theislehacks license for Windows PC.',
+				'Isle soft aim is configurable aim assist with smoothness, FOV, and bone priority controls. It ships bundled with ESP and radar in the theislehacks license for Windows PC.',
 		},
 		{
-			question: 'Can I use Rust aimbot with a controller?',
+			question: 'Can I use Isle aimbot with a controller?',
 			answer:
 				'Yes. theislehacks supports controller play on Windows PC. Tune FOV and smoothness per weapon profile after setup.',
 		},
@@ -118,12 +118,12 @@ export const pageFaqClusters: Partial<
 		{
 			question: 'What does the $35/month plan include?',
 			answer:
-				'The monthly license includes ESP, wallhack overlays, radar, and aimbot controls with EAC maintenance updates for Rust on Windows PC.',
+				'The monthly license includes ESP, wallhack overlays, radar, and aimbot controls with EAC maintenance updates for The Isle on Windows PC.',
 		},
 		{
 			question: 'Is the $150 lifetime license worth it?',
 			answer:
-				'Lifetime pays off if you play Rust across multiple wipe cycles. It includes the same feature stack as monthly with long-term maintenance after EAC patches.',
+				'Lifetime pays off if you play The Isle across multiple seasons. It includes the same feature stack as monthly with long-term maintenance after EAC patches.',
 		},
 	],
 	features: [
@@ -135,12 +135,12 @@ export const pageFaqClusters: Partial<
 		{
 			question: 'Does theislehacks work on Windows PC?',
 			answer:
-				'Yes — theislehacks is built for Rust on Windows 10 and 11 with in-client toggles for ESP, radar, and aimbot.',
+				'Yes — theislehacks is built for The Isle on Windows 10 and 11 with in-client toggles for ESP, radar, and aimbot.',
 		},
 		{
 			question: 'How does Easy Anti-Cheat (EAC) affect theislehacks?',
 			answer:
-				'Facepunch Easy Anti-Cheat (EAC) monitors Rust on Windows PC. theislehacks publishes maintenance notes after patches that may require a rebuild. Read the EAC bypass guide page for how updates are handled.',
+				'Easy Anti-Cheat (EAC) monitors The Isle on Windows PC. theislehacks publishes maintenance notes after patches that may require a rebuild. Read the EAC bypass guide page for how updates are handled.',
 		},
 	],
 };

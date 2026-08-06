@@ -4,22 +4,35 @@
 # 1) functions/_middleware.js (deployed with this project)
 # 2) Cloudflare SSL/TLS -> Edge Certificates -> Always Use HTTPS = On
 # 3) Caching -> Configuration -> Purge Everything (after enabling HTTPS)
-# 4) Bulk Redirect: www.fortnitehack.net -> https://fortnitehack.net
+# 4) Bulk Redirect: www.theislehacks.com -> https://theislehacks.com
 #    plus a proxied DNS A/AAAA/CNAME record for www
-# 5) Legacy hosts (fortnitecheats.xyz / .net / .com) → fortnitehack.net via middleware
+# 5) Legacy hosts (islecheat / rusthacks / fortnite*) → theislehacks.com via middleware
 
 # Keep in sync with PATH_REDIRECTS in functions/_middleware.js.
 # All targets are final canonical URLs — no chains or loops.
 
 /sitemap-0.xml /sitemap.xml 301
+/rust-cheats / 301
+/rust-cheats/ / 301
 /fortnite-cheats / 301
 /fortnite-cheats/ / 301
-/fortnite-cheats-2026 /fortnite-cheats-2026/ 301
-/warzone-aimbot /fortnite-aimbot/ 301
-/warzone-aimbot/ /fortnite-aimbot/ 301
-/warzone-esp /fortnite-esp/ 301
-/warzone-esp/ /fortnite-esp/ 301
-/eac-bypass /eac-bypass-fortnite/ 301
-/eac-bypass/ /eac-bypass-fortnite/ 301
-/ricochet-bypass /eac-bypass-fortnite/ 301
-/ricochet-bypass/ /eac-bypass-fortnite/ 301
+/fortnite-hacks /rust-hacks/ 301
+/fortnite-hacks/ /rust-hacks/ 301
+/fortnite-aimbot /rust-aimbot/ 301
+/fortnite-aimbot/ /rust-aimbot/ 301
+/fortnite-esp /rust-esp/ 301
+/fortnite-esp/ /rust-esp/ 301
+/fortnite-wallhack /rust-wallhack/ 301
+/fortnite-wallhack/ /rust-wallhack/ 301
+/undetected-fortnite-cheats /undetected-rust-cheats/ 301
+/undetected-fortnite-cheats/ /undetected-rust-cheats/ 301
+/eac-bypass-fortnite /eac-bypass-rust/ 301
+/eac-bypass-fortnite/ /eac-bypass-rust/ 301
+/eac-bypass /eac-bypass-rust/ 301
+/eac-bypass/ /eac-bypass-rust/ 301
+/warzone-aimbot /rust-aimbot/ 301
+/warzone-aimbot/ /rust-aimbot/ 301
+/warzone-esp /rust-esp/ 301
+/warzone-esp/ /rust-esp/ 301
+/ricochet-bypass /eac-bypass-rust/ 301
+/ricochet-bypass/ /eac-bypass-rust/ 301

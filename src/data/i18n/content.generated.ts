@@ -191,7 +191,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					description: "theislehacks aimbot with soft aim for The Isle. Tune FOV, bone priority, and hotkeys — bundled with ESP in one license.",
 					h1: "Isle Aimbot — Soft Aim for PC & Controllers",
 					intro: "Configurable Aimbot tools for The Isle. Smoothness, FOV, bone priority, and per-weapon profiles — bundled with ESP and radar in one license.",
-					imageAlt: "Rust aimbot menu with red skeleton ESP, silent aim, and feature toggles",
+					imageAlt: "Isle aimbot menu with red skeleton ESP, silent aim, and feature toggles",
 					galleryTitle: "Isle Aimbot combat previews",
 					ctaPrimary: "Buy theislehacks",
 					ctaSecondary: "See ESP wallhack",
@@ -291,7 +291,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Monthly and lifetime theislehacks plans",
 							paragraphs: [
 								"Monthly license: $35 USD for 30 days of full ESP wallhack, radar hack, and Aimbot access with EAC maintenance included during your term.",
-								"Lifetime license: $150 USD for long-term access to the same undetected theislehacks package — ideal if you play Rust regularly across seasons.",
+								"Lifetime license: $150 USD for long-term access to the same undetected theislehacks package — ideal if you play The Isle regularly across seasons.",
 								"Both plans unlock the same feature stack described on <a href=\"/features/\">Features</a>. Choose monthly to test, or lifetime if you already know you want the full toolkit.",
 							],
 						},
@@ -319,7 +319,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					description: "Set up theislehacks on Windows PC — activate your license, load ESP and aimbot profiles, and get ready for The Isle.",
 					h1: "theislehacks Setup — PC & Controller Guide",
 					intro: "Install and configure theislehacks for The Isle on Windows 10 or 11. Activate your license, load ESP and Aimbot profiles, then start your first session.",
-					imageAlt: "Rust aimbot cheats menu with red skeleton ESP and hotkey toggles",
+					imageAlt: "Isle aimbot menu with red skeleton ESP and hotkey toggles",
 					galleryTitle: "theislehacks setup visuals",
 					ctaPrimary: "Buy theislehacks",
 					ctaSecondary: "Contact support",
@@ -328,7 +328,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Before you install theislehacks",
 							paragraphs: [
-								"Confirm your order email and license details. Check the <a href=\"/updates/\">Updates page</a> for the latest EAC maintenance build before launching Rust.",
+								"Confirm your order email and license details. Check the <a href=\"/updates/\">Updates page</a> for the latest EAC maintenance build before launching The Isle.",
 								"Also glance at <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> if Steam / game services look unstable on patch day — a platform outage is not a license fault.",
 								"theislehacks requires Windows 10 or 11. Close conflicting overlay software that may interfere with ESP wallhack or Aimbot toggles.",
 							],
@@ -342,7 +342,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							],
 						},
 						{
-							h2: "After Rust or Easy Anti-Cheat patches",
+							h2: "After The Isle or Easy Anti-Cheat patches",
 							paragraphs: [
 								"When Afterthought ships a major The Isle update or Easy Anti-Cheat patch, revisit Updates before queueing. Download maintenance rebuilds when posted.",
 								"Official anti-cheat background: <a href=\"https://www.easy.ac/\" target=\"_blank\" rel=\"noopener noreferrer\">Easy Anti-Cheat</a>. Our practical workflow is documented on the <a href=\"/eac-bypass-rust/\">EAC bypass page</a> and <a href=\"/undetected-rust-cheats/\">undetected guide</a>.",
@@ -358,7 +358,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					h1: "theislehacks Updates — Maintenance Log",
 					intro: "Track rebuild notes for the theislehacks ESP, radar, and Aimbot package. Check here before queueing after major updates.",
 					imageAlt: "Isle ESP green hitbox wallhack on a hazmat-suited player",
-					galleryTitle: "Rust patch and maintenance visuals",
+					galleryTitle: "The Isle patch and maintenance visuals",
 					ctaPrimary: "Buy theislehacks",
 					ctaSecondary: "Undetected status guide",
 					ctaSecondaryHref: "/undetected-rust-cheats/",
@@ -366,9 +366,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "Why the Updates page matters",
 							paragraphs: [
-								"Rust and Easy Anti-Cheat receive frequent patches. theislehacks publishes maintenance notes when ESP wallhack, radar, or Aimbot behavior needs a rebuild.",
+								"The Isle and Easy Anti-Cheat receive frequent patches. theislehacks publishes maintenance notes when ESP wallhack, radar, or Aimbot behavior needs a rebuild.",
 								"Use <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> for Steam platform health and this page for theislehacks build status — both matter on big update days.",
-								"Checking this log before you queue reduces surprises after game days or seasonal launches on survival and monuments.",
+								"Checking this log before you queue reduces surprises after game days or seasonal launches on dens and hunt routes.",
 							],
 						},
 						{
@@ -490,7 +490,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							paragraphs: [
 								"When Easy Anti-Cheat or The Isle updates ship, the team assesses ESP, radar, and Aimbot modules, publishes status on the <a href=\"/updates/\">Updates page</a>, and delivers rebuilt builds to active licenses.",
 								"On patch mornings, also check <a href=\"https://store.steampowered.com/app/376210/The_Isle/\" target=\"_blank\" rel=\"noopener noreferrer\">The Isle on Steam</a> for platform outages that can look like product failures.",
-								"Deep technical workflow: <a href=\"/eac-bypass-rust/\">EAC bypass Rust guide</a>. Feature stack: <a href=\"/features/\">Features</a>.",
+								"Deep technical workflow: <a href=\"/eac-bypass-rust/\">EAC bypass maintenance guide</a>. Feature stack: <a href=\"/features/\">Features</a>.",
 							],
 						},
 						{
@@ -505,9 +505,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/rust-hacks-hero.webp",
 				},
 				wallhack: {
-					title: "Rust Wallhack 2026 | ESP Boxes & Visibility",
+					title: "Isle Wallhack 2026 | ESP Boxes & Visibility",
 					description: "theislehacks wallhack ESP for The Isle — player boxes and loot markers through terrain. See overlays and buy.",
-					h1: "Rust Wallhack — ESP Boxes & Visibility",
+					h1: "Isle Wallhack — ESP Boxes & Visibility",
 					intro: "Wallhack ESP for The Isle — see players, loot, and threats through toggleable overlays built for hunt and survival play.",
 					imageAlt: "Isle wallhack ESP green hitbox around a hazmat-suited player",
 					galleryTitle: "Isle wallhack ESP gallery",
@@ -543,9 +543,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/rust-esp-hitbox.webp",
 				},
 				radar: {
-					title: "Rust Radar Hack 2026 | 2D Threat Overlay",
+					title: "Isle Radar Hack 2026 | 2D Threat Overlay",
 					description: "theislehacks radar for flank awareness on The Isle. Bundled with ESP and soft aim in one package.",
-					h1: "Rust Radar Hack — 2D Threat Awareness",
+					h1: "Isle Radar Hack — 2D Threat Awareness",
 					intro: "2D radar-style overlay for The Isle — directional threat cues for nearby players outside your line of sight, bundled with ESP wallhack and Aimbot.",
 					imageAlt: "Isle ESP distance markers and weapon labels on UKN practice bots",
 					galleryTitle: "Isle radar hack visuals",
@@ -581,10 +581,10 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/rust-esp-bots.webp",
 				},
 				"eac-bypass": {
-					title: "EAC Bypass Rust | Hack Maintenance Guide",
+					title: "EAC Bypass | The Isle Hack Maintenance Guide",
 					description: "How theislehacks handles Easy Anti-Cheat patches for The Isle — rebuild notes and what to check before queueing.",
 					h1: "EAC Bypass — theislehacks Maintenance",
-					intro: "Understand Easy Anti-Cheat maintenance for theislehacks — how ESP wallhack, radar hack, and Aimbot rebuild after Rust security updates.",
+					intro: "Understand Easy Anti-Cheat maintenance for theislehacks — how ESP wallhack, radar hack, and Aimbot rebuild after The Isle security updates.",
 					imageAlt: "Isle ESP green hitbox wallhack used for EAC maintenance status pages",
 					galleryTitle: "EAC maintenance visuals",
 					ctaPrimary: "Buy theislehacks",
@@ -703,9 +703,9 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/rust-esp-bots.webp",
 				},
 				"cheat-download": {
-					title: "Rust Hack Download 2026 | Instant Access",
+					title: "Isle Hack Download 2026 | Instant Access",
 					description: "Download theislehacks with instant license delivery — ESP, soft aim, and radar for The Isle. Buy, activate, and play.",
-					h1: "Rust Hack Download — Instant License Delivery",
+					h1: "Isle Hack Download — Instant License Delivery",
 					intro: "How The Isle hack download works for The Isle — digital license delivery after payment confirmation, with ESP wallhack, radar hack, and Aimbot access on Windows PC.",
 					imageAlt: "Isle ESP overlay with skeleton ESP and loot inventory labels",
 					galleryTitle: "The Isle hack download visuals",
@@ -732,7 +732,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 						{
 							h2: "After purchase — setup and updates",
 							paragraphs: [
-								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When Rust or Easy Anti-Cheat patches ship, check the <a href=\"/updates/\">Updates page</a> for maintenance rebuilds.",
+								"Follow Setup to activate ESP wallhack and Aimbot on Windows 10 or 11. When The Isle or Easy Anti-Cheat patches ship, check the <a href=\"/updates/\">Updates page</a> for maintenance rebuilds.",
 								"Contact <a href=\"/support/\">Support</a> with your order ID if delivery or activation fails within 24 hours of purchase.",
 								"Also read <a href=\"/undetected-rust-cheats/\">undetected status</a> so you know what “download ready” means after a patch.",
 							],
@@ -741,21 +741,21 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/rust-esp-overlay.webp",
 				},
 				"mod-menu": {
-					title: "Rust Mod Menu 2026 | ESP & Soft Aim Toggles",
+					title: "Isle Mod Menu 2026 | ESP & Soft Aim Toggles",
 					description: "theislehacks mod menu for in-match toggles — ESP, soft aim, and radar on The Isle. One maintained package.",
-					h1: "Rust Mod Menu — In-Client Control Panel",
-					intro: "Rust mod menu controls for The Isle — toggle ESP wallhack categories, radar range, and Aimbot profiles mid-match without leaving your Rust session on Windows PC.",
-					imageAlt: "Rust mod menu / aimbot overlay with red skeleton ESP and hotkeys",
-					galleryTitle: "Rust mod menu gallery",
+					h1: "Isle Mod Menu — In-Client Control Panel",
+					intro: "Isle mod menu controls for The Isle — toggle ESP wallhack categories, radar range, and Aimbot profiles mid-match without leaving your session on Windows PC.",
+					imageAlt: "Isle mod menu / aimbot overlay with red skeleton ESP and hotkeys",
+					galleryTitle: "Isle mod menu gallery",
 					ctaPrimary: "Buy theislehacks",
 					ctaSecondary: "Full feature list",
 					ctaSecondaryHref: "/features/",
 					sections: [
 						{
-							h2: "What a Rust mod menu controls",
+							h2: "What an Isle mod menu controls",
 							paragraphs: [
-								"A Rust mod menu is the in-client panel where you enable ESP wallhack overlays, adjust radar range, and switch Aimbot profiles during live matches. theislehacks keeps those toggles accessible with hotkeys.",
-								"Toggle player outlines, loot markers, vehicle cues, and per-weapon Aimbot settings without alt-tabbing out of Rust.",
+								"An Isle mod menu is the in-client panel where you enable ESP wallhack overlays, adjust radar range, and switch Aimbot profiles during live matches. theislehacks keeps those toggles accessible with hotkeys.",
+								"Toggle player outlines, loot markers, vehicle cues, and per-weapon Aimbot settings without alt-tabbing out of The Isle.",
 								"Control deep-dives: <a href=\"/rust-esp/\">ESP</a>, <a href=\"/rust-aimbot/\">Aimbot</a>, <a href=\"/rust-radar-hack/\">radar</a>.",
 							],
 						},
@@ -763,14 +763,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Mod menu categories for PVE and PVP",
 							paragraphs: [
 								"Separate ESP wallhack categories for players, loot, chests, and vehicles let you reduce overlay noise during rotations and endgame circles.",
-								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when ${EXT.rust} seasons change fight distances and mobility.",
+								"Radar hack range and Aimbot smoothness adjust from the same mod menu — useful when The Isle seasons change fight distances and mobility.",
 								"Soft tracking players should start with <a href=\"/rust-soft-aim/\">soft aim</a> profiles before aggressive FOV.",
 							],
 						},
 						{
 							h2: "Maintained mod menu after EAC patches",
 							paragraphs: [
-								"Rust mod menu behavior is rebuilt when Easy Anti-Cheat or major The Isle updates land. Follow the <a href=\"/updates/\">Updates page</a> and <a href=\"/eac-bypass-rust/\">EAC bypass guide</a> before queueing on patch days.",
+								"Isle mod menu behavior is rebuilt when Easy Anti-Cheat or major The Isle updates land. Follow the <a href=\"/updates/\">Updates page</a> and <a href=\"/eac-bypass-rust/\">EAC bypass guide</a> before queueing on patch days.",
 								"Checkout with instant digital delivery for monthly and lifetime licenses — see <a href=\"/pricing/\">Pricing</a>.",
 								"Need install steps? Open <a href=\"/setup/\">Setup</a> after your license email arrives.",
 							],
@@ -779,20 +779,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					heroImage: "/images/rust-aimbot-menu.webp",
 				},
 				"soft-aim": {
-					title: "Rust Soft Aim 2026 | Smooth Aimbot Settings",
+					title: "Isle Soft Aim 2026 | Smooth Aimbot Settings",
 					description: "theislehacks soft aim settings for natural tracking on The Isle. Smoothness, FOV, and bone priority included.",
-					h1: "Rust Soft Aim — Smooth Aimbot Controls",
-					intro: "Rust soft aim settings for The Isle — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.",
-					imageAlt: "Rust soft aim ESP boxes and FOV circle on UKN practice bots",
-					galleryTitle: "Rust soft aim gallery",
+					h1: "Isle Soft Aim — Smooth Aimbot Controls",
+					intro: "Isle soft aim settings for The Isle — configurable Aimbot smoothness, FOV, bone priority, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.",
+					imageAlt: "Isle soft aim ESP boxes and FOV circle on practice bots",
+					galleryTitle: "Isle soft aim gallery",
 					ctaPrimary: "Buy theislehacks",
 					ctaSecondary: "Aimbot controls",
 					ctaSecondaryHref: "/rust-aimbot/",
 					sections: [
 						{
-							h2: "What Rust soft aim means",
+							h2: "What Isle soft aim means",
 							paragraphs: [
-								"Rust soft aim refers to Aimbot behavior tuned for smooth, natural-looking tracking rather than instant snap. theislehacks exposes smoothness, FOV, and sensitivity sliders so you control how assist feels in BR firefights.",
+								"Isle soft aim refers to Aimbot behavior tuned for smooth, natural-looking tracking rather than instant snap. theislehacks exposes smoothness, FOV, and sensitivity sliders so you control how assist feels in survival firefights.",
 								"Bone priority and target selection cover closest player, lowest health, or highest-threat targets during squad fights.",
 								"Full Aimbot documentation: <a href=\"/rust-aimbot/\">Isle Aimbot</a>. Alternate wording: <a href=\"/rust-aimbot-hack/\">aimbot hack</a>.",
 							],
