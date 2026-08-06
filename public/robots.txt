@@ -1,8 +1,9 @@
+# theislehacks.com — English is the official SEO language.
+# Non-English UI locales are convenience translations (noindex, follow).
+
 User-agent: *
 Allow: /
 Allow: /images/
 
-# English is the official language. Primary sitemaps: index + English pages.
-# Non-English UI locales are convenience translations and are not listed in sitemaps.
 Sitemap: https://theislehacks.com/sitemap-index.xml
 Sitemap: https://theislehacks.com/sitemap.xml

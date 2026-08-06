@@ -6,9 +6,9 @@ export const enPages = {
 		title: 'theislehacks | The Isle Hacks 2026',
 		description:
 			'theislehacks — The Isle hacks with undetected ESP, aimbot & wallhack for Windows PC. $35/mo or $150 lifetime.',
-		h1: 'theislehacks — The Isle Hacks with ESP, Aimbot & Wallhack',
+		h1: 'theislehacks — Undetected ESP, Aimbot & Wallhack',
 		intro:
-			'theislehacks is the Windows PC package for The Isle hacks: player ESP, aimbot controls, and wallhack overlays built for hunt pressure and survival fights.',
+			'Looking for The Isle hacks? theislehacks is the Windows PC package with player ESP, aimbot controls, and wallhack overlays built for hunt pressure and survival fights.',
 		imageAlt: 'theislehacks aimbot holographic sight with ESP skeleton and red head lock',
 		galleryTitle: 'theislehacks visuals',
 		ctaPrimary: 'Buy theislehacks',
@@ -661,16 +661,16 @@ export const enPages = {
 			'theislehacks aimbot with soft aim for The Isle. FOV, bone priority, and hotkeys bundled with ESP.',
 		h1: 'Isle Aimbot Hack — Soft Aim Assist',
 		intro:
-			'Rust aimbot hack tools for The Isle — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.',
-		imageAlt: 'Rust aimbot hack menu with red skeleton ESP and silent aim toggles',
-		galleryTitle: 'Rust aimbot hack gallery',
+			'Isle aimbot hack tools for The Isle — smoothness, FOV, bone priority, per-weapon profiles, and hotkey toggles bundled with ESP wallhack and radar in one undetected license.',
+		imageAlt: 'Isle aimbot hack menu with ESP skeleton and aim toggles',
+		galleryTitle: 'Isle aimbot hack gallery',
 		ctaPrimary: 'Buy theislehacks',
 		ctaSecondary: 'Aimbot settings',
 		ctaSecondaryHref: '/rust-aimbot/',
 		sections: [
 			section(
-				'Rust aimbot hack vs visibility tools',
-				'A Rust aimbot hack focuses on assisted targeting during firefights — while ESP wallhack and radar handle map awareness. theislehacks bundles aimbot hack modules with visibility overlays in one license.',
+				'Isle aimbot hack vs visibility tools',
+				'An Isle aimbot hack focuses on assisted targeting during firefights — while ESP wallhack and radar handle map awareness. theislehacks bundles aimbot hack modules with visibility overlays in one license.',
 				'Smoothness, FOV, and sensitivity controls tune assist for The Isle combat pace across PVE and PVP.',
 				'Prefer softer tracking language? See <a href="/rust-soft-aim/">soft aim</a>. Full settings: <a href="/rust-aimbot/">Aimbot page</a>.',
 			),
@@ -722,28 +722,28 @@ export const enPages = {
 		],
 	},
 	'unlock-all': {
-		title: 'Rust Unlock All 2026 | What It Really Means',
+		title: 'Isle Unlock All 2026 | What It Really Means',
 		description:
-			'Unlock-all searches vs real theislehacks for The Isle — ESP, soft aim, and radar. Know what you are buying.',
-		h1: 'Rust Unlock All — What Players Search For',
+			'Isle unlock all searches explained — what players mean versus the ESP, radar, and Aimbot tools theislehacks provides for The Isle on Windows PC.',
+		h1: 'Isle Unlock All — What Players Search For',
 		intro:
-			'Rust unlock all is a common search term for The Isle — this page clarifies what unlock-all tools claim versus the ESP wallhack, radar hack, and Aimbot tools theislehacks actually provides on Windows PC.',
-		imageAlt: 'Isle ESP boxes and distances on UKN bots for unlock-all context',
-		galleryTitle: 'Rust unlock all guide visuals',
+			'Isle unlock all is a common search phrase around The Isle — this page clarifies what unlock-all tools claim versus the ESP wallhack, radar hack, and Aimbot tools theislehacks actually provides on Windows PC.',
+		imageAlt: 'Isle ESP boxes and distances for unlock-all context',
+		galleryTitle: 'Isle unlock all guide visuals',
 		ctaPrimary: 'Buy theislehacks',
 		ctaSecondary: 'See features',
 		ctaSecondaryHref: '/features/',
 		sections: [
 			section(
-				'What Rust unlock all usually means',
-				'Rust unlock all searches often refer to instant access to weapons, camos, skins, or battle pass tiers. Those claims differ from visibility and combat-assist tools like ESP wallhack and Aimbot.',
+				'What Isle unlock all usually means',
+				'Isle unlock all searches often refer to instant access to dinosaurs, skins, or progression shortcuts. Those claims differ from visibility and combat-assist tools like ESP wallhack and Aimbot.',
 				'theislehacks focuses on in-match awareness — player ESP, loot markers, radar overlays, and configurable Aimbot — not account-wide cosmetic unlocks.',
-				`Cosmetics and Battle Pass items are sold through ${EXT.rust}. Be wary of unlock-all downloads that promise free skins — they are often scams.`,
+				`Cosmetics and store items are sold through ${EXT.rust}. Be wary of unlock-all downloads that promise free skins — they are often scams.`,
 			),
 			section(
 				'Visibility tools vs unlock-all claims',
-				'ESP wallhack helps you spot enemy squads, vehicles, and loot chests during live matches. Radar hack adds flank awareness; Aimbot covers combat assist with smoothness and hotkey controls.',
-				'For loadout planning during a match, loot and chest markers speed BR rotations — see the <a href="/rust-esp/">ESP</a> and <a href="/features/">Features</a> pages for the full tool list.',
+				'ESP wallhack helps you spot nearby players and loot during live matches. Radar hack adds flank awareness; Aimbot covers combat assist with smoothness and hotkey controls.',
+				'For hunt-route planning, loot and container markers speed rotations — see the <a href="/rust-esp/">ESP</a> and <a href="/features/">Features</a> pages for the full tool list.',
 				'Related: <a href="/rust-hacks/">theislehacks</a> and <a href="/best-rust-cheats/">best The Isle hacks</a>.',
 			),
 			section(

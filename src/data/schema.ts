@@ -29,6 +29,7 @@ export function buildSoftwareApplicationSchema(canonicalURL: string, heroImage: 
 		'@type': 'SoftwareApplication',
 		'@id': `${canonicalURL}#software`,
 		name: productInfo.name,
+		alternateName: [...siteConfig.alternateNames],
 		applicationCategory: 'GameApplication',
 		operatingSystem: 'Windows',
 		description: productInfo.summary,
@@ -36,6 +37,25 @@ export function buildSoftwareApplicationSchema(canonicalURL: string, heroImage: 
 		image: heroImage,
 		brand: { '@type': 'Brand', name: productInfo.brand },
 		offers: buildAggregateOffer(canonicalURL),
+	};
+}
+
+export function buildContactPageSchema(canonicalURL: string) {
+	return {
+		'@type': 'ContactPage',
+		'@id': `${canonicalURL}#contactpage`,
+		url: canonicalURL,
+		name: `Contact ${siteConfig.name}`,
+		description: `Support and billing contact for ${productInfo.name} on ${productInfo.game}.`,
+		isPartOf: { '@id': `${siteConfig.url}/#website` },
+		about: { '@id': `${siteConfig.url}/#organization` },
+		mainEntity: {
+			'@type': 'Organization',
+			'@id': `${siteConfig.url}/#organization`,
+			name: siteConfig.name,
+			email: siteConfig.supportEmail,
+			url: siteConfig.url,
+		},
 	};
 }
 
@@ -152,6 +172,7 @@ const schemaRichPages = new Set<PageId>([
 	'pricing',
 	'features',
 	'faq',
+	'support',
 ]);
 
 export function buildPageExtraGraph(
@@ -163,6 +184,11 @@ export function buildPageExtraGraph(
 	if (!schemaRichPages.has(pageId)) return [];
 
 	const nodes: Record<string, unknown>[] = [];
+
+	if (pageId === 'support') {
+		nodes.push(buildContactPageSchema(canonicalURL));
+		return nodes;
+	}
 
 	if (pageId !== 'faq') {
 		nodes.push(buildSoftwareApplicationSchema(canonicalURL, heroImage));

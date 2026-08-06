@@ -3,7 +3,7 @@
 export const uiStrings = {
 	en: {
 		nav: { home: 'Home', aimbot: 'Aimbot', esp: 'ESP', features: 'Features', pricing: 'Pricing', setup: 'Setup', updates: 'Updates', faq: 'FAQ', buyNow: 'Buy Now' },
-		hero: { accent: 'Undetected ESP & Aimbot', accentShort: 'ESP & Aimbot', subtitle: 'ESP, aimbot, and wallhack for The Isle on Windows PC.', subtitleShort: 'ESP & aimbot for The Isle on PC', buyNow: 'Buy Now', seeFeatures: 'See Features' },
+		hero: { accent: 'Undetected ESP, Aimbot & Wallhack', accentShort: 'Undetected ESP, Aimbot & Wallhack', subtitle: 'ESP wallhack, radar hack and Aimbot for The Isle on Windows PC — EAC maintenance included.', subtitleShort: 'ESP wallhack, radar hack and Aimbot for The Isle on PC', buyNow: 'Buy Now', seeFeatures: 'See Features' },
 		trust: { status: 'Online', statusNote: 'theislehacks is live for The Isle on Windows PC.', statusShort: 'Live', delivery: 'Instant digital delivery', platform: 'Windows 10 & 11', antiCheat: 'Easy Anti-Cheat supported', antiCheatShort: 'Easy Anti-Cheat (EAC) supported' },
 		product: { title: 'theislehacks', addToCart: 'Add to Cart', monthly: 'Monthly', lifetime: 'Lifetime', available: 'Available now', gameBadge: 'The Isle', platformBadge: 'Windows PC', statusBadge: 'Maintained package' },
 		reviews: { title: 'What players say', subtitle: 'Recent feedback from theislehacks buyers', outOf: 'out of 5', countLabel: 'reviews' },
