@@ -13,7 +13,7 @@ export const siteConfig = {
 	logoRasterHeight: 551,
 	logoAlt: 'The Isle Hacks logo',
 	checkoutUrl: 'https://zadeyo.com/go/FDI?to=%2Fproducts%2Fthe-isle-novaxware-cheats',
-	defaultOgImage: '/images/rust-esp-overlay.webp',
+	defaultOgImage: '/images/isle-esp-overlay.webp',
 } as const;
 
 export const productInfo = {

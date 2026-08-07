@@ -26,7 +26,7 @@ async function optimizeHero() {
 
 	for (const width of HERO_WIDTHS) {
 		if (meta.width && width > meta.width) continue;
-		const file = `rust-hacks-hero-${width}w.webp`;
+		const file = `${HERO_FILE.replace(/\.webp$/i, '')}-${width}w.webp`;
 		const dest = path.join(imagesDir, file);
 		const quality = width <= 480 ? 62 : width <= 640 ? 72 : 80;
 		const buffer = await sharp(source)
