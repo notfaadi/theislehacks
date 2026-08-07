@@ -54,23 +54,23 @@ export const rustImages = {
 	product: [
 		{
 			src: '/images/rust-esp-overlay.webp',
-			alt: 'Rust ESP overlay showing players, loot, and distance tags',
+			alt: 'Rust ESP overlay with skeleton ESP, loot labels, and aimbot FOV circle',
 		},
 		{
 			src: '/images/rust-esp-bots.webp',
-			alt: 'Rust ESP bots training range with distance and weapon labels',
+			alt: 'Rust skeleton ESP on a player with loot and cupboard distance labels',
 		},
 		{
 			src: '/images/rust-esp-hitbox.webp',
-			alt: 'Rust ESP hitbox box highlight on a player',
+			alt: 'Rust ESP skeleton highlight on a player behind a fence with loot tags',
 		},
 		{
 			src: '/images/rust-aimbot-menu.webp',
-			alt: 'Rust aimbot menu with silent aim and ESP boxes',
+			alt: 'Rust aimbot ADS with green target box and kill-feed overlay',
 		},
 		{
 			src: '/images/rust-hacks-hero.webp',
-			alt: 'Rust hacks hero view through optic with ESP skeleton',
+			alt: 'Rust hacks optic view with skeleton ESP and aimbot FOV circle',
 		},
 	],
 	/**
@@ -81,59 +81,59 @@ export const rustImages = {
 	gallery: [
 		{
 			src: '/images/rust-aimbot-menu.webp',
-			alt: 'Rust aimbot menu with silent aim and ESP boxes',
+			alt: 'Rust aimbot ADS with green target box and kill-feed overlay',
 		},
 		{
 			src: '/images/rust-esp-overlay.webp',
-			alt: 'Rust ESP overlay showing players, loot, and distance tags',
+			alt: 'Rust ESP overlay with skeleton ESP, loot labels, and aimbot FOV circle',
 		},
 		{
 			src: '/images/rust-esp-bots.webp',
-			alt: 'Rust ESP bots training range with distance and weapon labels',
+			alt: 'Rust skeleton ESP on a player with loot and cupboard distance labels',
 		},
 		{
 			src: '/images/rust-esp-hitbox.webp',
-			alt: 'Rust ESP hitbox box highlight on a player',
+			alt: 'Rust ESP skeleton highlight on a player behind a fence with loot tags',
 		},
 		{
 			src: '/images/rust-hacks-hero.webp',
-			alt: 'Rust hacks hero view through optic with ESP skeleton',
+			alt: 'Rust hacks optic view with skeleton ESP and aimbot FOV circle',
 		},
 		{
 			src: '/images/rust-recoil-trainer.webp',
-			alt: 'Rust wallhack ESP still for gallery',
+			alt: 'Rust wallhack ESP showing players through stone with inventory labels',
 		},
 	],
 	sitemap: [
 		{
 			src: '/images/rust-hacks-hero.webp',
 			title: 'The Isle Hacks | ESP & Aimbot',
-			caption: 'Rust hacks hero view through optic with ESP skeleton',
+			caption: 'Rust hacks optic view with skeleton ESP and aimbot FOV circle',
 		},
 		{
 			src: '/images/rust-esp-overlay.webp',
 			title: 'Isle ESP overlay',
-			caption: 'Rust ESP overlay showing players, loot, and distance tags',
+			caption: 'Rust ESP overlay with skeleton ESP, loot labels, and aimbot FOV circle',
 		},
 		{
 			src: '/images/rust-esp-bots.webp',
-			title: 'Isle survival landscape',
-			caption: 'Rust ESP bots training range with distance and weapon labels',
+			title: 'Isle player ESP',
+			caption: 'Rust skeleton ESP on a player with loot and cupboard distance labels',
 		},
 		{
 			src: '/images/rust-esp-hitbox.webp',
-			title: 'Isle predator view',
-			caption: 'Rust ESP hitbox box highlight on a player',
+			title: 'Isle ESP highlight',
+			caption: 'Rust ESP skeleton highlight on a player behind a fence with loot tags',
 		},
 		{
 			src: '/images/rust-aimbot-menu.webp',
-			title: 'Isle pack roam',
-			caption: 'Rust aimbot menu with silent aim and ESP boxes',
+			title: 'Isle aimbot ADS',
+			caption: 'Rust aimbot ADS with green target box and kill-feed overlay',
 		},
 		{
 			src: '/images/rust-recoil-trainer.webp',
-			title: 'Isle wilderness',
-			caption: 'Rust wallhack ESP still for gallery',
+			title: 'Isle wallhack ESP',
+			caption: 'Rust wallhack ESP showing players through stone with inventory labels',
 		},
 	],
 } as const;
