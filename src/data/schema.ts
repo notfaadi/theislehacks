@@ -80,17 +80,17 @@ export const pageFaqClusters: Partial<
 > = {
 	hacks: [
 		{
-			question: 'What are theislehacks?',
+			question: 'What are The Isle Hacks?',
 			answer:
-				'theislehacks is a Windows PC package for The Isle with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
+				'The Isle Hacks is a Windows PC package for The Isle with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
 		},
 		{
-			question: 'Are theislehacks permanently undetected?',
+			question: 'Are The Isle Hacks permanently undetected?',
 			answer:
 				'No package can promise that. We rebuild after Easy Anti-Cheat and game patches and post status on Updates. Check there before you load in.',
 		},
 		{
-			question: 'What is included in the theislehacks package?',
+			question: 'What is included in the The Isle Hacks package?',
 			answer:
 				'Player ESP, loot markers, radar cues, and configurable aimbot in one license. See Features, ESP, and Aimbot for control detail.',
 		},
@@ -99,12 +99,12 @@ export const pageFaqClusters: Partial<
 		{
 			question: 'What is an Isle wallhack?',
 			answer:
-				'An Isle wallhack is an ESP overlay that shows enemy players and loot through terrain. theislehacks wallhack includes distance readouts, team colours, and toggleable categories for PVE and PVP on The Isle.',
+				'An Isle wallhack is an ESP overlay that shows enemy players and loot through terrain. The Isle Hacks wallhack includes distance readouts, team colours, and toggleable categories for PVE and PVP on The Isle.',
 		},
 		{
-			question: 'Does theislehacks include a radar hack?',
+			question: 'Does The Isle Hacks include a radar hack?',
 			answer:
-				'Yes. theislehacks includes 2D radar-style overlays that highlight nearby threats outside your direct view — useful for reading flanks around dens and hunt routes.',
+				'Yes. The Isle Hacks includes 2D radar-style overlays that highlight nearby threats outside your direct view — useful for reading flanks around dens and hunt routes.',
 		},
 		{
 			question: 'Does this fit dens and hunt play?',
@@ -116,22 +116,22 @@ export const pageFaqClusters: Partial<
 		{
 			question: 'What is Isle soft aim?',
 			answer:
-				'Isle soft aim is configurable aim assist with smoothness, FOV, and bone priority controls. It ships bundled with ESP and radar in the theislehacks license for Windows PC.',
+				'Isle soft aim is configurable aim assist with smoothness, FOV, and bone priority controls. It ships bundled with ESP and radar in the The Isle Hacks license for Windows PC.',
 		},
 		{
 			question: 'Can I use Isle aimbot with a controller?',
 			answer:
-				'Yes. theislehacks supports controller play on Windows PC. Tune FOV and smoothness per weapon profile after setup.',
+				'Yes. The Isle Hacks supports controller play on Windows PC. Tune FOV and smoothness per weapon profile after setup.',
 		},
 		{
-			question: 'Are theislehacks permanently undetected?',
+			question: 'Are The Isle Hacks permanently undetected?',
 			answer:
 				'No package can promise that. We rebuild after Easy Anti-Cheat and game patches and post status on Updates. Check there before you load in.',
 		},
 	],
 	pricing: [
 		{
-			question: 'How are theislehacks licenses delivered?',
+			question: 'How are The Isle Hacks licenses delivered?',
 			answer:
 				'Digitally after payment confirmation. Timing can vary by payment method — keep your order confirmation if you contact support.',
 		},
@@ -148,19 +148,19 @@ export const pageFaqClusters: Partial<
 	],
 	features: [
 		{
-			question: 'What is included in theislehacks?',
+			question: 'What is included in The Isle Hacks?',
 			answer:
 				'Player ESP, loot markers, radar cues, and configurable aimbot in one license. See Features, ESP, and Aimbot for control detail.',
 		},
 		{
-			question: 'Does theislehacks work on Windows PC?',
+			question: 'Does The Isle Hacks work on Windows PC?',
 			answer:
-				'Yes — theislehacks is built for The Isle on Windows 10 and 11 with in-client toggles for ESP, radar, and aimbot.',
+				'Yes — The Isle Hacks is built for The Isle on Windows 10 and 11 with in-client toggles for ESP, radar, and aimbot.',
 		},
 		{
-			question: 'How does Easy Anti-Cheat (EAC) affect theislehacks?',
+			question: 'How does Easy Anti-Cheat (EAC) affect The Isle Hacks?',
 			answer:
-				'Easy Anti-Cheat (EAC) monitors The Isle on Windows PC. theislehacks publishes maintenance notes after patches that may require a rebuild. Read the EAC bypass guide page for how updates are handled.',
+				'Easy Anti-Cheat (EAC) monitors The Isle on Windows PC. The Isle Hacks publishes maintenance notes after patches that may require a rebuild. Read the EAC bypass guide page for how updates are handled.',
 		},
 	],
 };

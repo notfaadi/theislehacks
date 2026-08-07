@@ -12,12 +12,12 @@ export type GalleryUi = {
 
 export const galleryUi: Record<LocaleCode, GalleryUi> = {
 	en: {
-		eyebrow: 'theislehacks',
+		eyebrow: 'The Isle Hacks',
 		title: 'Isle gallery',
 		subtitle:
 			'In-game stills from The Isle — hunts, dens, and open-map fights — shown with the ESP, loot, and aimbot tools players actually use.',
 		lead:
-			'theislehacks is built for hunt-to-survive play: read players through terrain, mark threats before you push, keep a 2D radar on flanks, and tune aim assist before you buy a seat.',
+			'The Isle Hacks is built for hunt-to-survive play: read players through terrain, mark threats before you push, keep a 2D radar on flanks, and tune aim assist before you buy a seat.',
 		highlights: [
 			{ title: 'Player & Squad ESP', copy: 'Box, skeleton, and distance readouts on enemy players through terrain and dens so you pick fights with real intel.' },
 			{ title: 'Loot & Chest Markers', copy: 'Pin crates, locked boxes, and high-tier loot without burying your screen mid-hunt or mid-roam.' },
@@ -28,7 +28,7 @@ export const galleryUi: Record<LocaleCode, GalleryUi> = {
 			{ title: 'PC + controller ready', copy: 'Profiles and hotkeys for mouse/keyboard plus pad support, so the same seat works whether you roam or hold ground on controller.' },
 			{ title: 'Clear buy advantages', copy: 'Instant digital delivery, public pricing ($35/mo or $150 life), and a support path with your order ID — built for players who want the cheat online fast, not a mystery Discord wait.' },
 		],
-		updatesLabel: 'theislehacks updates',
+		updatesLabel: 'The Isle Hacks updates',
 		updatesShort: 'Updates',
 	},
 	es: {

@@ -108,18 +108,18 @@ export const blogUi: Record<
 	}
 > = {
 	en: {
-		blogTitle: 'theislehacks Blog 2026 | Meta Guides & Tips',
+		blogTitle: 'The Isle Hacks Blog 2026 | Meta Guides & Tips',
 		blogDescription:
-			'theislehacks blog: ranked meta, loot routes, and pro tips for PC and controllers. Pair guides with our ESP, soft aim, and cloud DMA product pages.',
-		blogH1: 'theislehacks Intel',
+			'The Isle Hacks blog: ranked meta, loot routes, and pro tips for PC and controllers. Pair guides with our ESP, soft aim, and cloud DMA product pages.',
+		blogH1: 'The Isle Hacks Intel',
 		blogIntro:
-			'Actionable Rust guides for survival and monuments — meta breakdowns, loot routes, weapon tiers, and pro warmup routines. Pair these tips with our theislehacks pages for ESP boxes, soft aim, and cloud DMA when you need in-match tools.',
+			'Actionable Rust guides for survival and monuments — meta breakdowns, loot routes, weapon tiers, and pro warmup routines. Pair these tips with our The Isle Hacks pages for ESP boxes, soft aim, and cloud DMA when you need in-match tools.',
 		readMore: 'Read guide',
 		published: 'Published',
 		updated: 'Updated',
 		relatedPosts: 'Related Rust guides',
 		allPosts: 'All blog posts',
-		home: 'Rust Cheats home',
+		home: 'The Isle Hacks home',
 		language: 'Language',
 	},
 	es: {

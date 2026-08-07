@@ -1,7 +1,7 @@
 export const siteConfig = {
-	name: 'theislehacks',
+	name: 'The Isle Hacks',
 	/** Brand search variants for Organization / WebSite schema alternateName. */
-	alternateNames: ['theislehacks', 'The Isle Hacks', 'the isle hacks'] as const,
+	alternateNames: ['theislehacks', 'The Isle Hacks', 'the isle hacks', 'Isle Hacks'] as const,
 	url: 'https://theislehacks.com',
 	locale: 'en',
 	market: 'Worldwide',
@@ -11,18 +11,18 @@ export const siteConfig = {
 	logoRaster: '/images/zadeyo-logo.png',
 	logoRasterWidth: 453,
 	logoRasterHeight: 551,
-	logoAlt: 'theislehacks logo',
+	logoAlt: 'The Isle Hacks logo',
 	checkoutUrl: 'https://zadeyo.com/go/FDI?to=%2Fproducts%2Fthe-isle-novaxware-cheats',
 	defaultOgImage: '/images/rust-esp-overlay.webp',
 } as const;
 
 export const productInfo = {
-	name: 'theislehacks',
+	name: 'The Isle Hacks',
 	shortName: 'Isle',
-	brand: 'theislehacks',
-	tagline: 'theislehacks — The Isle hacks with ESP, aimbot, and wallhack on PC',
+	brand: 'The Isle Hacks',
+	tagline: 'The Isle Hacks — ESP, aimbot, and wallhack for The Isle on PC',
 	summary:
-		'theislehacks delivers The Isle hacks for Windows PC: ESP, aimbot, and wallhack. Built for hunt pressure and survival fights.',
+		'The Isle Hacks delivers ESP, aimbot, and wallhack for The Isle on Windows PC. Built for hunt pressure and survival fights.',
 	game: 'The Isle',
 	delivery: 'Digital license delivery after purchase confirmation',
 	platforms: ['Windows PC', 'Controllers'],
@@ -65,14 +65,14 @@ export const productInfo = {
 
 export const trustSignals = {
 	status: 'Online',
-	statusNote: 'theislehacks is live for The Isle on Windows PC.',
+	statusNote: 'The Isle Hacks is live for The Isle on Windows PC.',
 	delivery: 'Instant digital delivery',
 	platform: 'Windows 10 & 11',
 	antiCheat: 'Easy Anti-Cheat supported',
 } as const;
 
 export const seoLandingPages = [
-	{ label: 'theislehacks', href: '/rust-hacks/' },
+	{ label: 'The Isle Hacks', href: '/rust-hacks/' },
 	{ label: 'Isle ESP', href: '/rust-esp/' },
 	{ label: 'Isle Aimbot', href: '/rust-aimbot/' },
 	{ label: 'Isle wallhack', href: '/rust-wallhack/' },
@@ -93,8 +93,8 @@ export const mainNav = [
 ] as const;
 
 export const footerNav = [
-	{ label: 'theislehacks update log', href: '/updates/' },
-	{ label: 'Contact theislehacks support', href: '/support/' },
+	{ label: 'The Isle Hacks update log', href: '/updates/' },
+	{ label: 'Contact The Isle Hacks support', href: '/support/' },
 	{ label: 'Refund policy details', href: '/refund-policy/' },
 	{ label: 'Privacy policy details', href: '/privacy-policy/' },
 	{ label: 'Terms of use', href: '/terms/' },
@@ -102,7 +102,7 @@ export const footerNav = [
 
 export const footerExplore = [
 	{ label: 'Home', href: '/' },
-	{ label: 'theislehacks', href: '/rust-hacks/' },
+	{ label: 'The Isle Hacks', href: '/rust-hacks/' },
 	{ label: 'ESP', href: '/rust-esp/' },
 	{ label: 'Aimbot', href: '/rust-aimbot/' },
 	{ label: 'Features', href: '/features/' },
@@ -113,12 +113,12 @@ export const footerExplore = [
 
 export const homeFaqs = [
 	{
-		question: 'What is theislehacks?',
+		question: 'What is The Isle Hacks?',
 		answer:
-			'theislehacks (also known as theislehacks or The Isle hacks) is a Windows PC package for The Isle with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
+			'The Isle Hacks (also searched as theislehacks) is a Windows PC package for The Isle with ESP, wallhack, and aimbot controls. Licenses include EAC maintenance updates and setup support.',
 	},
 	{
-		question: 'Is theislehacks permanently undetected?',
+		question: 'Is The Isle Hacks permanently undetected?',
 		answer:
 			'No package can promise that. We rebuild after Easy Anti-Cheat and game patches and post status on Updates. Check there before you load in.',
 	},
@@ -154,22 +154,22 @@ export const seoFaqs = [
 	{
 		question: 'What is an Isle wallhack?',
 		answer:
-			'An Isle wallhack is an ESP overlay that shows enemy players and threats through terrain. theislehacks wallhack includes distance readouts, team colours, and toggleable categories for PVE and PVP.',
+			'An Isle wallhack is an ESP overlay that shows enemy players and threats through terrain. The Isle Hacks wallhack includes distance readouts, team colours, and toggleable categories for PVE and PVP.',
 	},
 	{
-		question: 'Does theislehacks include a radar hack?',
+		question: 'Does The Isle Hacks include a radar hack?',
 		answer:
-			'Yes. theislehacks includes 2D radar-style overlays that highlight nearby threats outside your direct view — useful for reading flanks during hunts and map rotations.',
+			'Yes. The Isle Hacks includes 2D radar-style overlays that highlight nearby threats outside your direct view — useful for reading flanks during hunts and map rotations.',
 	},
 	{
-		question: 'How does Easy Anti-Cheat (EAC) affect theislehacks?',
+		question: 'How does Easy Anti-Cheat (EAC) affect The Isle Hacks?',
 		answer:
-			'Easy Anti-Cheat (EAC) monitors The Isle on Windows PC. theislehacks publishes maintenance notes after patches that may require a rebuild. Read the EAC bypass guide page for how updates are handled.',
+			'Easy Anti-Cheat (EAC) monitors The Isle on Windows PC. The Isle Hacks publishes maintenance notes after patches that may require a rebuild. Read the EAC bypass guide page for how updates are handled.',
 	},
 	{
 		question: 'Can I buy undetected Isle hacks for Windows PC?',
 		answer:
-			'Yes — theislehacks sells monthly and lifetime licenses for The Isle on Windows PC with ESP, radar, and Aimbot. Compare plans on Pricing and review the undetected guide before checkout.',
+			'Yes — The Isle Hacks sells monthly and lifetime licenses for The Isle on Windows PC with ESP, radar, and Aimbot. Compare plans on Pricing and review the undetected guide before checkout.',
 	},
 ] as const;
 
@@ -198,9 +198,9 @@ export const customerReviews = [
 		text: 'soft aim on hammer ar feels cracked ngl. took me like 20 mins to figure out the menu tho lol. once u get it its smooth',
 		short: 'soft aim on hammer ar feels cracked ngl. once u get the menu its smooth',
 		slug: 'rust-soft-aim-review-xkrypt0',
-		seoTitle: 'Soft Aim Review by @xKrypt0_FN — 5/5 | theislehacks',
+		seoTitle: 'Soft Aim Review by @xKrypt0_FN — 5/5 | The Isle Hacks',
 		seoDescription:
-			'Real theislehacks soft aim review from @xKrypt0_FN: 5/5 for soft aim feel after setup on Windows PC.',
+			'Real The Isle Hacks soft aim review from @xKrypt0_FN: 5/5 for soft aim feel after setup on Windows PC.',
 		date: '2026-07-24',
 		tag: 'Soft aim',
 	},
@@ -210,9 +210,9 @@ export const customerReviews = [
 		text: "esp boxes in zero build are actually useful, can see who's holding height before u push. radar could be bigger on 1080p — wish there was a size slider. still worth it for the price",
 		short: "esp boxes in zero build are actually useful, can see who's holding height before u push. still worth it for the price",
 		slug: 'rust-esp-zero-build-review-buildsr4k',
-		seoTitle: 'ESP monuments Review by @buildsR4K — 4/5 | theislehacks',
+		seoTitle: 'ESP monuments Review by @buildsR4K — 4/5 | The Isle Hacks',
 		seoDescription:
-			'Rust ESP review from @buildsR4K: 4/5 for ESP player boxes in monuments with radar feedback. Honest take on undetected theislehacks pricing and value.',
+			'Rust ESP review from @buildsR4K: 4/5 for ESP player boxes in monuments with radar feedback. Honest take on undetected The Isle Hacks pricing and value.',
 		date: '2026-07-19',
 		tag: 'monuments',
 	},
@@ -222,9 +222,9 @@ export const customerReviews = [
 		text: 'switched from a kernel only tool last season. cloud dma setup was easier than i expected, support walked me through the dma part on discord. survived the last eac update while my old sub got flagged. lifetime was the move',
 		short: 'cloud dma setup was easier than i expected. survived the last eac update while my old sub got flagged',
 		slug: 'rust-cloud-dma-review-dma-wizard',
-		seoTitle: 'Cloud DMA Review by @dma_wizard — 5/5 | theislehacks',
+		seoTitle: 'Cloud DMA Review by @dma_wizard — 5/5 | The Isle Hacks',
 		seoDescription:
-			'Cloud DMA theislehacks review from @dma_wizard: 5/5 after surviving an EAC update that flagged a kernel-only cheat. Setup help and lifetime license experience.',
+			'Cloud DMA The Isle Hacks review from @dma_wizard: 5/5 after surviving an EAC update that flagged a kernel-only cheat. Setup help and lifetime license experience.',
 		date: '2026-06-27',
 		tag: 'Cloud DMA',
 	},
@@ -234,9 +234,9 @@ export const customerReviews = [
 		text: "finally a fn cheat that doesn't feel like garbage on controller. soft aim with xbox pad works, had to tweak fov a bit. menu navigation with pad is kinda awkward but doable",
 		short: "finally a fn cheat that doesn't feel like garbage on controller. soft aim with xbox pad works",
 		slug: 'rust-controller-soft-aim-review-ctrl-player99',
-		seoTitle: 'Controller Soft Aim by @ctrl_player99 — 4/5 | theislehacks',
+		seoTitle: 'Controller Soft Aim by @ctrl_player99 — 4/5 | The Isle Hacks',
 		seoDescription:
-			'Controller Rust cheats review from @ctrl_player99: 4/5 for soft aim on an Xbox pad, FOV tweaks, and menu navigation in the theislehacks package.',
+			'Controller Rust cheats review from @ctrl_player99: 4/5 for soft aim on an Xbox pad, FOV tweaks, and menu navigation in the The Isle Hacks package.',
 		date: '2026-07-11',
 		tag: 'Controller',
 	},
@@ -246,9 +246,9 @@ export const customerReviews = [
 		text: 'features are good when it works. first launch took forever bc windows defender flagged the loader — not their fault but annoying. support replied in like 2 hours and sent a fix. esp and loot markers solid in ranked, just wish setup docs were clearer upfront',
 		short: 'features are good when it works. esp and loot markers solid in ranked, just wish setup docs were clearer upfront',
 		slug: 'rust-hack-setup-review-stormchaser07',
-		seoTitle: 'Setup Review by @stormChaser_07 — 3/5 | theislehacks',
+		seoTitle: 'Setup Review by @stormChaser_07 — 3/5 | The Isle Hacks',
 		seoDescription:
-			'Honest 3/5 theislehacks review from @stormChaser_07: ESP and loot markers solid in ranked, but first launch and setup docs needed support help.',
+			'Honest 3/5 The Isle Hacks review from @stormChaser_07: ESP and loot markers solid in ranked, but first launch and setup docs needed support help.',
 		date: '2026-06-15',
 		tag: 'Setup',
 	},
@@ -258,9 +258,9 @@ export const customerReviews = [
 		text: 'loot esp alone pays for monthly imo. chest markers + distance readouts = way faster off spawn',
 		short: 'loot esp alone pays for monthly imo. chest markers + distance readouts = way faster off spawn',
 		slug: 'rust-loot-esp-review-lootgoblinx',
-		seoTitle: 'Loot ESP Review by @lootGoblinx — 5/5 | theislehacks',
+		seoTitle: 'Loot ESP Review by @lootGoblinx — 5/5 | The Isle Hacks',
 		seoDescription:
-			'Rust loot ESP review from @lootGoblinx: 5/5 for chest markers and distance readouts off spawn. Why loot ESP alone justifies the monthly theislehacks license.',
+			'Rust loot ESP review from @lootGoblinx: 5/5 for chest markers and distance readouts off spawn. Why loot ESP alone justifies the monthly The Isle Hacks license.',
 		date: '2026-08-01',
 	},
 	{
@@ -269,7 +269,7 @@ export const customerReviews = [
 		text: 'been using since chapter 7 s2. soft aim profiles per weapon is nice — smg profile vs ar profile actually makes a diff in close fights. only complaint is updates page could show eta when eac patches hit, had to wait a day once',
 		short: 'soft aim profiles per weapon is nice — smg profile vs ar profile actually makes a diff in close fights',
 		slug: 'rust-soft-aim-ranked-review-rankedgrind42',
-		seoTitle: 'Ranked Soft Aim by @rankedGrind42 — 4/5 | theislehacks',
+		seoTitle: 'Ranked Soft Aim by @rankedGrind42 — 4/5 | The Isle Hacks',
 		seoDescription:
 			'Ranked Rust soft aim review from @rankedGrind42: 4/5 for per-weapon aimbot profiles since Chapter 7 Season 2, with feedback on EAC patch-day updates.',
 		date: '2026-07-07',
@@ -281,7 +281,7 @@ export const customerReviews = [
 		text: 'radar saved me so many times during monument rotations. seeing the third party before they slide in is huge in squads. boxes + radar combo is clean',
 		short: 'radar saved me so many times during monument rotations. boxes + radar combo is clean',
 		slug: 'rust-radar-hack-review-vanlifefn',
-		seoTitle: 'Radar Hack Review by @vanLifeFN — 5/5 | theislehacks',
+		seoTitle: 'Radar Hack Review by @vanLifeFN — 5/5 | The Isle Hacks',
 		seoDescription:
 			'Rust radar hack review from @vanLifeFN: 5/5 for 2D radar during monument rotations and spotting third parties in squads with ESP boxes.',
 		date: '2026-07-28',
@@ -293,9 +293,9 @@ export const customerReviews = [
 		text: 'every cheat goes down on patch day, thats life. difference here is they actually posted on updates within a few hours last patch. was back online next morning. elitefn left me hanging for 4 days once so yeah',
 		short: 'every cheat goes down on patch day, thats life. difference here is they actually posted on updates within a few hours',
 		slug: 'rust-eac-update-review-patchdaymike',
-		seoTitle: 'EAC Patch Review by @patchDayMike — 4/5 | theislehacks',
+		seoTitle: 'EAC Patch Review by @patchDayMike — 4/5 | The Isle Hacks',
 		seoDescription:
-			'EAC patch-day review from @patchDayMike: 4/5 for how fast theislehacks posts maintenance updates and gets the undetected cheat back online after patches.',
+			'EAC patch-day review from @patchDayMike: 4/5 for how fast The Isle Hacks posts maintenance updates and gets the undetected cheat back online after patches.',
 		date: '2026-06-09',
 		tag: 'EAC updates',
 	},
@@ -305,9 +305,9 @@ export const customerReviews = [
 		text: 'sniper soft aim profile + esp for tag = chef kiss. dont @ me',
 		short: 'sniper soft aim profile + esp for tag = chef kiss. dont @ me',
 		slug: 'rust-sniper-soft-aim-review-snipezonly',
-		seoTitle: 'Sniper Soft Aim by @snipezOnly_ — 5/5 | theislehacks',
+		seoTitle: 'Sniper Soft Aim by @snipezOnly_ — 5/5 | The Isle Hacks',
 		seoDescription:
-			'Rust sniper soft aim review from @snipezOnly_: 5/5 for the sniper aimbot profile paired with ESP tagging in the theislehacks package.',
+			'Rust sniper soft aim review from @snipezOnly_: 5/5 for the sniper aimbot profile paired with ESP tagging in the The Isle Hacks package.',
 		date: '2026-08-01',
 	},
 ] as const satisfies readonly CustomerReview[];
