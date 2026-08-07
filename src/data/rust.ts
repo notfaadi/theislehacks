@@ -1,13 +1,13 @@
 import { siteConfig } from './site';
 
 /**
- * The Isle cheats stills from theisle cheats reel. isle-* paths bust CDN cache.
+ * Product/gallery stills — Rust cheats ESP/aimbot screenshots (user-provided / dbd24f4 set). Brand copy stays The Isle Hacks.
  */
 
 /** Hero / product muted autoplay loop — 0:03–0:17 of the gameplay reel. */
 export const rustHeroVideo = {
 	src: '/videos/the-isle-cheats-preview.mp4',
-	poster: '/images/isle-hacks-hero.webp',
+	poster: '/images/rust-hacks-hero.webp',
 	title: 'The Isle Hacks hero background',
 	ariaLabel: 'The Isle Hacks gameplay background — short loop',
 } as const;
@@ -19,7 +19,7 @@ export const rustHeroVideo = {
 export const rustVideo = {
 	src: '/videos/the-isle-cheats-preview.mp4',
 	/** Distinct still — not the hero poster, so preview doesn't reuse the hero frame nearby. */
-	poster: '/images/isle-esp-hitbox.webp',
+	poster: '/images/rust-esp-hitbox.webp',
 	title: 'The Isle Hacks product preview',
 	ariaLabel: 'The Isle Hacks gameplay preview — ESP and aimbot on PC',
 	caption: 'The Isle Hacks gameplay video with ESP and aimbot',
@@ -28,49 +28,49 @@ export const rustVideo = {
 /** Gallery featured slot — full The Isle cheats gameplay video. */
 export const rustGalleryVideo = {
 	src: '/videos/the-isle-cheats.mp4',
-	poster: '/images/isle-esp-hitbox.webp',
+	poster: '/images/rust-esp-hitbox.webp',
 	title: 'The Isle Hacks gameplay video',
 	ariaLabel: 'The Isle Hacks full gameplay video — ESP and aimbot on PC',
 	caption: 'The Isle Hacks gameplay video with ESP and aimbot',
 } as const;
 
 export const rustImages = {
-	hero: '/images/isle-hacks-hero.webp',
-	cover: '/images/isle-esp-overlay.webp',
+	hero: '/images/rust-hacks-hero.webp',
+	cover: '/images/rust-esp-overlay.webp',
 	logo: siteConfig.logo,
-	loadoutBuilder: '/images/isle-aimbot-menu.webp',
-	aimbotCombat: '/images/isle-aimbot-menu.webp',
-	squadFight: '/images/isle-esp-bots.webp',
-	espWallhack: '/images/isle-esp-hitbox.webp',
-	cheatsPackage: '/images/isle-esp-overlay.webp',
-	headerArt: '/images/isle-esp-hitbox.webp',
-	battleRoyaleCombat: '/images/isle-esp-hitbox.webp',
-	rebootFight: '/images/isle-esp-bots.webp',
-	playerEsp: '/images/isle-esp-overlay.webp',
-	zeroBuildCombat: '/images/isle-hacks-hero.webp',
-	zeroBuildMode: '/images/isle-esp-bots.webp',
-	battleRoyaleIsland: '/images/isle-aimbot-menu.webp',
+	loadoutBuilder: '/images/rust-aimbot-menu.webp',
+	aimbotCombat: '/images/rust-aimbot-menu.webp',
+	squadFight: '/images/rust-esp-bots.webp',
+	espWallhack: '/images/rust-esp-hitbox.webp',
+	cheatsPackage: '/images/rust-esp-overlay.webp',
+	headerArt: '/images/rust-esp-hitbox.webp',
+	battleRoyaleCombat: '/images/rust-esp-hitbox.webp',
+	rebootFight: '/images/rust-esp-bots.webp',
+	playerEsp: '/images/rust-esp-overlay.webp',
+	zeroBuildCombat: '/images/rust-hacks-hero.webp',
+	zeroBuildMode: '/images/rust-esp-bots.webp',
+	battleRoyaleIsland: '/images/rust-aimbot-menu.webp',
 	/** Product thumbs — five unique stills; main media is video (see ProductCard). */
 	product: [
 		{
-			src: '/images/isle-esp-overlay.webp',
-			alt: 'The Isle Hacks player ESP with snaplines and entity labels',
+			src: '/images/rust-esp-overlay.webp',
+			alt: 'Rust ESP overlay showing players, loot, and distance tags',
 		},
 		{
-			src: '/images/isle-esp-bots.webp',
-			alt: 'The Isle Hacks speed boost overlay during a Tyrannosaurus hunt',
+			src: '/images/rust-esp-bots.webp',
+			alt: 'Rust ESP bots training range with distance and weapon labels',
 		},
 		{
-			src: '/images/isle-esp-hitbox.webp',
-			alt: 'The Isle Hacks ESP size tags and radar on PC',
+			src: '/images/rust-esp-hitbox.webp',
+			alt: 'Rust ESP hitbox box highlight on a player',
 		},
 		{
-			src: '/images/isle-aimbot-menu.webp',
-			alt: 'The Isle Hacks wireframe assist and instant rotation view',
+			src: '/images/rust-aimbot-menu.webp',
+			alt: 'Rust aimbot menu with silent aim and ESP boxes',
 		},
 		{
-			src: '/images/isle-hacks-hero.webp',
-			alt: 'The Isle Hacks target box and food nest ESP cues',
+			src: '/images/rust-hacks-hero.webp',
+			alt: 'Rust hacks hero view through optic with ESP skeleton',
 		},
 	],
 	/**
@@ -80,60 +80,60 @@ export const rustImages = {
 	 */
 	gallery: [
 		{
-			src: '/images/isle-aimbot-menu.webp',
-			alt: 'The Isle Hacks wireframe assist and instant rotation view',
+			src: '/images/rust-aimbot-menu.webp',
+			alt: 'Rust aimbot menu with silent aim and ESP boxes',
 		},
 		{
-			src: '/images/isle-esp-overlay.webp',
-			alt: 'The Isle Hacks player ESP with snaplines and entity labels',
+			src: '/images/rust-esp-overlay.webp',
+			alt: 'Rust ESP overlay showing players, loot, and distance tags',
 		},
 		{
-			src: '/images/isle-esp-bots.webp',
-			alt: 'The Isle Hacks speed boost overlay during a Tyrannosaurus hunt',
+			src: '/images/rust-esp-bots.webp',
+			alt: 'Rust ESP bots training range with distance and weapon labels',
 		},
 		{
-			src: '/images/isle-esp-hitbox.webp',
-			alt: 'The Isle Hacks ESP size tags and radar on PC',
+			src: '/images/rust-esp-hitbox.webp',
+			alt: 'Rust ESP hitbox box highlight on a player',
 		},
 		{
-			src: '/images/isle-hacks-hero.webp',
-			alt: 'The Isle Hacks target box and food nest ESP cues',
+			src: '/images/rust-hacks-hero.webp',
+			alt: 'Rust hacks hero view through optic with ESP skeleton',
 		},
 		{
-			src: '/images/isle-recoil-trainer.webp',
-			alt: 'The Isle Hacks instant growth overlay in jungle gameplay',
+			src: '/images/rust-recoil-trainer.webp',
+			alt: 'Rust wallhack ESP still for gallery',
 		},
 	],
 	sitemap: [
 		{
-			src: '/images/isle-hacks-hero.webp',
+			src: '/images/rust-hacks-hero.webp',
 			title: 'The Isle Hacks | ESP & Aimbot',
-			caption: 'The Isle Hacks target box and food nest ESP cues',
+			caption: 'Rust hacks hero view through optic with ESP skeleton',
 		},
 		{
-			src: '/images/isle-esp-overlay.webp',
+			src: '/images/rust-esp-overlay.webp',
 			title: 'Isle ESP overlay',
-			caption: 'The Isle Hacks player ESP with snaplines and entity labels',
+			caption: 'Rust ESP overlay showing players, loot, and distance tags',
 		},
 		{
-			src: '/images/isle-esp-bots.webp',
+			src: '/images/rust-esp-bots.webp',
 			title: 'Isle survival landscape',
-			caption: 'The Isle Hacks speed boost overlay during a Tyrannosaurus hunt',
+			caption: 'Rust ESP bots training range with distance and weapon labels',
 		},
 		{
-			src: '/images/isle-esp-hitbox.webp',
+			src: '/images/rust-esp-hitbox.webp',
 			title: 'Isle predator view',
-			caption: 'The Isle Hacks ESP size tags and radar on PC',
+			caption: 'Rust ESP hitbox box highlight on a player',
 		},
 		{
-			src: '/images/isle-aimbot-menu.webp',
+			src: '/images/rust-aimbot-menu.webp',
 			title: 'Isle pack roam',
-			caption: 'The Isle Hacks wireframe assist and instant rotation view',
+			caption: 'Rust aimbot menu with silent aim and ESP boxes',
 		},
 		{
-			src: '/images/isle-recoil-trainer.webp',
+			src: '/images/rust-recoil-trainer.webp',
 			title: 'Isle wilderness',
-			caption: 'The Isle Hacks instant growth overlay in jungle gameplay',
+			caption: 'Rust wallhack ESP still for gallery',
 		},
 	],
 } as const;
