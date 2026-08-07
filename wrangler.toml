@@ -1,9 +1,12 @@
-name = "theislehacks"
+﻿name = "theislehacks"
 compatibility_date = "2026-01-01"
 
 # Cloudflare Git deploy runs `wrangler deploy` (Workers + static assets).
 # Old Pages-only key `pages_build_output_dir` is ignored there and caused:
 # "Missing entry-point to Worker script or to assets directory"
+# IMPORTANT: Deploy Worker `theislehacks` from `main` only (The Isle Hacks).
+# Do not bind branch `apexlegendshacks` to this Worker — that overwrote production
+# with Apex Legends content on 2026-08-07.
 [assets]
 directory = "./dist"
 not_found_handling = "404-page"
