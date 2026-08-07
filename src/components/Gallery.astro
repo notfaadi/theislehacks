@@ -1,5 +1,5 @@
 ---
-import { rustImages, rustVideo } from '../data/rust';
+import { rustImages, rustGalleryVideo } from '../data/rust';
 import { getUi } from '../data/i18n';
 import { getGalleryUi } from '../data/i18n/gallery-ui';
 import { defaultLocale, type LocaleCode } from '../data/i18n/locales';
@@ -40,7 +40,7 @@ const featuredStill = {
 	srcset: contentSrcSet(featuredStillSrc),
 	alt: ui.images.aimbotCombat,
 } as const;
-const galleryPoster = contentSrc(rustVideo.poster);
+const galleryPoster = contentSrc(rustGalleryVideo.poster);
 ---
 
 <section class="gallery" id="gallery" aria-labelledby="gallery-title">
@@ -81,17 +81,17 @@ const galleryPoster = contentSrc(rustVideo.poster);
 				<figure class="gallery__featured gallery__video media-frame">
 					<video
 						data-rust-hacks-video="lazy"
-						data-src={rustVideo.src}
+						data-src={rustGalleryVideo.src}
 						poster={galleryPoster}
 						muted={true}
 						loop
 						playsinline
 						webkit-playsinline
 						preload="none"
-						title={rustVideo.title}
-						aria-label={rustVideo.ariaLabel}
+						title={rustGalleryVideo.title}
+						aria-label={rustGalleryVideo.ariaLabel}
 					></video>
-					<figcaption>{rustVideo.caption}</figcaption>
+					<figcaption>{rustGalleryVideo.caption}</figcaption>
 				</figure>
 
 				<div class="gallery__grid">

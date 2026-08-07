@@ -5,25 +5,33 @@ import { siteConfig } from './site';
  * existing SEO filenames so hero/gallery/OG paths stay stable.
  */
 
-/** Trimmed hero loop — first ~6s of the background clip. */
+/** Hero / product muted autoplay loop — 0:03–0:17 of the gameplay reel. */
 export const rustHeroVideo = {
-	src: '/videos/rust-hacks-hero-6s.mp4',
+	src: '/videos/the-isle-cheats-preview.mp4',
 	poster: '/images/rust-hacks-hero.webp',
 	title: 'The Isle Hacks hero background',
 	ariaLabel: 'The Isle Hacks gameplay background — short loop',
 } as const;
 
 /**
- * Product / gallery preview loop.
- * Uses the trimmed ~6s clip (~260KB) — the full background MP4 is ~15MB and
- * destroyed mobile Lighthouse when autoplayed with preload=auto.
+ * Home product card preview loop (same 0:03–0:17 clip as the hero).
+ * Keep this short for muted autoplay; gallery uses the full reel below.
  */
 export const rustVideo = {
-	src: '/videos/rust-hacks-hero-6s.mp4',
+	src: '/videos/the-isle-cheats-preview.mp4',
 	/** Distinct still — not the hero poster, so preview doesn't reuse the hero frame nearby. */
 	poster: '/images/rust-esp-hitbox.webp',
-	title: 'The Isle Hacks background video',
+	title: 'The Isle Hacks product preview',
 	ariaLabel: 'The Isle Hacks gameplay preview — ESP and aimbot on PC',
+	caption: 'The Isle Hacks gameplay video with ESP and aimbot',
+} as const;
+
+/** Gallery featured slot — full The Isle cheats gameplay video. */
+export const rustGalleryVideo = {
+	src: '/videos/the-isle-cheats.mp4',
+	poster: '/images/rust-esp-hitbox.webp',
+	title: 'The Isle Hacks gameplay video',
+	ariaLabel: 'The Isle Hacks full gameplay video — ESP and aimbot on PC',
 	caption: 'The Isle Hacks gameplay video with ESP and aimbot',
 } as const;
 
