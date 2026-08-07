@@ -18,19 +18,11 @@ const ui = getUi(locale);
 const gallery = getGalleryUi(locale);
 
 // Featured media = full gameplay video. Grid stills below; large filler still under grid.
-const galleryAlts = [
-	ui.images.squadFight,
-	ui.images.cheatsPackage,
-	ui.images.battleRoyaleIsland,
-	ui.images.headerArt,
-	ui.images.espWallhack,
-	undefined,
-] as const;
-
-const tiles = rustImages.gallery.map((image, index) => ({
+// Use rustImages alts (The Isle) — not i18n strings that still say "Rust" in some locales.
+const tiles = rustImages.gallery.map((image) => ({
 	src: contentSrc(image.src),
 	srcset: contentSrcSet(image.src),
-	alt: galleryAlts[index] ?? image.alt,
+	alt: image.alt,
 }));
 
 /** Large still under the grid — fills leftover media-column height. Not the last grid tile. */
@@ -38,7 +30,7 @@ const featuredStillSrc = '/images/rust-aimbot-menu.webp';
 const featuredStill = {
 	src: contentSrc(featuredStillSrc),
 	srcset: contentSrcSet(featuredStillSrc),
-	alt: ui.images.aimbotCombat,
+	alt: rustImages.gallery[0]?.alt ?? 'The Isle dinosaur pack roaming the island',
 } as const;
 const galleryPoster = contentSrc(rustGalleryVideo.poster);
 ---
